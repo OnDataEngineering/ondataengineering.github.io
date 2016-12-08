@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 22 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://ondataengineering.net/404.html</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/atom.xml</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/site/content-license/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/site/contributing/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/feed.xml</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/humans.txt</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/site/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/robots.txt</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/site/search/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/sitemap.xml</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-categories/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-vendors/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/discourse_feed.xml</loc>
+	
+		<lastmod>2016-12-08T08:03:02+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+
+  <!-- posts: 1 links with priority=0.5, changefreq=daily -->
+
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2016/12/07/welcome/</loc>
+	
+		<lastmod>2016-12-07T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+
+  <!-- tech-categories: 0 links with priority=0.5, changefreq=daily -->
+
+
+
+  <!-- tech-vendors: 0 links with priority=0.5, changefreq=daily -->
+
+
+
+  <!-- technologies: 0 links with priority=0.5, changefreq=daily -->
+
+
+
+
+</urlset>

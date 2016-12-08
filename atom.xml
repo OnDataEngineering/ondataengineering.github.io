@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://ondataengineering.net/</id>
+	<title>OnDataEngineering</title>
+	<updated>2016-12-08T08:03:02+00:00</updated>
+
+	<subtitle>A collaborative site for independent, critical and technical thinking on the use cases, architectural patterns and technologies relating to the transformation and preparation of data for exploitation.</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Peter</name>
+			
+			
+				<uri>http://ondataengineering.net/</uri>
+			
+		</author>
+	
+
+	<link href="http://ondataengineering.net/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://ondataengineering.net/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://ondataengineering.net/blog/2016/12/07/welcome/</id>
+			<title>Welcome</title>
+			<link href="http://ondataengineering.net/blog/2016/12/07/welcome/" rel="alternate" type="text/html" title="Welcome" />
+			<updated>2016-12-07T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Peter</name>
+					
+					
+						<uri>http://ondataengineering.net/</uri>
+					
+				</author>
+			
+			<content type="html" xml:base="http://ondataengineering.net/blog/2016/12/07/welcome/">&lt;p&gt;For me, one of the biggest challenges in exploiting data (be that through reporting, big data analytics, machine learning or any one of a dozen similar capabilities) is making sure you have the right data in the right place at the right time to allow you to do this efficiently.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, &lt;a href=&quot;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html&quot;&gt;this&lt;/a&gt; article from the New York Times and &lt;a href=&quot;http://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/&quot;&gt;this&lt;/a&gt; more recent one from Forbes talks about how the analysis of big data promises unique business insights, but for big-data scientists there is significant manual ‘janitor work’ (up to 80% of their time) required to prepare data, and although the research is sponsored by Data Wrangling tool vendors, the conclusions will resonate with many data scientists.  Combine this with the historical cost, delivery speed and agility issues typically associated with delivery data warehouse or reporting solutions, and for me it’s never been clearer that we need to get smarter at how we prepare and manage data.&lt;/p&gt;
+
+&lt;p&gt;Part of the solution to this is better Data Engineering, ensuring the processes, tools, technologies, data platforms, regular data feeds and their data preparation jobs are in place to allow the data to be exploited in an efficient, reliable and repeatable way.  The aim of this site is therefore to try to offer independent, critical and technical thinking on the technologies, architectural patterns and delivery capabilities that can help address this.&lt;/p&gt;
+
+&lt;p&gt;My hope is that this becomes a community owned and authored site of trusted reference material on these topics.  To that end, all the content on this site is licensed under the Creative Commons Attribution 4.0 International License and hosted in a public GitHub repository, and there are a set of Discourse forums for discussions. Details of how to contribute and get involved can be found on every page.&lt;/p&gt;
+</content>
+
+			
+				<category term="Site" />
+			
+			
+
+			<published>2016-12-07T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
