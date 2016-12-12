@@ -63,7 +63,7 @@
 
 &lt;p&gt;This site currently hosts a catalog of technologies that fit within this space, organised &lt;a href=&quot;/technologies/&quot;&gt;alphabetically&lt;/a&gt;, &lt;a href=&quot;/tech-categories/&quot;&gt;by category&lt;/a&gt; and &lt;a href=&quot;/tech-vendors/&quot;&gt;by vendor&lt;/a&gt;.  We also have a &lt;a href=&quot;/blog/&quot;&gt;blog&lt;/a&gt; that covers updates to the site as well as industry news, and a set of &lt;a href=&quot;http://discourse.ondataengineering.net&quot;&gt;forums&lt;/a&gt; .&lt;/p&gt;
 
-&lt;p&gt;In the future it is planned for this site to also look at key use cases for different technologies within the Data Engineering space along with a set of independent, technical and critical evaluations of various technologies and architectural patterns against these. Please see the &lt;a href=&quot;/blog/xxx.html&quot;&gt;introduction&lt;/a&gt; blog post for further details.&lt;/p&gt;
+&lt;p&gt;In the future it is planned for this site to also look at key use cases for different technologies within the Data Engineering space along with a set of independent, technical and critical evaluations of various technologies and architectural patterns against these. Please see the &lt;a href=&quot;/blog/2016/12/12/the-plan/&quot;&gt;introduction&lt;/a&gt; blog post for further details.&lt;/p&gt;
 
 &lt;p&gt;This is a community owned and authored site.  All the content on this site is licensed under a Creative Commons Attribution license (see &lt;a href=&quot;/site/content-license/&quot;&gt;here&lt;/a&gt; for details) and the content of the site is hosted in a public GitHub repository &lt;a href=&quot;https://github.com/OnDataEngineering/OnDataEngineeringContent&quot;&gt;here&lt;/a&gt;, with contributions welcomed (see &lt;a href=&quot;/site/contributing/&quot;&gt;here&lt;/a&gt; for details).&lt;/p&gt;
 
@@ -126,6 +126,45 @@
 &lt;p&gt;Secondly, I think there’s been a lot of misinformation about Big Data and Big Data technologies. It’s not a replacement for existing BI/MI and analytical capabilities, and in fact needs to coexist and integrate with these in order to deliver on its promises. It’s not always cheaper or more performant than existing technologies, and won’t always reduce the timescales and costs for analytics or data exploration. And it’s not a new or innovative technology -  I know of companies that were analysing multi-petabyte data stores and doing real time analytics over ten years ago, parallel distributed file systems have been around for a lot longer than that, and there are many established technologies that have data processing capabilities that the new technologies are only just starting to catch up to.&lt;/p&gt;
 
 &lt;p&gt;In terms of this site the plan is to look at the wider picture and take an holistic view of data transformation and exploitation.  I’ve therefore no plans to talk explicitly about Big Data, but in looking at the wider picture we will absolutely cover everything relating to it (the technologies and the new use cases these enable) alongside coverage of other new technologies, more established technologies and capabilities, and the interesting intersection between them all.&lt;/p&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>The Plan</title>
+				<link>http://ondataengineering.net/blog/2016/12/12/the-plan/</link>
+				<description>&lt;p&gt;One more post before we get started.&lt;/p&gt;
+
+&lt;p&gt;The following are my current thoughts for some of the topics I’d like to cover on this site, both as a reference for my future self to look back at my naive optimism, but also if anyone wants to start contributing to any of these now, or to start a discussion on any the later topics to start framing and exploring them.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;theme-1---the-technology-catalogue&quot;&gt;Theme 1 - the technology catalogue&lt;/h2&gt;
+
+&lt;p&gt;The plan here is to start building up a technology catalogue by looking at the key vendors in the Data Engineering space. This will only be a start on the technologies I’d expect to see in our catalogue however, so once this is done the plan is to then go through by technology category to complete the catalogue.&lt;/p&gt;
+
+&lt;p&gt;I’d also like to look at providing a concise yet detailed introduction to some technologies that describes exactly what it is, how it works, and what the key features are.  So much material that can be found on the internet is marketing material that glosses over the information I’m interested in knowing to understand whether a technology might meet my use cases and integrate into my environment, and my hope is that I can use this site to address that.&lt;/p&gt;
+
+&lt;h2 id=&quot;theme-2---data-engineering-use-cases&quot;&gt;Theme 2 - data engineering use cases&lt;/h2&gt;
+
+&lt;p&gt;One thing I don’t want to do on this site is define another data ecosystem architecture - there are too many already, most of them are designed to sell specific technologies, and none of them will fit the range of different requirements and constraints that different organisations will have.&lt;/p&gt;
+
+&lt;p&gt;However, what I do want to do is look at the range of different of different use cases that you might use data engineering technologies for, from a Data Lake (and we’ll look at what that overloaded term actually means) to a Data Warehouse (and why they’re still relevant), from the acquisition of data to the preparation of a Query Focused Dataset, and from the management of a data catalogue to the monitoring of data quality metrics.&lt;/p&gt;
+
+&lt;p&gt;I’d then like to look at how different technologies and architectural patterns can support these use cases - how do you implement a Data Lake using Hadoop, what technologies support data governance and data catalogues, and how do the various streaming frameworks compare.&lt;/p&gt;
+
+&lt;p&gt;As part of this I also want to look at the core principles behind Data Transformation, what state of the art in this space looks like, and how the established enterprise technologies compare to the new Open Source upstarts.&lt;/p&gt;
+
+&lt;h2 id=&quot;theme-3---delivery&quot;&gt;Theme 3 - delivery&lt;/h2&gt;
+
+&lt;p&gt;As if the above isn’t already massively ambitious enough, I’d also like to talk about the delivery of data solutions, including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How we can use best practice delivery concepts (e.g. configuration management, continuous integration and testing, automated deployment, infrastructure and database management) and what these mean within a data solution&lt;/li&gt;
+  &lt;li&gt;How we can bring some the new best practices from Lean and Agile into the data space, and what data transformation tools need to do in order to be able to support this&lt;/li&gt;
+  &lt;li&gt;Why data projects can have a reputation for late delivery, cost overruns, poor quality data and a high cost of change, and what can be done about this&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I think that will more than do us.  Getting through that lot will take some time, but with help and contributions I think this site could be hugely valuable.&lt;/p&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
 			</item>
