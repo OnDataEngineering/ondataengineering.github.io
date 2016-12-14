@@ -169,5 +169,42 @@
 				<discourse_author>Peter</discourse_author>
 			</item>
 			
+			<item>
+				<title>The Technology Catalogue</title>
+				<link>http://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</link>
+				<description>&lt;p&gt;The first step in this journey is going to be creation of a catalogue of the technologies that are going to be of interest to us as we explore the world of data engineering.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;The aim is to provide a valuable reference for anyone starting a technology evaluation to understand what technology options they might have for a given situation, or to understand if and how a technology might fit into an existing ecosystem.&lt;/p&gt;
+
+&lt;p&gt;For each technology, the plan is therefore to provide a short summary describing the technology, along with its background and current status.  As mentioned in my previous post, for some technologies, I also want to do a deep dive to provide a longer summary with more detail that gives a solid introduction to the technology, and my hope is that we’ll get contributions to provide these for the vast majority of the technologies that I won’t get time to look at.&lt;/p&gt;
+
+&lt;p&gt;As part of this we’ll need to look at providing a categorisation of technologies, although making this useful is going to be challenging given that multiple categories of technologies could be used to meet a given use case.  The technologies we’ll look at broadly fall into three groups however:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Data Transformation tools, be they one of the established commercial products or a new Open Source technology&lt;/li&gt;
+  &lt;li&gt;Data Platforms, be they a traditional relational database, an Hadoop based data platform, a real time broker such as Kafka, or a NoSQL data platform&lt;/li&gt;
+  &lt;li&gt;Technologies that address the other supporting capabilities around these, such as data catalogues or metadata management&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The plan is to start by looking at the key vendors in the Data Engineering space including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The pure play Hadoop distributions - Apache Big Top, Hortonworks, Cloudera and MapR&lt;/li&gt;
+  &lt;li&gt;The rest of the Apache Data Engineering ecosystem&lt;/li&gt;
+  &lt;li&gt;The major Cloud vendors - Amazon, Google and Azure&lt;/li&gt;
+  &lt;li&gt;The big multi play vendors - IBM, Oracle, Teradata, Microsoft, Pivotal, SAP and SAS&lt;/li&gt;
+  &lt;li&gt;The big specialist commercial data integration vendors - Ab Initio and Informatica&lt;/li&gt;
+  &lt;li&gt;Other commercial data integration and data platform vendors - perhaps based at least partially on looking at the latest Gartner and Forrester reports&lt;/li&gt;
+  &lt;li&gt;The major open source cloud scale companies, if only to see what they do in this space - Facebook, Netflix, LinkedIn, Google, Yahoo, eBay and Twitter&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This will only be a start on the technologies I’d expect to see in our catalogue however, so once this is done the plan is to then go through by technology category.&lt;/p&gt;
+
+&lt;p&gt;This is obviously going to take some time given the vast range of technologies, so if you’re interested in contributing in whatever form, if you spot any issues or omissions, or if you have any comments you’d like to add, then please do share your thoughts.&lt;/p&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
 	</channel>
 </rss>
