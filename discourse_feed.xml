@@ -206,5 +206,98 @@
 				<discourse_author>Peter</discourse_author>
 			</item>
 			
+			<item>
+				<title>Apache Hadoop</title>
+				<link>http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</link>
+				<description>&lt;p&gt;And so we begin our journey through the jungle of Data Engineering technologies by looking at the technology du jour - Apache Hadoop.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s an entire ecosystem here that we’ll start to explore by looking at the major Hadoop vendors, but the first entries in our technology catalogue are the &lt;a href=&quot;/technologies/apache-hadoop/&quot;&gt;Apache Hadoop&lt;/a&gt; project itself, along with its sub-projects: &lt;a href=&quot;/technologies/apache-hadoop/yarn/&quot;&gt;YARN&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hadoop/hdfs/&quot;&gt;HDFS&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hadoop/map-reduce/&quot;&gt;MapReduce&lt;/a&gt;. Click on the links to view the technology information I’ve added to the site.&lt;/p&gt;
+
+&lt;p&gt;This also brings our first technology vendor - the &lt;a href=&quot;/tech-vendors/apache/&quot;&gt;Apache Software Foundation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And with that it’s time for Christmas!  We’ll be back in three weeks with the first of the core technologies within the Hadoop space.&lt;/p&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>The Apache Software Foundation</title>
+				<link>http://ondataengineering.net/tech-vendors/apache/</link>
+				<description>&lt;p&gt;The Apache Software Foundation is a non-profit organisation that supports a wide range of open source projects, including providing and mandating a standard governance model (including the use of the Apache license), holding all trademarks for project names and logos, and providing legal protection to developers.  It was founded in 1999 and now oversees nearly 200 projects.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apache.org/&quot;&gt;https://www.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apache.org/foundation/how-it-works.html&quot;&gt;https://www.apache.org/foundation/how-it-works.html&lt;/a&gt; - information on the foundation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://apache.org/foundation/mailinglists.html#foundation-announce&quot;&gt;http://apache.org/foundation/mailinglists.html#foundation-announce&lt;/a&gt; - the Apache Foundation announcements mailing list&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/&quot;&gt;https://blogs.apache.org/&lt;/a&gt;; &lt;a href=&quot;https://blogs.apache.org/planet/feed/entries/rss&quot;&gt;https://blogs.apache.org/planet/feed/entries/rss&lt;/a&gt; - The set of Apache Foundation blogs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Hadoop</title>
+				<link>http://ondataengineering.net/technologies/apache-hadoop/</link>
+				<description>&lt;p&gt;A distributed storage and compute platform consisting of a distributed filesystem (HDFS) and a cluster workload and resource management layer (YARN), along with MapReduce, a solution built on HDFS and YARN for massive scale parallel processing of data. Has an extensive ecosystem of compatible technologies. An Apache Open Source project, started in January 2006 as a Lucene sub-project, becoming a top level project in January 2008, with a 1.0 release in December 2011 (containing HDFS and MapReduce), and a 2.2 release (the first 2.x GA release) in October 2013 (adding YARN). Very active, with a deep and broad range of contributors, and backing from multiple commercial vendors.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/&quot;&gt;http://hadoop.apache.org/&lt;/a&gt; - Project Homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/releases.html&quot;&gt;http://hadoop.apache.org/releases.html&lt;/a&gt; - full release history&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704&quot;&gt;https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704&lt;/a&gt; - history of Hadoop&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&quot;&gt;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&lt;/a&gt; - summary of the technologies in the common Hadoop distributions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/&quot;&gt;http://hadoop.apache.org/&lt;/a&gt; - project updates and releases&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>HDFS</title>
+				<link>http://ondataengineering.net/technologies/apache-hadoop/hdfs/</link>
+				<description>&lt;p&gt;A highly resilient distributed cluster file system proven at extreme scale that supports user authentication, extended ACLs, snapshots, quotas, central caching, a REST API, an NFS gateway, rolling upgrades, transparent encryption and heterogeneous storage. Part of the original Hadoop code base, becoming an Apache Hadoop sub-project in July 2009.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html&lt;/a&gt; - HDFS documentation home&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/&quot;&gt;http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/&lt;/a&gt; - good intro the the architecture of HDFS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>MapReduce</title>
+				<link>http://ondataengineering.net/technologies/apache-hadoop/map-reduce/</link>
+				<description>&lt;p&gt;A data transformation and aggregation technology proven at extreme scale that works on key value pairs and consists of three transformation stages - map (a general transformation of the input key value pairs), shuffle (brings all pairs with the same key together) and reduce (an aggregation of all pairs with the same key). Part of the original Hadoop code base, becoming an Apache Hadoop sub-project in July 2009.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html&lt;/a&gt; - MapReduce tutorial and documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>YARN</title>
+				<link>http://ondataengineering.net/technologies/apache-hadoop/yarn/</link>
+				<description>&lt;p&gt;Resource management and job scheduling &amp; monitoring for the Hadoop ecosystem.  Includes support for capacity guarantees amongst other scheduling options. Added as an Apache Hadoop sub-project as part of Hadoop 2.x (with a GA release as part of 2.2 in October 2013) having been started in January 2008.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&lt;/a&gt; - YARN architecture overview and documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
 	</channel>
 </rss>

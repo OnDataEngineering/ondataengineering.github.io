@@ -7,7 +7,7 @@
 	<url>
 	<loc>http://ondataengineering.net/404.html</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -26,7 +26,7 @@
 	<url>
 	<loc>http://ondataengineering.net/atom.xml</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -41,7 +41,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://ondataengineering.net/feed.xml</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://ondataengineering.net/humans.txt</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -103,7 +103,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -118,7 +118,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -133,7 +133,7 @@
 	<url>
 	<loc>http://ondataengineering.net/.nojekyll</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -148,7 +148,7 @@
 	<url>
 	<loc>http://ondataengineering.net/robots.txt</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -163,7 +163,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -178,7 +178,7 @@
 	<url>
 	<loc>http://ondataengineering.net/sitemap.xml</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -193,7 +193,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -208,7 +208,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -223,7 +223,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -246,7 +246,7 @@
 	<url>
 	<loc>http://ondataengineering.net/discourse_feed.xml</loc>
 	
-		<lastmod>2016-12-14T18:19:46+00:00</lastmod>
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -259,7 +259,7 @@
 
 
 
-  <!-- posts: 4 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 5 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -321,17 +321,107 @@
 	</url>
 	
 
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</loc>
+	
+		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
 
 
   <!-- tech-categories: 0 links with priority=0.5, changefreq=daily -->
 
 
 
-  <!-- tech-vendors: 0 links with priority=0.5, changefreq=daily -->
+  <!-- tech-vendors: 1 links with priority=0.5, changefreq=daily -->
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-vendors/apache/</loc>
+	
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
 
-  <!-- technologies: 0 links with priority=0.5, changefreq=daily -->
+  <!-- technologies: 4 links with priority=0.5, changefreq=daily -->
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-hadoop/</loc>
+	
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-hadoop/hdfs/</loc>
+	
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-hadoop/map-reduce/</loc>
+	
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-hadoop/yarn/</loc>
+	
+		<lastmod>2016-12-16T17:11:13+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
 

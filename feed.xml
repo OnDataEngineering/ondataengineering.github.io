@@ -7,6 +7,22 @@
 		<atom:link href="http://ondataengineering.net/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Apache Hadoop</title>
+				<link>http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</link>
+				<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;And so we begin our journey through the jungle of Data Engineering technologies by looking at the technology du jour - Apache Hadoop.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s an entire ecosystem here that we’ll start to explore by looking at the major Hadoop vendors, but the first entries in our technology catalogue are the &lt;a href=&quot;/technologies/apache-hadoop/&quot;&gt;Apache Hadoop&lt;/a&gt; project itself, along with its sub-projects: &lt;a href=&quot;/technologies/apache-hadoop/yarn/&quot;&gt;YARN&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hadoop/hdfs/&quot;&gt;HDFS&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hadoop/map-reduce/&quot;&gt;MapReduce&lt;/a&gt;. Click on the links to view the technology information I’ve added to the site.&lt;/p&gt;
+
+&lt;p&gt;This also brings our first technology vendor - the &lt;a href=&quot;/tech-vendors/apache/&quot;&gt;Apache Software Foundation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And with that it’s time for Christmas!  We’ll be back in three weeks with the first of the core technologies within the Hadoop space.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</guid>
+			</item>
+		
+			<item>
 				<title>The Technology Catalogue</title>
 				<link>http://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</link>
 				<pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
