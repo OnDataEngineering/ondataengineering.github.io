@@ -22,36 +22,36 @@
 			<item>
 				<title>Contributing</title>
 				<link>http://ondataengineering.net/site/contributing/</link>
-				<description>&lt;p&gt;&lt;a href=&quot;http://ondataengineering.net&quot;&gt;OnDataEngineering&lt;/a&gt; is an open collaborative site, and lives on your contributions and participation in the community around the site.  So welcome, it’s good to see you - can we suggest that a good place to start is  the &lt;a href=&quot;/site/&quot;&gt;site information&lt;/a&gt; for more details on who we are and what we’re trying to do.&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&quot;http://ondataengineering.net&quot;&gt;OnDataEngineering&lt;/a&gt; is an open collaborative site, and lives on your contributions and participation in the community around the site.  So welcome, it?s good to see you - can we suggest that a good place to start is the &lt;a href=&quot;/site/&quot;&gt;site information&lt;/a&gt; for more details on who we are and what we?re trying to do.&lt;/p&gt;
 
-&lt;p&gt;And before you go any further, can we ask you to sign up to our &lt;a href=&quot;http://discourse.ondataengineering.net&quot;&gt;Discourse forums&lt;/a&gt;. You’ll get updates on changes to the site, notifications of popular discussions, and can use this to discuss anything relating to this site including how you can help and contribute.  While you’re there, please take a read of the &lt;a href=&quot;http://discourse.ondataengineering.net/t/welcome-to-discourse&quot;&gt;welcome post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;And before you go any further, can we ask you to sign up to our &lt;a href=&quot;http://discourse.ondataengineering.net&quot;&gt;Discourse forums&lt;/a&gt;. You?ll get updates on changes to the site, notifications of popular discussions, and can use this to discuss anything relating to this site including how you can help and contribute.  While you?re there, please take a read of the &lt;a href=&quot;http://discourse.ondataengineering.net/t/welcome-to-discourse&quot;&gt;welcome post&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Once you’ve done that, we’d welcome your help in building out the content on this site and making it a fantastic resource.  All submission of content is welcomed, and we pride ourselves on being friendly and welcoming place if you want to get involved. The following are a number of ways you can contribute:&lt;/p&gt;
+&lt;p&gt;Once you?ve done that, we?d welcome your help in building out the content on this site and making it a fantastic resource.  All submission of content is welcomed, and we pride ourselves on being friendly and welcoming place if you want to get involved. The following are a number of ways you can contribute:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
-    &lt;p&gt;Discuss the contents of any page or blog post by clicking on the discuss button next to the page title or the link in the sidebar. Your thoughts, comments and feedback on what’s written on this site will make it’s content better.&lt;/p&gt;
+    &lt;p&gt;Discuss the contents of any page or blog post by clicking on the discuss button next to the page title or the link in the sidebar. Your thoughts, comments and feedback on what?s written on this site will make it?s content better.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;If you see typos, errors or omissions, or have information to add, edit the contents of any page by clicking on the edit button next to the page title or the link in the sidebar.  This is literally a 30 second process for submitting changes, and will help make the contents of this site better.  These edit links will take you to a GitHub edit page (you’ll need to login or create a login to GitHub first) - make your changes, fill in a description of your change in the form at the bottom of the page and click “Propose the change”, and then on the next screen click “Create pull request” twice and you’re done.&lt;/p&gt;
+    &lt;p&gt;If you see typos, errors or omissions, or have information to add, edit the contents of any page by clicking on the edit button next to the page title or the link in the sidebar.  This is literally a 30 second process for submitting changes, and will help make the contents of this site better.  These edit links will take you to a GitHub edit page (you?ll need to login or create a login to GitHub first) - make your changes, fill in a description of your change in the form at the bottom of the page and click ?Propose the change?, and then on the next screen click ?Create pull request? twice and you?re done.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;As well as editing pages, you can also create new pages by clicking on the create button next to the page title or the link in the sidebar on the main index pages (for example &lt;a href=&quot;/technologies&quot;&gt;here&lt;/a&gt;).  The process is exactly the same as editing a page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;If you have any industry news you think we should be aware of then please send it to us as &lt;a href=&quot;mailto:news@ondataengineering.net&quot;&gt;news@ondataengineering.net&lt;/a&gt;. We follow the blogs and web pages listed in the News sections on each technology page, but there’s always a chance we’ll miss stuff, and we may not hear about technologies not yet listed on the site.&lt;/p&gt;
+    &lt;p&gt;If you have any industry news you think we should be aware of then please send it to us as &lt;a href=&quot;mailto:news@ondataengineering.net&quot;&gt;news@ondataengineering.net&lt;/a&gt;. We follow the blogs and web pages listed in the News sections on each technology page, but there?s always a chance we?ll miss stuff, and we may not hear about technologies not yet listed on the site.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;With blog posts, feel free to correct typos or mistakes. If you have a blog post you’d like us to host please feel free to send us one via a pull request, however it’s worth getting in touch first via e-mail or the discussion forums, and we reserve the right to only take blog posts we feel are a good fit (posts trying to push specific technologies or copies of posts from elsewhere are generally not). Blog posts should be thought pieces; if you have factual information that fits elsewhere in the site please contribute it there.&lt;/p&gt;
+    &lt;p&gt;With blog posts, feel free to correct typos or mistakes. If you have a blog post you?d like us to host please feel free to send us one via a pull request, however it?s worth getting in touch first via e-mail or the discussion forums, and we reserve the right to only take blog posts we feel are a good fit (posts trying to push specific technologies or copies of posts from elsewhere are generally not). Blog posts should be thought pieces; if you have factual information that fits elsewhere in the site please contribute it there.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;If the GitHub create and edit pages are a bit limited for you, using git and your favourite text editor is surprisingly straightforward. The &lt;a href=&quot;https://guides.github.com/&quot;&gt;GitHub guides&lt;/a&gt; (especially the Hello World and Forking Projects ones) and the &lt;a href=&quot;http://help.github.com/&quot;&gt;GitHub help pages&lt;/a&gt; are great places to start, and we use Visual Studio Code (which is completely free and has great git integration) with the markdownlint and SpellChcker plugins.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;All the content of this site is written in &lt;a href=&quot;https://en.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt;.  If you’re new to it, &lt;a href=&quot;http://www.markdowntutorial.com/&quot;&gt;Mardown Tutorial&lt;/a&gt; is a great place to start.  We use the kramdown flavour - see the &lt;a href=&quot;http://kramdown.gettalong.org/quickref.html&quot;&gt;quick reference&lt;/a&gt; and &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html&quot;&gt;syntax&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;All the content of this site is written in &lt;a href=&quot;https://en.wikipedia.org/wiki/Markdown&quot;&gt;Markdown&lt;/a&gt;.  If you?re new to it, &lt;a href=&quot;http://www.markdowntutorial.com/&quot;&gt;Mardown Tutorial&lt;/a&gt; is a great place to start.  We use the kramdown flavour - see the &lt;a href=&quot;http://kramdown.gettalong.org/quickref.html&quot;&gt;quick reference&lt;/a&gt; and &lt;a href=&quot;http://kramdown.gettalong.org/syntax.html&quot;&gt;syntax&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Oh, and we reserve the right to use the (correct) British spellings of words here, although we won’t object to people using new fangled alternative spellings.&lt;/p&gt;
+&lt;p&gt;Oh, and we reserve the right to use the (correct) British spellings of words here, although we won?t object to people using new fangled alternative spellings.&lt;/p&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
 			</item>
@@ -59,7 +59,7 @@
 			<item>
 				<title>Site Information</title>
 				<link>http://ondataengineering.net/site/</link>
-				<description>&lt;p&gt;&lt;a href=&quot;http://ondataengineering.net&quot;&gt;OnDataEngineering&lt;/a&gt; is a site focused on how to make the right data available in the right form in the right place at the right time to allow users to efficiently exploit it.  This covers a range of use cases (including the acquisition and staging of data, “big data” preparation and data warehousing) to support any type of exploitation (be it reporting, big data analytics, machine learning or any one of a dozen similar capabilities).&lt;/p&gt;
+				<description>&lt;p&gt;&lt;a href=&quot;http://ondataengineering.net&quot;&gt;OnDataEngineering&lt;/a&gt; is a site focused on how to make the right data available in the right form in the right place at the right time to allow users to efficiently exploit it.  This covers a range of use cases (including the acquisition and staging of data, ?big data? preparation and data warehousing) to support any type of exploitation (be it reporting, big data analytics, machine learning or any one of a dozen similar capabilities).&lt;/p&gt;
 
 &lt;p&gt;This site currently hosts a catalog of technologies that fit within this space, organised &lt;a href=&quot;/technologies/&quot;&gt;alphabetically&lt;/a&gt;, &lt;a href=&quot;/tech-categories/&quot;&gt;by category&lt;/a&gt; and &lt;a href=&quot;/tech-vendors/&quot;&gt;by vendor&lt;/a&gt;.  We also have a &lt;a href=&quot;/blog/&quot;&gt;blog&lt;/a&gt; that covers updates to the site as well as industry news, and a set of &lt;a href=&quot;http://discourse.ondataengineering.net&quot;&gt;forums&lt;/a&gt; .&lt;/p&gt;
 
@@ -102,7 +102,7 @@
 				<description>&lt;p&gt;For me, one of the biggest challenges in exploiting data (be that through reporting, big data analytics, machine learning or any one of a dozen similar capabilities) is making sure you have the right data in the right place at the right time to allow you to do this efficiently.
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;For example, &lt;a href=&quot;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html&quot;&gt;this&lt;/a&gt; article from the New York Times and &lt;a href=&quot;http://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/&quot;&gt;this&lt;/a&gt; more recent one from Forbes talks about how the analysis of big data promises unique business insights, but for big-data scientists there is significant manual ‘janitor work’ (up to 80% of their time) required to prepare data, and although the research is sponsored by Data Wrangling tool vendors, the conclusions will resonate with many data scientists.  Combine this with the historical cost, delivery speed and agility issues typically associated with delivery data warehouse or reporting solutions, and for me it’s never been clearer that we need to get smarter at how we prepare and manage data.&lt;/p&gt;
+&lt;p&gt;For example, &lt;a href=&quot;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html&quot;&gt;this&lt;/a&gt; article from the New York Times and &lt;a href=&quot;http://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/&quot;&gt;this&lt;/a&gt; more recent one from Forbes talks about how the analysis of big data promises unique business insights, but for big-data scientists there is significant manual ?janitor work? (up to 80% of their time) required to prepare data, and although the research is sponsored by Data Wrangling tool vendors, the conclusions will resonate with many data scientists.  Combine this with the historical cost, delivery speed and agility issues typically associated with delivery data warehouse or reporting solutions, and for me it?s never been clearer that we need to get smarter at how we prepare and manage data.&lt;/p&gt;
 
 &lt;p&gt;Part of the solution to this is better Data Engineering, ensuring the processes, tools, technologies, data platforms, regular data feeds and their data preparation jobs are in place to allow the data to be exploited in an efficient, reliable and repeatable way.  The aim of this site is therefore to try to offer independent, critical and technical thinking on the technologies, architectural patterns and delivery capabilities that can help address this.&lt;/p&gt;
 
@@ -117,15 +117,15 @@
 				<description>&lt;p&gt;Before we get stuck in, a short digression to talk about Big Data.
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;There are many different definitions of Big Data, but for arguments sake let’s say this refers to the exploitation of data that would have previously been uneconomical due to the volume of data, the structure or format of the data (e.g. unstructured, semi-structured, or complex file formats such as video and audio) and the types of analytics required (e.g. path, graph or time series analysis)&lt;/p&gt;
+&lt;p&gt;There are many different definitions of Big Data, but for arguments sake let?s say this refers to the exploitation of data that would have previously been uneconomical due to the volume of data, the structure or format of the data (e.g. unstructured, semi-structured, or complex file formats such as video and audio) and the types of analytics required (e.g. path, graph or time series analysis)&lt;/p&gt;
 
-&lt;p&gt;I’ve a couple of comments to make on this topic.&lt;/p&gt;
+&lt;p&gt;I?ve a couple of comments to make on this topic.&lt;/p&gt;
 
-&lt;p&gt;Firstly, in my (humble) option Big Data is a marketing term (supported by new technologies - primarily Hadoop) that’s been exploited to sell these technologies and to give the industry something to talk about.  However, I think this has been a broadly positive thing, in that it’s brought data analytics to the mainstream, spurred uptake of new technologies and encouraged companies to invest in analytics and data processing that they may not have done previously. In any case it’s probably just about run its course now (as demonstrated as it’s fall down the far side of the hype curve), and has definitely resulted in the devaluation of other (perhaps more traditional) analytical capabilities which still have a role to play and in many cases deliver capabilities that Big Data technologies can’t yet match.&lt;/p&gt;
+&lt;p&gt;Firstly, in my (humble) option Big Data is a marketing term (supported by new technologies - primarily Hadoop) that?s been exploited to sell these technologies and to give the industry something to talk about.  However, I think this has been a broadly positive thing, in that it?s brought data analytics to the mainstream, spurred uptake of new technologies and encouraged companies to invest in analytics and data processing that they may not have done previously. In any case it?s probably just about run its course now (as demonstrated as it?s fall down the far side of the hype curve), and has definitely resulted in the devaluation of other (perhaps more traditional) analytical capabilities which still have a role to play and in many cases deliver capabilities that Big Data technologies can?t yet match.&lt;/p&gt;
 
-&lt;p&gt;Secondly, I think there’s been a lot of misinformation about Big Data and Big Data technologies. It’s not a replacement for existing BI/MI and analytical capabilities, and in fact needs to coexist and integrate with these in order to deliver on its promises. It’s not always cheaper or more performant than existing technologies, and won’t always reduce the timescales and costs for analytics or data exploration. And it’s not a new or innovative technology -  I know of companies that were analysing multi-petabyte data stores and doing real time analytics over ten years ago, parallel distributed file systems have been around for a lot longer than that, and there are many established technologies that have data processing capabilities that the new technologies are only just starting to catch up to.&lt;/p&gt;
+&lt;p&gt;Secondly, I think there?s been a lot of misinformation about Big Data and Big Data technologies. It?s not a replacement for existing BI/MI and analytical capabilities, and in fact needs to coexist and integrate with these in order to deliver on its promises. It?s not always cheaper or more performant than existing technologies, and won?t always reduce the timescales and costs for analytics or data exploration. And it?s not a new or innovative technology -  I know of companies that were analysing multi-petabyte data stores and doing real time analytics over ten years ago, parallel distributed file systems have been around for a lot longer than that, and there are many established technologies that have data processing capabilities that the new technologies are only just starting to catch up to.&lt;/p&gt;
 
-&lt;p&gt;In terms of this site the plan is to look at the wider picture and take an holistic view of data transformation and exploitation.  I’ve therefore no plans to talk explicitly about Big Data, but in looking at the wider picture we will absolutely cover everything relating to it (the technologies and the new use cases these enable) alongside coverage of other new technologies, more established technologies and capabilities, and the interesting intersection between them all.&lt;/p&gt;
+&lt;p&gt;In terms of this site the plan is to look at the wider picture and take an holistic view of data transformation and exploitation.  I?ve therefore no plans to talk explicitly about Big Data, but in looking at the wider picture we will absolutely cover everything relating to it (the technologies and the new use cases these enable) alongside coverage of other new technologies, more established technologies and capabilities, and the interesting intersection between them all.&lt;/p&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
 			</item>
@@ -135,28 +135,28 @@
 				<link>http://ondataengineering.net/blog/2016/12/12/the-plan/</link>
 				<description>&lt;p&gt;One more post before we get started.&lt;/p&gt;
 
-&lt;p&gt;The following are my current thoughts for some of the topics I’d like to cover on this site, both as a reference for my future self to look back at my naive optimism, but also if anyone wants to start contributing to any of these now, or to start a discussion on any the later topics to start framing and exploring them.
+&lt;p&gt;The following are my current thoughts for some of the topics I?d like to cover on this site, both as a reference for my future self to look back at my naive optimism, but also if anyone wants to start contributing to any of these now, or to start a discussion on any the later topics to start framing and exploring them.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;theme-1---the-technology-catalogue&quot;&gt;Theme 1 - the technology catalogue&lt;/h2&gt;
 
-&lt;p&gt;The plan here is to start building up a technology catalogue by looking at the key vendors in the Data Engineering space. This will only be a start on the technologies I’d expect to see in our catalogue however, so once this is done the plan is to then go through by technology category to complete the catalogue.&lt;/p&gt;
+&lt;p&gt;The plan here is to start building up a technology catalogue by looking at the key vendors in the Data Engineering space. This will only be a start on the technologies I?d expect to see in our catalogue however, so once this is done the plan is to then go through by technology category to complete the catalogue.&lt;/p&gt;
 
-&lt;p&gt;I’d also like to look at providing a concise yet detailed introduction to some technologies that describes exactly what it is, how it works, and what the key features are.  So much material that can be found on the internet is marketing material that glosses over the information I’m interested in knowing to understand whether a technology might meet my use cases and integrate into my environment, and my hope is that I can use this site to address that.&lt;/p&gt;
+&lt;p&gt;I?d also like to look at providing a concise yet detailed introduction to some technologies that describes exactly what it is, how it works, and what the key features are.  So much material that can be found on the internet is marketing material that glosses over the information I?m interested in knowing to understand whether a technology might meet my use cases and integrate into my environment, and my hope is that I can use this site to address that.&lt;/p&gt;
 
 &lt;h2 id=&quot;theme-2---data-engineering-use-cases&quot;&gt;Theme 2 - data engineering use cases&lt;/h2&gt;
 
-&lt;p&gt;One thing I don’t want to do on this site is define another data ecosystem architecture - there are too many already, most of them are designed to sell specific technologies, and none of them will fit the range of different requirements and constraints that different organisations will have.&lt;/p&gt;
+&lt;p&gt;One thing I don?t want to do on this site is define another data ecosystem architecture - there are too many already, most of them are designed to sell specific technologies, and none of them will fit the range of different requirements and constraints that different organisations will have.&lt;/p&gt;
 
-&lt;p&gt;However, what I do want to do is look at the range of different of different use cases that you might use data engineering technologies for, from a Data Lake (and we’ll look at what that overloaded term actually means) to a Data Warehouse (and why they’re still relevant), from the acquisition of data to the preparation of a Query Focused Dataset, and from the management of a data catalogue to the monitoring of data quality metrics.&lt;/p&gt;
+&lt;p&gt;However, what I do want to do is look at the range of different of different use cases that you might use data engineering technologies for, from a Data Lake (and we?ll look at what that overloaded term actually means) to a Data Warehouse (and why they?re still relevant), from the acquisition of data to the preparation of a Query Focused Dataset, and from the management of a data catalogue to the monitoring of data quality metrics.&lt;/p&gt;
 
-&lt;p&gt;I’d then like to look at how different technologies and architectural patterns can support these use cases - how do you implement a Data Lake using Hadoop, what technologies support data governance and data catalogues, and how do the various streaming frameworks compare.&lt;/p&gt;
+&lt;p&gt;I?d then like to look at how different technologies and architectural patterns can support these use cases - how do you implement a Data Lake using Hadoop, what technologies support data governance and data catalogues, and how do the various streaming frameworks compare.&lt;/p&gt;
 
 &lt;p&gt;As part of this I also want to look at the core principles behind Data Transformation, what state of the art in this space looks like, and how the established enterprise technologies compare to the new Open Source upstarts.&lt;/p&gt;
 
 &lt;h2 id=&quot;theme-3---delivery&quot;&gt;Theme 3 - delivery&lt;/h2&gt;
 
-&lt;p&gt;As if the above isn’t already massively ambitious enough, I’d also like to talk about the delivery of data solutions, including:&lt;/p&gt;
+&lt;p&gt;As if the above isn?t already massively ambitious enough, I?d also like to talk about the delivery of data solutions, including:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;How we can use best practice delivery concepts (e.g. configuration management, continuous integration and testing, automated deployment, infrastructure and database management) and what these mean within a data solution&lt;/li&gt;
@@ -177,9 +177,9 @@
 
 &lt;p&gt;The aim is to provide a valuable reference for anyone starting a technology evaluation to understand what technology options they might have for a given situation, or to understand if and how a technology might fit into an existing ecosystem.&lt;/p&gt;
 
-&lt;p&gt;For each technology, the plan is therefore to provide a short summary describing the technology, along with its background and current status.  As mentioned in my previous post, for some technologies, I also want to do a deep dive to provide a longer summary with more detail that gives a solid introduction to the technology, and my hope is that we’ll get contributions to provide these for the vast majority of the technologies that I won’t get time to look at.&lt;/p&gt;
+&lt;p&gt;For each technology, the plan is therefore to provide a short summary describing the technology, along with its background and current status.  As mentioned in my previous post, for some technologies, I also want to do a deep dive to provide a longer summary with more detail that gives a solid introduction to the technology, and my hope is that we?ll get contributions to provide these for the vast majority of the technologies that I won?t get time to look at.&lt;/p&gt;
 
-&lt;p&gt;As part of this we’ll need to look at providing a categorisation of technologies, although making this useful is going to be challenging given that multiple categories of technologies could be used to meet a given use case.  The technologies we’ll look at broadly fall into three groups however:&lt;/p&gt;
+&lt;p&gt;As part of this we?ll need to look at providing a categorisation of technologies, although making this useful is going to be challenging given that multiple categories of technologies could be used to meet a given use case.  The technologies we?ll look at broadly fall into three groups however:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Data Transformation tools, be they one of the established commercial products or a new Open Source technology&lt;/li&gt;
@@ -199,9 +199,9 @@
   &lt;li&gt;The major open source cloud scale companies, if only to see what they do in this space - Facebook, Netflix, LinkedIn, Google, Yahoo, eBay and Twitter&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This will only be a start on the technologies I’d expect to see in our catalogue however, so once this is done the plan is to then go through by technology category.&lt;/p&gt;
+&lt;p&gt;This will only be a start on the technologies I?d expect to see in our catalogue however, so once this is done the plan is to then go through by technology category.&lt;/p&gt;
 
-&lt;p&gt;This is obviously going to take some time given the vast range of technologies, so if you’re interested in contributing in whatever form, if you spot any issues or omissions, or if you have any comments you’d like to add, then please do share your thoughts.&lt;/p&gt;
+&lt;p&gt;This is obviously going to take some time given the vast range of technologies, so if you?re interested in contributing in whatever form, if you spot any issues or omissions, or if you have any comments you?d like to add, then please do share your thoughts.&lt;/p&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
 			</item>
@@ -212,11 +212,11 @@
 				<description>&lt;p&gt;And so we begin our journey through the jungle of Data Engineering technologies by looking at the technology du jour - Apache Hadoop.
 &lt;!--more--&gt;&lt;/p&gt;
 
-&lt;p&gt;There’s an entire ecosystem here that we’ll start to explore by looking at the major Hadoop vendors, but the first entries in our technology catalogue are the &lt;a href=&quot;/technologies/apache-hadoop/&quot;&gt;Apache Hadoop&lt;/a&gt; project itself, along with its sub-projects: &lt;a href=&quot;/technologies/apache-hadoop/yarn/&quot;&gt;YARN&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hadoop/hdfs/&quot;&gt;HDFS&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hadoop/map-reduce/&quot;&gt;MapReduce&lt;/a&gt;. Click on the links to view the technology information I’ve added to the site.&lt;/p&gt;
+&lt;p&gt;There?s an entire ecosystem here that we?ll start to explore by looking at the major Hadoop vendors, but the first entries in our technology catalogue are the &lt;a href=&quot;/technologies/apache-hadoop/&quot;&gt;Apache Hadoop&lt;/a&gt; project itself, along with its sub-projects: &lt;a href=&quot;/technologies/apache-hadoop/yarn/&quot;&gt;YARN&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hadoop/hdfs/&quot;&gt;HDFS&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hadoop/map-reduce/&quot;&gt;MapReduce&lt;/a&gt;. Click on the links to view the technology information I?ve added to the site.&lt;/p&gt;
 
 &lt;p&gt;This also brings our first technology vendor - the &lt;a href=&quot;/tech-vendors/apache/&quot;&gt;Apache Software Foundation&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;And with that it’s time for Christmas!  We’ll be back in three weeks with the first of the core technologies within the Hadoop space.&lt;/p&gt;
+&lt;p&gt;And with that it?s time for Christmas!  We?ll be back in three weeks with the first of the core technologies within the Hadoop space.&lt;/p&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
 			</item>

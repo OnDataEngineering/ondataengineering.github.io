@@ -7,16 +7,23 @@ Site: http://ondataengineering.net/
 
 /* THANKS */
 
-Name: Moritz »mo.« Sauer
-Role: Creator of the Theme
-Site: http://mo.phlow.de/
-Twitter: @phlow
-Theme: http://phlow.github.io/feeling-responsive/
+Name: Jekyll
+URL: http://jekyllrb.com/
+
+Name: Feeling Responsive
+URL: http://phlow.github.io/feeling-responsive/
+
+Name: Foundation
+URL: http://foundation.zurb.com/
+
+Name: Icons by Daniel Bruce
+URL: http://entypo.com/
+
+Name: Jekyll Compress HTML
+URL: http://jch.penibelst.de/
 
 
 /* SITE */
 
-Last Updated: 2016/12/16
+Last Updated: 2016/12/17
 Standards: HTML5, CSS3
-Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
-Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal
