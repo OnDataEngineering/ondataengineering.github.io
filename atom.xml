@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://ondataengineering.net/</id>
 	<title>OnDataEngineering</title>
-	<updated>2016-12-17T00:54:45+00:00</updated>
+	<updated>2017-01-06T21:25:26+00:00</updated>
 
 	<subtitle>A collaborative site for independent, critical and technical thinking on the use cases, architectural patterns and technologies relating to the transformation and preparation of data for exploitation.</subtitle>
 
@@ -23,6 +23,63 @@
 
 	<generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</id>
+			<title>Core Hadoop Technologies (pt1)</title>
+			<link href="http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/" rel="alternate" type="text/html" title="Core Hadoop Technologies (pt1)" />
+			<updated>2017-01-06T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Peter</name>
+					
+					
+						<uri>http://ondataengineering.net/</uri>
+					
+				</author>
+			
+			<content type="html" xml:base="http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/">&lt;p&gt;And we’re back - Happy New Year!&lt;/p&gt;
+
+&lt;p&gt;Having started with the core Apache Hadoop project, we’re now going to look at the “core” technologies within the Hadoop space, based on those included in multiple distributions (many thanks to Merv Adrian from Gartner for his useful &lt;a href=&quot;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&quot;&gt;tracker&lt;/a&gt;)
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s three Apache technologies added to the catalogue this week - &lt;a href=&quot;/technologies/apache-flume/&quot;&gt;Flume&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hbase/&quot;&gt;HBase&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hive/&quot;&gt;Hive&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s no much to say have Flume or HBase right now, but we’ll take a more detailed look at both of these in the future.  Hive however, is more interesting.&lt;/p&gt;
+
+&lt;p&gt;Firstly, it’s a hugely popular and important project that’s a corner stone of the Hadoop ecosystem, which in its short life has seen enormous change - a classic example of an Open Source technology that has mutated, evolved, consumed other projects and been pulled in multiple directions over time.  I plan to dig into the history of Hive in the not too distant future as I think it’s a great example of how an Open Source project can evolve.&lt;/p&gt;
+
+&lt;p&gt;Secondly, it’s not one thing, but a collection of different components with very distinct roles all bundled together, which is why I’ve taken the decision to break it out into a number of sub-projects (&lt;a href=&quot;/technologies/apache-hive/hive-metastore/&quot;&gt;Hive Metastore&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hive/hive-server/&quot;&gt;Hive Server&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hive/hcatalog/&quot;&gt;HCatalog&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;As before, click on the links above to see the information added to the site.&lt;/p&gt;
+
+&lt;p&gt;That’s it for this week - next up is Solr, Sqoop and Spark.&lt;/p&gt;
+</content>
+
+			
+				<category term="Technologies" />
+			
+			
+				<category term="Flume" />
+			
+				<category term="HBase" />
+			
+				<category term="Hive" />
+			
+				<category term="Apache" />
+			
+				<category term="HCatalog" />
+			
+				<category term="Hive Metastore" />
+			
+				<category term="Hive Server" />
+			
+
+			<published>2017-01-06T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</id>

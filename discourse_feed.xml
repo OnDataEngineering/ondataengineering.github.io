@@ -222,6 +222,29 @@
 			</item>
 			
 			<item>
+				<title>Core Hadoop Technologies (pt1)</title>
+				<link>http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</link>
+				<description>&lt;p&gt;And we?re back - Happy New Year!&lt;/p&gt;
+
+&lt;p&gt;Having started with the core Apache Hadoop project, we?re now going to look at the ?core? technologies within the Hadoop space, based on those included in multiple distributions (many thanks to Merv Adrian from Gartner for his useful &lt;a href=&quot;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&quot;&gt;tracker&lt;/a&gt;)
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;There?s three Apache technologies added to the catalogue this week - &lt;a href=&quot;/technologies/apache-flume/&quot;&gt;Flume&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hbase/&quot;&gt;HBase&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hive/&quot;&gt;Hive&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There?s no much to say have Flume or HBase right now, but we?ll take a more detailed look at both of these in the future.  Hive however, is more interesting.&lt;/p&gt;
+
+&lt;p&gt;Firstly, it?s a hugely popular and important project that?s a corner stone of the Hadoop ecosystem, which in its short life has seen enormous change - a classic example of an Open Source technology that has mutated, evolved, consumed other projects and been pulled in multiple directions over time.  I plan to dig into the history of Hive in the not too distant future as I think it?s a great example of how an Open Source project can evolve.&lt;/p&gt;
+
+&lt;p&gt;Secondly, it?s not one thing, but a collection of different components with very distinct roles all bundled together, which is why I?ve taken the decision to break it out into a number of sub-projects (&lt;a href=&quot;/technologies/apache-hive/hive-metastore/&quot;&gt;Hive Metastore&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hive/hive-server/&quot;&gt;Hive Server&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hive/hcatalog/&quot;&gt;HCatalog&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;As before, click on the links above to see the information added to the site.&lt;/p&gt;
+
+&lt;p&gt;That?s it for this week - next up is Solr, Sqoop and Spark.&lt;/p&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
 				<title>The Apache Software Foundation</title>
 				<link>http://ondataengineering.net/tech-vendors/apache/</link>
 				<description>&lt;p&gt;The Apache Software Foundation is a non-profit organisation that supports a wide range of open source projects, including providing and mandating a standard governance model (including the use of the Apache license), holding all trademarks for project names and logos, and providing legal protection to developers.  It was founded in 1999 and now oversees nearly 200 projects.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
@@ -294,6 +317,105 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&lt;/a&gt; - YARN architecture overview and documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Flume</title>
+				<link>http://ondataengineering.net/technologies/apache-flume/</link>
+				<description>&lt;p&gt;Specialist technology for the continuous movement of data using a set of independent agents connected together into pipelines.  Supports a wide range of sources, targets and buffers (channels), along with the ability to chain agents together and to modify and drop events in-flight.  Designed to be highly reliable, and to support reconfiguration without the need for a restart.  Heavily integrated with the Hadoop ecosystem.  An Apache project, donated by Cloudera in June 2011, graduating in June 2012, with a v1.2 release (the first considered ready for production use) in July 2012. Java based, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/&quot;&gt;http://flume.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/FlumeUserGuide.html&quot;&gt;http://flume.apache.org/FlumeUserGuide.html&lt;/a&gt; - user guide&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/&quot;&gt;http://flume.apache.org/&lt;/a&gt; - project updates and releases&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache HBase</title>
+				<link>http://ondataengineering.net/technologies/apache-hbase/</link>
+				<description>&lt;p&gt;NoSQL wide-column datastore based on Google BigTable. Focuses on random real-time access to data, and supports horizontal scalability, consistent reads and writes, versioning and fine grained security controls.  Runs on Hadoop and HDFS, and is heavily integrated with the Hadoop ecosystem.  An Apache project, first released as part of Hadoop 0.15 in October 2007 before graduating as a top level project in May 2010.  Java based, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hbase.apache.org/&quot;&gt;http://hbase.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hbase.apache.org/book.html&quot;&gt;http://hbase.apache.org/book.html&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jimbojw.com/wiki/index.php?title=Understanding_Hbase_and_BigTable&quot;&gt;http://jimbojw.com/wiki/index.php?title=Understanding_Hbase_and_BigTable&lt;/a&gt; - HBase primer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/hbase/entry/start_of_a_new_era&quot;&gt;https://blogs.apache.org/hbase/entry/start_of_a_new_era&lt;/a&gt; - introduction to HBase versioning scheme&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/hbase/&quot;&gt;https://blogs.apache.org/hbase/&lt;/a&gt; - Apache HBase Blog&lt;/li&gt;
+  &lt;li&gt;HBase release announcements only appear to be available via the Apache announcements mailing list&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Hive</title>
+				<link>http://ondataengineering.net/technologies/apache-hive/</link>
+				<description>&lt;p&gt;Technology that supports the exposure of data in Hadoop as structured tables and the execution of analytical SQL queries over these.  Consists of a number of distinct components (that we treat as sub-projects) including Hive Metastore (stores the definitions of the structured tables), Hive Server (supports the execution of analytical SQL queries as MapReduce, Spark or Tez jobs) and HCatalog (allows MapReduce and Pig jobs to read and write Hive tables).  First released by Facebook as an Hadoop contrib module in September 2008, becoming an Hadoop sub-project in November 2008, and a top level Apache project in September 2010, following a first official stable release (0.3) in April 2009.  Java based, under active development from a number of large commercial sponsors, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hive.apache.org/&quot;&gt;http://hive.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/Home&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/Home&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hive.apache.org/downloads.html&quot;&gt;http://hive.apache.org/downloads.html&lt;/a&gt; - details of new releases&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/category/hive/&quot;&gt;http://blog.cloudera.com/blog/category/hive/&lt;/a&gt; - Cloudera Hive News&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hortonworks.com/blog/category/hive/&quot;&gt;http://hortonworks.com/blog/category/hive/&lt;/a&gt; - Hortonworks Hive News&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>HCatalog</title>
+				<link>http://ondataengineering.net/technologies/apache-hive/hcatalog/</link>
+				<description>&lt;p&gt;Libraries for MapReduce and Pig to read and write data to and from Hive tables, albeit with some limitations. Also supports a CLI for querying and updating the Hive Metastore, however this doesn't support the full range of Hive DDL commands.  Includes WebHCat, a REST API over the HCatalog CLI that also supports the execution of MapReduce, Pig, Hive and Sqoop jobs.  Donated to the Apache foundation by Yahoo in March 2011, had WebHCat folded in in July 2012, graduating as a top level project in February 2013, but then almost immediately was folded into Hive in March 2013 as part of the Hive 0.11 release.  Has seem limited development since this time.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/HCatalog&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/HCatalog&lt;/a&gt; - HCatalog documentation home&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/WebHCat&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/WebHCat&lt;/a&gt; - WebHCat documentation home&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Hive Metastore</title>
+				<link>http://ondataengineering.net/technologies/apache-hive/hive-metastore/</link>
+				<description>&lt;p&gt;A metadata service that allows structured tables to be defined over files in HDFS (and also HBase or Accumulo), providing an API that allows the metadata to be queried and updated by other tools including Impala, Spark SQL or RecordService.  Supports partitioned and clustered tables, as well as complex field types such as arrays, maps and structs.  Backed by a relational database (either MySQL, Postgres and Oracle).  Part of the original Hive code base.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin&lt;/a&gt; - documentation home&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Hive Server</title>
+				<link>http://ondataengineering.net/technologies/apache-hive/hive-server/</link>
+				<description>&lt;p&gt;Supports the execution of SQL queries over data in HDFS based on tables defined in the Hive Metastore, as well as DDL to query and update the Hive Metastore.  Focus is on analytical (OLAP) use cases, with some support for batch updates to data.  Originally executed queries as MapReduce jobs, but significant investment from has seen support for executing queries as Spark and as Tez jobs, with work underway to support sub second query times using Tez.  Recent changes have also seen it achieve significant SQL compliance, with support for SQL:2011 analytical functions on-going.  Accepts queries over an API with JDBC and ODBC drivers available, and includes Beeline, a command line JDBC client.  Technically referred to as Hive Server 2, and was introduced in Hive 0.11 as a replacement for the original Hive Server to address a number of concurrency and security issues.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&quot;&gt;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&lt;/a&gt; - introduction to Hive Server 2&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
