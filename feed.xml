@@ -7,6 +7,24 @@
 		<atom:link href="http://ondataengineering.net/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Core Hadoop Technologies (pt2)</title>
+				<link>http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</link>
+				<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;And onwards with our look at the core Hadoop technologies.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I’ve added &lt;a href=&quot;/technologies/apache-solr/&quot;&gt;Solr&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-sqoop/&quot;&gt;Sqoop&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-spark/&quot;&gt;Spark&lt;/a&gt;, along with the Spark sub-projects &lt;a href=&quot;/technologies/apache-spark/spark-sql/&quot;&gt;Spark SQL&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-spark/spark-streaming/&quot;&gt;Spark Streaming&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-spark/mllib/&quot;&gt;MLlib&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-spark/graphx/&quot;&gt;GraphX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Solr is one of the big two search technologies along with Elasticsearch, and although there’s debate around which is best (Elastic is probably slightly more developer friendly and supports slightly better analytics capabilities, whereas Solr has the more open development model being an Apache project), they’re both great technologies.&lt;/p&gt;
+
+&lt;p&gt;Sqoop is interesting because of where it’s going - whereas the current version of Sqoop focuses on integration with structured databases, the pending version 2 (which admittedly has been in development for a long time now) evolves it slightly to support the batch ingest of any data into Hadoop.  It’s going to have stiff competition from Apache NiFi however if and when it’s finally released.&lt;/p&gt;
+
+&lt;p&gt;And so to Spark - which claims to be the most active Open Source project in Big Data (as well as many other things).  What is clear however is it’s the one next gen data processing and transformation language that managed to catch significant momentum and adoption.  We can argue the toss on whether it’s the best technology, but it’s now bundled with all the Hadoop distributions, has a rapidly growing base of trained and experienced developers, and a rich ecosystem, which means it’s becoming the default answer to a whole bunch of use cases.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</guid>
+			</item>
+		
+			<item>
 				<title>Core Hadoop Technologies (pt1)</title>
 				<link>http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</link>
 				<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>

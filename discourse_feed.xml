@@ -245,6 +245,23 @@
 			</item>
 			
 			<item>
+				<title>Core Hadoop Technologies (pt2)</title>
+				<link>http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</link>
+				<description>&lt;p&gt;And onwards with our look at the core Hadoop technologies.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Today, I?ve added &lt;a href=&quot;/technologies/apache-solr/&quot;&gt;Solr&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-sqoop/&quot;&gt;Sqoop&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-spark/&quot;&gt;Spark&lt;/a&gt;, along with the Spark sub-projects &lt;a href=&quot;/technologies/apache-spark/spark-sql/&quot;&gt;Spark SQL&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-spark/spark-streaming/&quot;&gt;Spark Streaming&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-spark/mllib/&quot;&gt;MLlib&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-spark/graphx/&quot;&gt;GraphX&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Solr is one of the big two search technologies along with Elasticsearch, and although there?s debate around which is best (Elastic is probably slightly more developer friendly and supports slightly better analytics capabilities, whereas Solr has the more open development model being an Apache project), they?re both great technologies.&lt;/p&gt;
+
+&lt;p&gt;Sqoop is interesting because of where it?s going - whereas the current version of Sqoop focuses on integration with structured databases, the pending version 2 (which admittedly has been in development for a long time now) evolves it slightly to support the batch ingest of any data into Hadoop.  It?s going to have stiff competition from Apache NiFi however if and when it?s finally released.&lt;/p&gt;
+
+&lt;p&gt;And so to Spark - which claims to be the most active Open Source project in Big Data (as well as many other things).  What is clear however is it?s the one next gen data processing and transformation language that managed to catch significant momentum and adoption.  We can argue the toss on whether it?s the best technology, but it?s now bundled with all the Hadoop distributions, has a rapidly growing base of trained and experienced developers, and a rich ecosystem, which means it?s becoming the default answer to a whole bunch of use cases.&lt;/p&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
 				<title>The Apache Software Foundation</title>
 				<link>http://ondataengineering.net/tech-vendors/apache/</link>
 				<description>&lt;p&gt;The Apache Software Foundation is a non-profit organisation that supports a wide range of open source projects, including providing and mandating a standard governance model (including the use of the Apache license), holding all trademarks for project names and logos, and providing legal protection to developers.  It was founded in 1999 and now oversees nearly 200 projects.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
@@ -416,6 +433,124 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&quot;&gt;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&lt;/a&gt; - introduction to Hive Server 2&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Solr</title>
+				<link>http://ondataengineering.net/technologies/apache-solr/</link>
+				<description>&lt;p&gt;A search server built on Apache Lucene with a REST-like API for loading and searching data.  Supports a distributed deployment (SolrCloud) that can run over HDFS on an Hadoop cluster.  Includes an administration web interface, an extensible plugin architecture, support for schemaless indexing, faceted, grouped and clustered results, hit highlighting, geo-spacial and graph searches, near real time indexing and searching, (experimental) streaming expressions for parallel compute (including support for MapReduce and SQL) and broad authentication and security capabilities.  A sub-project of the Apache Lucene project, originally donated to the Apache foundation by CNET Networks in January 2006, graduating as a top level project in January 2007, before merging with the Lucene project in March 2010. Java based, with commercial support available as part of most Hadoop distributions (although this is bundled as Cloudera Search with CDH and HDP Search with HDP), as well as from Lucidworks.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr&quot;&gt;http://lucene.apache.org/solr&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/features.html&quot;&gt;http://lucene.apache.org/solr/features.html&lt;/a&gt; - good summary of Solr features&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apache.org/dyn/closer.lua/lucene/solr/ref-guide/&quot;&gt;https://www.apache.org/dyn/closer.lua/lucene/solr/ref-guide/&lt;/a&gt; - PDF download of documentation for latest release&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/solr/&quot;&gt;https://cwiki.apache.org/confluence/display/solr/&lt;/a&gt; - online working version of documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Apache_Solr&quot;&gt;https://en.wikipedia.org/wiki/Apache_Solr&lt;/a&gt; - history of Solr&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/news.html&quot;&gt;http://lucene.apache.org/solr/news.html&lt;/a&gt; - project news&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yonik.com/&quot;&gt;http://yonik.com/&lt;/a&gt; - details of new features from the creator of Solr&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Spark</title>
+				<link>http://ondataengineering.net/technologies/apache-spark/</link>
+				<description>&lt;p&gt;A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required, and which supports processing applications written in Java, Scala, Python and R.  Includes a number of sub-projects that support more specialised analytics including Spark SQL, Spark Streaming, MLlib (machine learning) and GraphX (graph analytics).  Requires a cluster manager (YARN, EC2 and Mesos are supported as well as standalone clusters) and can access data in a wide range of technologies (including HDFS, other Hadoop data sources, relational databases and NoSQL databases).  An Apache project, originally started at UC Berkley in 2009, open sourced in 2010, and donated to the Apache foundation in June 2013, graduating in February 2014.  v1.0 was released in May 2014, with a v2.0 release in July 2016.  Java based, with development led by Databricks (who sell a Spark hosted service), and with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/&quot;&gt;http://spark.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/&quot;&gt;http://spark.apache.org/docs/latest/&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/news/index.html&quot;&gt;http://spark.apache.org/news/index.html&lt;/a&gt; - project news&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://databricks.com/blog/category/engineering&quot;&gt;https://databricks.com/blog/category/engineering&lt;/a&gt; - Databricks engineering blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>GraphX</title>
+				<link>http://ondataengineering.net/technologies/apache-spark/graphx/</link>
+				<description>&lt;p&gt;Spark library for processing graphs and running graph algorithms, based on graph model that supports directional edges with properties on both vertices and edges.  Graphs are constructed from a pair of collections representing the edges and vertex, either directly from data on disk using builders, or prepared using other Spark functionality, with the ability to also view the graph as a set of triples.  Supports a range of graph operations, as well as an optimised variant of the Pregel API, and a set of out of the box algorithms (including PageRank, connected components and triangle count).  First introduced in Spark 0.9, with a production release as part of Spark 1.2, however has seen almost no new functionality since then.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/graphx/&quot;&gt;http://spark.apache.org/graphx/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/graphx-programming-guide.html&quot;&gt;http://spark.apache.org/docs/latest/graphx-programming-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>MLlib</title>
+				<link>http://ondataengineering.net/technologies/apache-spark/mllib/</link>
+				<description>&lt;p&gt;Spark library for running Machine Learning algorithms.  Supports a range of algorithms (including classifications, regressions, decision trees, recommendations, clustering and topic modelling), including iterative algorithms.  First introduced in Spark 0.8 after being collaboratively developed with the UC Berkeley MLbase project.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/mllib//&quot;&gt;http://spark.apache.org/mllib//&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/ml-guide.html&quot;&gt;http://spark.apache.org/docs/latest/ml-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mlbase.org/&quot;&gt;http://www.mlbase.org/&lt;/a&gt; - the UC Berkeley MLbase project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Spark SQL</title>
+				<link>http://ondataengineering.net/technologies/apache-spark/spark-sql/</link>
+				<description>&lt;p&gt;Spark library for processing structured data, using either SQL statements or a DataFrame API.  Supports querying and writing to local datasets (including JSON, Parquet, Avro, Orc and CSV) as well as external data sources (including Hive and JDBC), including the ability to query across data sources.  Includes Catalyst, a cost based optimiser that turns high level operations into low level Spark DAGs for execution.  Also includes a Hive compatible Thrift JDBC/ODBC server that's compatible with Beeline and the Hive JDBC and ODBC drivers, and a REPL CLI for interactive queries.  First introduced in Spark 1.0, with a production release as part of Spark 1.3.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/sql/&quot;&gt;http://spark.apache.org/sql/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/sql-programming-guide.html&quot;&gt;http://spark.apache.org/docs/latest/sql-programming-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Spark Streaming</title>
+				<link>http://ondataengineering.net/technologies/apache-spark/spark-streaming/</link>
+				<description>&lt;p&gt;Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined. Uses a micro-batch execution model, leveraging core Spark to process each micro-batch, and provides fault tolerance through exactly-once processing semantics.  Supports a number of data sources (including HDFS, sockets, Flume, Kafka, Kinesis and messaging buses), as well as functions to maintain state and to execute windowed operations. First introduced in Spark 0.7, with a production release as part of Spark 0.9.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/sql/&quot;&gt;http://spark.apache.org/sql/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/sql-programming-guide.html&quot;&gt;http://spark.apache.org/docs/latest/sql-programming-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Sqoop</title>
+				<link>http://ondataengineering.net/technologies/apache-sqoop/</link>
+				<description>&lt;p&gt;Specialist technology for moving bulk data between Hadoop and structured (relational) databases.  Command line based, with the ability to import and export data between a range of databases (including mainframe partitioned datasets) and HDFS, Hive, HBase and Accumulo.  Supports parallel partitioned unloads, writing to Avro, Sequence File, Parquet and text files, incremental imports and saved jobs that can be shared via a simple metadata store.  An Apache project, started in May 2009 as an Hadoop contrib module, migrating to a Cloudera GitHub project in April 2010 (with a v1.0 release shortly after), before being donated to the Apache foundation in June 2011, graduating in March 2012.  The last major release (v1.4) was in November 2011, with only minor releases since then.  However in January 2012 a significant re-write was announced as part of a proposed v2.0 release to address a number of usability, security and architectural issues.  This will introduce a new Sqoop Server and Metadata Repository, supporting both a CLI and web UI, centralising job definitions, database connections and credentials, as well as enabling support for a wider range of connectors including NoSQL databases, Kafka and (S)FTP folders.  Java based, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org&quot;&gt;http://sqoop.apache.org&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org/docs/&quot;&gt;http://sqoop.apache.org/docs/&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/entry/apache_sqoop_highlights_of_sqoop&quot;&gt;https://blogs.apache.org/sqoop/entry/apache_sqoop_highlights_of_sqoop&lt;/a&gt; - introduction to Sqoop 2&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/entry/apache_sqoop_graduates_from_incubator&quot;&gt;https://blogs.apache.org/sqoop/entry/apache_sqoop_graduates_from_incubator&lt;/a&gt; - early history of Sqoop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org/&quot;&gt;http://sqoop.apache.org/&lt;/a&gt; - details latest release, and hosts release notes for v1.4.0 onwards&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/&quot;&gt;https://blogs.apache.org/sqoop/&lt;/a&gt; - project blog&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
