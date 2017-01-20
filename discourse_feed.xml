@@ -262,6 +262,27 @@
 			</item>
 			
 			<item>
+				<title>Core Hadoop Technologies (pt3)</title>
+				<link>http://ondataengineering.net/blog/2017/01/20/core-hadoop-technologies-pt3/</link>
+				<description>&lt;p&gt;Up today, our final look at the core technologies within the Hadoop ecosystem.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;First up are &lt;a href=&quot;/technologies/apache-avro&quot;&gt;Avro&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-parquet&quot;&gt;Parquet&lt;/a&gt;, both of which are key data formats used within the Hadoop ecosystem, but with different and contrasting focuses.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/technologies/apache-kafka&quot;&gt;Kafka&lt;/a&gt;?s a hot technology at the moment - deliverying high bandwidth low latency storage and processing of data streams, with reference cases handling millions of events per second.  If you?re looking at doing anything with streaming data it?s probably well worth a look.  Note that I?ve broken out &lt;a href=&quot;/technologies/apache-kafka/kafka-connect&quot;&gt;Kafka Connect&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-kafka/kafka-streams&quot;&gt;Kafka Streams&lt;/a&gt; as sub-projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/technologies/apache-pig&quot;&gt;Pig&lt;/a&gt; was one of the first technologies to provide a ore user friendly abstraction over MapReduce for developing Hadoop jobs.  It?s starting to show it?s age however, and although Hortonworks and Yahoo (who are heavy Pig users) seem to be investing heavily in Pig on Tez, and Cloudera seems to be supporting Pig on Spark (mirroring their Hive strategies), it?s difficult to see newcomers to Hadoop who don?t have an existing investment in Pig using it over Spark and other newer tools.&lt;/p&gt;
+
+&lt;p&gt;And finally &lt;a href=&quot;/technologies/apache-oozie&quot;&gt;Oozie&lt;/a&gt; - a job scheduling an orchestration engine.  It?s been a staple of most Hadoop distributions for a while now, however it?s difficult to find many big references cases for it?s use, and it?s not the most user friendly tool.  Orchestration and management of data transformation pipelines feels like a huge technology gap at the moment - if anyone knows of any great technologies in this space please shout.&lt;/p&gt;
+
+&lt;p&gt;As before - click on the links to see the technology information added to the site.&lt;/p&gt;
+
+&lt;p&gt;That?s it for this week, and for the core Hadoop technologies - it?s been fun.  We?ll be back on Monday to start looking at Apache Bigtop, along with a change of pace?&lt;/p&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
 				<title>The Apache Software Foundation</title>
 				<link>http://ondataengineering.net/tech-vendors/apache/</link>
 				<description>&lt;p&gt;The Apache Software Foundation is a non-profit organisation that supports a wide range of open source projects, including providing and mandating a standard governance model (including the use of the Apache license), holding all trademarks for project names and logos, and providing legal protection to developers.  It was founded in 1999 and now oversees nearly 200 projects.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
@@ -551,6 +572,143 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org/&quot;&gt;http://sqoop.apache.org/&lt;/a&gt; - details latest release, and hosts release notes for v1.4.0 onwards&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/&quot;&gt;https://blogs.apache.org/sqoop/&lt;/a&gt; - project blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Avro</title>
+				<link>http://ondataengineering.net/technologies/apache-avro/</link>
+				<description>&lt;p&gt;Data serialisation framework that supports both messaging and data storage.  Primarily uses a compact binary format but also supports a JSON format.  Supports a range of data structures (including records, enumerations, arrays and maps) with APIs for a wide range of both static and dynamically typed languages.  Schema based, with schemas primarily specified in JSON, and support for both code generation from schema definitions as well as dynamic runtime usage.  Schemas are serialised alongside data, with support for automatic schema resolution if the schema used to read the data differs from that used to write it.  Started as an Hadoop sub-project by Cloudera in April 2009, with an initial v1.0 release in July 2009, before becoming a top level Apache project in May 2010.  Has seen significant adoption in the Hadoop ecosystem.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://avro.apache.org/&quot;&gt;http://avro.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://avro.apache.org/docs/current/&quot;&gt;https://avro.apache.org/docs/current/&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2009/11/avro-a-new-format-for-data-interchange/&quot;&gt;http://blog.cloudera.com/blog/2009/11/avro-a-new-format-for-data-interchange/&lt;/a&gt; - original introduction to Avro&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces4&quot;&gt;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces4&lt;/a&gt; - Avro top level project announcement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://avro.apache.org/releases.html&quot;&gt;http://avro.apache.org/releases.html&lt;/a&gt; - project releases&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Kafka</title>
+				<link>http://ondataengineering.net/technologies/apache-kafka/</link>
+				<description>&lt;p&gt;Technology for buffering and storing real-time streams of data between publishers to subscribers, with a focus on high throughput at low latency.  Based on a distributed, horizontally scalable architecture, with messages organised into topics which are partitioned and replicated across nodes to provide resilience and written to disk to provide persistence.  Topics may have multiple publishers and subscribers, with ability to do fault tolerant reads and to load balance across subscribers.  Records consist of a key, value and timestamp, with the ability to compact topics to remove updates and deletes by key.  Supports a full security model, and the ability to set quotas.  Comes with a Java client, but clients for a wide range of languages are also available. Has two sub-projects (Kafka Connect and Kafka Streams) that are bundled with the main product.  Originally developed at LinkedIn, being open sourced in January 2011, before being donated to the Apache Foundation in July 2011.  Graduated in October 2012, and although it has not had a v1.0 release is considered production quality and stable. Development is primarily led by Confluent (which was founded by the team that built Kafka at LinkedIn), who distribute a Confluent Open Source product (which includes further clients and connectors) and a subscription based Confluent Enterprise product (which includes management, replication and data balancing features and commercial support under a subscription licence).  Commercial support is also available from most Hadoop vendors.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org&quot;&gt;http://kafka.apache.org&lt;/a&gt; - project home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/intro&quot;&gt;http://kafka.apache.org/intro&lt;/a&gt; - great introduction to Kafka&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.linkedin.com/2011/01/11/open-source-linkedin-kafka&quot;&gt;https://blog.linkedin.com/2011/01/11/open-source-linkedin-kafka&lt;/a&gt; - open source announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/KAFKA/Clients&quot;&gt;https://cwiki.apache.org/confluence/display/KAFKA/Clients&lt;/a&gt; - list of clients&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem&quot;&gt;https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem&lt;/a&gt; - associated technologies&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/product/&quot;&gt;https://www.confluent.io/product/&lt;/a&gt; - Confluent product homepage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/downloads&quot;&gt;http://kafka.apache.org/downloads&lt;/a&gt; - release history&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/&quot;&gt;https://www.confluent.io/blog/&lt;/a&gt; - Confluent blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Kafka Connect</title>
+				<link>http://ondataengineering.net/technologies/apache-kafka/kafka-connect/</link>
+				<description>&lt;p&gt;Framework for building scalable and reliable integrations between Kafka and other technologies, either for importing or exporting data.  Part of the core Apache Kafka open source technology, connectors are available for a wide range of systems, including Hadoop, relational, NoSQL and analytical databases, search technologies and message queues amongst others. Runs separately to Kafka, in either a stand-alone or distributed cluster mode, with a REST API for managing connectors.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/documentation/#connect&quot;&gt;http://kafka.apache.org/documentation/#connect&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/product/connectors/&quot;&gt;https://www.confluent.io/product/connectors/&lt;/a&gt; - Confluent information, including list of available connectors&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect/&quot;&gt;https://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect/&lt;/a&gt; - introduction blog post&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Kafka Streams</title>
+				<link>http://ondataengineering.net/technologies/apache-kafka/kafka-streams/</link>
+				<description>&lt;p&gt;Technology that allows stream processing to be added to a Kafka cluster, consuming and publishing events from and to Kafka topics (and potentially writing output to external systems). Based on an event-at-a-time model (i.e. not micro batch), with support for stateful processing, windowing, joining and re-processing data.  Supports a low level DSL API, as well as a high level API that provides both stream and table abstractions (where tables present the latest record for each key). Introduced in Kafka 0.10.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/documentation/streams&quot;&gt;http://kafka.apache.org/documentation/streams&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/product/kafka-streams/&quot;&gt;https://www.confluent.io/product/kafka-streams/&lt;/a&gt; - Confluent information page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/&quot;&gt;https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/&lt;/a&gt; - introduction blog post&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Oozie</title>
+				<link>http://ondataengineering.net/technologies/apache-oozie/</link>
+				<description>&lt;p&gt;Technology for managing workflows of jobs on Hadoop clusters. Primary concepts include workflows (a sequence of jobs modelled as a directed acyclic graph), coordinators (schedule the execution of workflows based on the time or the presence of data) and bundles (collections of coordinators), with all configuration specified in XML.  Supports a range of technologies, including MapReduce, Pig, Hive, Sqoop, Spark, Java executables and shell scripts.  Includes a server component, a metadata database for holding definitions and state (with support for a range of database technologies), a command line interface and a read only web interface for viewing the status of jobs.  Also supports the parameterisation of workflows, the modelling of datasets (and the use of these to manage dependencies between workflows within coordinators), automatic retry and failure handling, and the ability to send job status notifications via HTTP or JMS.  Open sourced by Yahoo in June 2010.  Donated to the Apache Foundation in July 2011, graduating in August 2012.  Commercial support available as part of most Hadoop distributions&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oozie.apache.org/&quot;&gt;http://oozie.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oozie.apache.org/docs/4.3.0/index.html&quot;&gt;http://oozie.apache.org/docs/4.3.0/index.html&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jaxenter.com/yahoos-hadoop-based-project-proposed-for-apache-incubator-103651.html&quot;&gt;https://jaxenter.com/yahoos-hadoop-based-project-proposed-for-apache-incubator-103651.html&lt;/a&gt; - intro interview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Oozie release announcements only appear to be available via the Apache announcements mailing list&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Parquet</title>
+				<link>http://ondataengineering.net/technologies/apache-parquet/</link>
+				<description>&lt;p&gt;Data serialisation framework that supports a columnar storage format to enable efficient querying of data.  Built using Apache Thrift, and supports complex nested data structures, using techniques from the Google Dremel paper.  Consists of three sub-projects, the specification and Thrift definitions (Parquet Format), the Java and Hadoop libraries (Parquet MR) and the C++ implementation (Parquet CPP).  Created as a joint effort between Twitter and Cloudera based on work started as part of Avro Trevni, with an initial v1.0 release in July 2013.  Donated to the Apache Foundation in May 2014, graduating in April 2015.  Has seen significant adoption in the Hadoop ecosystem.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://parquet.apache.org/&quot;&gt;http://parquet.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://parquet.apache.org/documentation/latest/&quot;&gt;http://parquet.apache.org/documentation/latest/&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2013/03/introducing-parquet-columnar-storage-for-apache-hadoop/&quot;&gt;http://blog.cloudera.com/blog/2013/03/introducing-parquet-columnar-storage-for-apache-hadoop/&lt;/a&gt; - initial announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/2013/dremel-made-simple-with-parquet&quot;&gt;https://blog.twitter.com/2013/dremel-made-simple-with-parquet&lt;/a&gt; - good introduction to Parquet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop&quot;&gt;https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop&lt;/a&gt; - 1.0 release announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces75&quot;&gt;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces75&lt;/a&gt; - top level project announcement, including summary of technology that support it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/apache/parquet-mr/blob/master/CHANGES.md&quot;&gt;https://github.com/apache/parquet-mr/blob/master/CHANGES.md&lt;/a&gt; - release and change summary&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
+			<item>
+				<title>Apache Pig</title>
+				<link>http://ondataengineering.net/technologies/apache-pig/</link>
+				<description>&lt;p&gt;Technology for running analytical and data processing jobs against data in Hadoop.  Jobs are written in Pig Latin (a custom procedural language that can be extended using user defined functions in a range of languages), which is then translated into Map Reduce or Tez (with Spark in development) for execution.  Supports both a batch mode for running pre-defined scripts and an interactive mode, and connectors for reading and writing to HBase and Accumulo as well as HDFS.  Originally developed at Yahoo in 2006 before being donated to the Apache Foundation in October 2007.  Graduated as an Hadoop sub-project in October 2008, before becoming a top level project in September 2010.  Although has not had a v1.0 release, has been production quality for many years.  Commercial support available as part of most Hadoop distributions&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/&quot;&gt;https://pig.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/releases.html&quot;&gt;https://pig.apache.org/releases.html&lt;/a&gt; - release history&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hortonworks.com/blog/announcing-apache-pig-0-14-0/&quot;&gt;http://hortonworks.com/blog/announcing-apache-pig-0-14-0/&lt;/a&gt; - Pig on Tez release announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2014/09/pig-is-flying-apache-pig-on-apache-spark/&quot;&gt;http://blog.cloudera.com/blog/2014/09/pig-is-flying-apache-pig-on-apache-spark/&lt;/a&gt; - first details of Pig on Spark&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/&quot;&gt;https://pig.apache.org/&lt;/a&gt; - news and updates&lt;/li&gt;
 &lt;/ul&gt;
 </description>
 				<discourse_author>Peter</discourse_author>
