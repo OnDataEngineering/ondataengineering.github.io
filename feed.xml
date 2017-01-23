@@ -12,6 +12,119 @@
 			
 				
 		<item>
+			<title>Hadoop Distributions</title>
+			<link>http://ondataengineering.net/tech-categories/hadoop_distributions/</link>
+			<pubDate>Mon, 23 Jan 2017 18:37:26 +0000</pubDate>
+			<description>
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/tech-categories/hadoop_distributions/</guid>
+		</item>
+					
+				
+			
+		
+			
+			
+				
+		<item>
+			<title>Hadoop Distros: Apache Bigtop</title>
+			<link>http://ondataengineering.net/blog/2017/01/23/hadoop-distros-apache-bigtop/</link>
+			<pubDate>Mon, 23 Jan 2017 18:00:00 +0000</pubDate>
+			<description>&lt;p&gt;And so to our first (hopefully of many) daily technology summary.&lt;/p&gt;
+
+&lt;p&gt;I want to continue our wander through the Apache Hadoop ecosystem by looking at the common Hadoop Distributions, starting with &lt;a href=&quot;/technologies/apache-bigtop/&quot;&gt;Apache Bigtop&lt;/a&gt;, and with this introducing our first technology category - the &lt;a href=&quot;/tech-categories/hadoop_distributions/&quot;&gt;Hadoop Distribution&lt;/a&gt;.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;Apache Bigtop is interesting for a couple of reasons - firstly because it’s the only true open source Hadoop distribution (meaning that it includes many components that the commercial distributions don’t, and the components it includes are often more up to date, assuming you’re happy to use the latest snapshot builds), and secondly because of it’s history as Cloudera’s attempt to create a common base Hadoop distribution with all the associated integration testing and packaging (there are links in the &lt;a href=&quot;/technologies/apache-bigtop/&quot;&gt;Bigtop page&lt;/a&gt; that provide further reading on this).&lt;/p&gt;
+
+&lt;p&gt;You’ll see that the &lt;a href=&quot;/technologies/apache-bigtop/&quot;&gt;Bigtop page&lt;/a&gt; links to the Hadoop technologies we’re already covered that it packages (and vice-versa), and the aim is that over the coming days we’ll complete this list as we add technology summaries for the rest of the technologies it packages.&lt;/p&gt;
+
+&lt;p&gt;And I shouldn’t let our first technology category go uncommented - as we’re going to be looking at the common Hadoop Distributions we’ll start collecting these together under an &lt;a href=&quot;/tech-categories/hadoop_distributions/&quot;&gt;Hadoop Distribution&lt;/a&gt; page and try and round these out over the coming weeks.&lt;/p&gt;
+
+&lt;p&gt;That’s it for now - we’ll speak again when we’ve worked our way through the remaining technologies bundled with Apache Bigtop.&lt;/p&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/23/hadoop-distros-apache-bigtop/</guid>
+		</item>
+					
+				
+			
+		
+			
+			
+				
+		<item>
+			<title>Apache Bigtop</title>
+			<link>http://ondataengineering.net/technologies/apache-bigtop/</link>
+			<pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;release-history&quot;&gt;Release History&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.1.0&lt;/td&gt;
+      &lt;td&gt;17th Feb 2016&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/release_1_1_0_is&quot;&gt;https://blogs.apache.org/bigtop/entry/release_1_1_0_is&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1.0.0&lt;/td&gt;
+      &lt;td&gt;17th Aug 2015&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/not_just_yet_another_release&quot;&gt;https://blogs.apache.org/bigtop/entry/not_just_yet_another_release&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;based on Hadoop 2.6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0.8.0&lt;/td&gt;
+      &lt;td&gt;6th Oct 2014&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_01&quot;&gt;https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_01&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0.7.0&lt;/td&gt;
+      &lt;td&gt;6th Nov 2013&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_0&quot;&gt;https://blogs.apache.org/bigtop/entry/release_of_apache_bigtop_0&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0.6.0&lt;/td&gt;
+      &lt;td&gt;22nd June 2013&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/apache_bigtop_0_6_0&quot;&gt;https://blogs.apache.org/bigtop/entry/apache_bigtop_0_6_0&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt; &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;0.5.0&lt;/td&gt;
+      &lt;td&gt;27th Dec 2012&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/apache_bigtop_0_5_0&quot;&gt;https://blogs.apache.org/bigtop/entry/apache_bigtop_0_5_0&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;first release as TLP&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bigtop.apache.org&quot;&gt;http://bigtop.apache.org&lt;/a&gt; - Homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/BIGTOP/Index&quot;&gt;https://cwiki.apache.org/confluence/display/BIGTOP/Index&lt;/a&gt; - The Apache Bigtop Wiki&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/apache/bigtop/blob/master/bigtop.bom&quot;&gt;https://github.com/apache/bigtop/blob/master/bigtop.bom&lt;/a&gt; - details of all included packages and their versions (as of current development snapshot)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2012/07/update-on-apache-bigtop-incubating/&quot;&gt;http://blog.cloudera.com/blog/2012/07/update-on-apache-bigtop-incubating/&lt;/a&gt; - Cloudera introduction to Bigtop&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you&quot;&gt;https://blogs.apache.org/bigtop/entry/bigtop_and_why_should_you&lt;/a&gt; - Early introduction to Bigtop&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.pivotal.io/pivotal/pivotal-people/pivotal-people-roman-shaposhnik-founder-of-apache-bigtop-joins-pivotal&quot;&gt;https://blog.pivotal.io/pivotal/pivotal-people/pivotal-people-roman-shaposhnik-founder-of-apache-bigtop-joins-pivotal&lt;/a&gt; - Interview with Roman Shoposhnik on the aims of Bigtop&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://issues.apache.org/jira/browse/BIGTOP/?selectedTab=com.atlassian.jira.jira-projects-plugin:versions-panel&quot;&gt;https://issues.apache.org/jira/browse/BIGTOP/?selectedTab=com.atlassian.jira.jira-projects-plugin:versions-panel&lt;/a&gt; - Release list and link to release notes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/bigtop/&quot;&gt;https://blogs.apache.org/bigtop/&lt;/a&gt; - The Apache Bigtop Blog&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bigtop.apache.org/&quot;&gt;http://bigtop.apache.org/&lt;/a&gt; - details of latest release&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-bigtop/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
 			<title>The Daily Technology Summary</title>
 			<link>http://ondataengineering.net/blog/2017/01/23/the-daily-technology-summary/</link>
 			<pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
