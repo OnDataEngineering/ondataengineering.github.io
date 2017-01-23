@@ -6,11 +6,201 @@
 		<link>http://ondataengineering.net/</link>
 		<atom:link href="http://ondataengineering.net/feed.xml" rel="self" type="application/rss+xml" />
 		
-			<item>
-				<title>Core Hadoop Technologies (pt3)</title>
-				<link>http://ondataengineering.net/blog/2017/01/20/core-hadoop-technologies-pt3/</link>
-				<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;Up today, our final look at the core technologies within the Hadoop ecosystem.
+		
+		
+			
+			
+				
+		<item>
+			<title>The Daily Technology Summary</title>
+			<link>http://ondataengineering.net/blog/2017/01/23/the-daily-technology-summary/</link>
+			<pubDate>Mon, 23 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;Up until today, I’ve been publishing new technology summaries in bulk every Friday.  However I want to change up the pace a little, and so going forward I’m going to try to publish a new technology summary every week day.&lt;/p&gt;
+
+&lt;!--more--&gt;
+&lt;p&gt;Blog posts will be less frequent, and will usually be used to introduce and conclude a specific set of technologies we’re looking it.  Because of this, you’ll notice that the site home page now supports a snazzy new summary of recent changes to content on the right hand side next to the summary of recent blog posts.  In addition, the RSS and Atom feeds now include content updates as well as blog posts.&lt;/p&gt;
+
+&lt;p&gt;Also, in the coming days there will be new options to get the daily technology summary (and blog posts) delivered to your inbox via e-mail, and we’ll also start publishing these on Twitter (@OnDataEng) as well - just as soon as it’s all setup.&lt;/p&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/23/the-daily-technology-summary/</guid>
+		</item>
+					
+				
+			
+		
+			
+			
+				
+		<item>
+			<title>Apache Pig</title>
+			<link>http://ondataengineering.net/technologies/apache-pig/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/&quot;&gt;https://pig.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/releases.html&quot;&gt;https://pig.apache.org/releases.html&lt;/a&gt; - release history&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hortonworks.com/blog/announcing-apache-pig-0-14-0/&quot;&gt;http://hortonworks.com/blog/announcing-apache-pig-0-14-0/&lt;/a&gt; - Pig on Tez release announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2014/09/pig-is-flying-apache-pig-on-apache-spark/&quot;&gt;http://blog.cloudera.com/blog/2014/09/pig-is-flying-apache-pig-on-apache-spark/&lt;/a&gt; - first details of Pig on Spark&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/&quot;&gt;https://pig.apache.org/&lt;/a&gt; - news and updates&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-pig/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Parquet</title>
+			<link>http://ondataengineering.net/technologies/apache-parquet/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://parquet.apache.org/&quot;&gt;http://parquet.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://parquet.apache.org/documentation/latest/&quot;&gt;http://parquet.apache.org/documentation/latest/&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2013/03/introducing-parquet-columnar-storage-for-apache-hadoop/&quot;&gt;http://blog.cloudera.com/blog/2013/03/introducing-parquet-columnar-storage-for-apache-hadoop/&lt;/a&gt; - initial announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/2013/dremel-made-simple-with-parquet&quot;&gt;https://blog.twitter.com/2013/dremel-made-simple-with-parquet&lt;/a&gt; - good introduction to Parquet&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop&quot;&gt;https://blog.twitter.com/2013/announcing-parquet-10-columnar-storage-for-hadoop&lt;/a&gt; - 1.0 release announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces75&quot;&gt;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces75&lt;/a&gt; - top level project announcement, including summary of technology that support it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/apache/parquet-mr/blob/master/CHANGES.md&quot;&gt;https://github.com/apache/parquet-mr/blob/master/CHANGES.md&lt;/a&gt; - release and change summary&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-parquet/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Oozie</title>
+			<link>http://ondataengineering.net/technologies/apache-oozie/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oozie.apache.org/&quot;&gt;http://oozie.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://oozie.apache.org/docs/4.3.0/index.html&quot;&gt;http://oozie.apache.org/docs/4.3.0/index.html&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jaxenter.com/yahoos-hadoop-based-project-proposed-for-apache-incubator-103651.html&quot;&gt;https://jaxenter.com/yahoos-hadoop-based-project-proposed-for-apache-incubator-103651.html&lt;/a&gt; - intro interview&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Oozie release announcements only appear to be available via the Apache announcements mailing list&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-oozie/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Kafka Streams</title>
+			<link>http://ondataengineering.net/technologies/apache-kafka/kafka-streams/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/documentation/streams&quot;&gt;http://kafka.apache.org/documentation/streams&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/product/kafka-streams/&quot;&gt;https://www.confluent.io/product/kafka-streams/&lt;/a&gt; - Confluent information page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/&quot;&gt;https://www.confluent.io/blog/introducing-kafka-streams-stream-processing-made-simple/&lt;/a&gt; - introduction blog post&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-kafka/kafka-streams/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Kafka Connect</title>
+			<link>http://ondataengineering.net/technologies/apache-kafka/kafka-connect/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/documentation/#connect&quot;&gt;http://kafka.apache.org/documentation/#connect&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/product/connectors/&quot;&gt;https://www.confluent.io/product/connectors/&lt;/a&gt; - Confluent information, including list of available connectors&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect/&quot;&gt;https://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect/&lt;/a&gt; - introduction blog post&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-kafka/kafka-connect/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Kafka</title>
+			<link>http://ondataengineering.net/technologies/apache-kafka/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org&quot;&gt;http://kafka.apache.org&lt;/a&gt; - project home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/intro&quot;&gt;http://kafka.apache.org/intro&lt;/a&gt; - great introduction to Kafka&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.linkedin.com/2011/01/11/open-source-linkedin-kafka&quot;&gt;https://blog.linkedin.com/2011/01/11/open-source-linkedin-kafka&lt;/a&gt; - open source announcement&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/KAFKA/Clients&quot;&gt;https://cwiki.apache.org/confluence/display/KAFKA/Clients&lt;/a&gt; - list of clients&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem&quot;&gt;https://cwiki.apache.org/confluence/display/KAFKA/Ecosystem&lt;/a&gt; - associated technologies&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/product/&quot;&gt;https://www.confluent.io/product/&lt;/a&gt; - Confluent product homepage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/downloads&quot;&gt;http://kafka.apache.org/downloads&lt;/a&gt; - release history&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.confluent.io/blog/&quot;&gt;https://www.confluent.io/blog/&lt;/a&gt; - Confluent blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-kafka/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Avro</title>
+			<link>http://ondataengineering.net/technologies/apache-avro/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://avro.apache.org/&quot;&gt;http://avro.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://avro.apache.org/docs/current/&quot;&gt;https://avro.apache.org/docs/current/&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2009/11/avro-a-new-format-for-data-interchange/&quot;&gt;http://blog.cloudera.com/blog/2009/11/avro-a-new-format-for-data-interchange/&lt;/a&gt; - original introduction to Avro&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces4&quot;&gt;https://blogs.apache.org/foundation/entry/the_apache_software_foundation_announces4&lt;/a&gt; - Avro top level project announcement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://avro.apache.org/releases.html&quot;&gt;http://avro.apache.org/releases.html&lt;/a&gt; - project releases&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-avro/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Core Hadoop Technologies (pt3)</title>
+			<link>http://ondataengineering.net/blog/2017/01/20/core-hadoop-technologies-pt3/</link>
+			<pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;Up today, our final look at the core technologies within the Hadoop ecosystem.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;First up are &lt;a href=&quot;/technologies/apache-avro&quot;&gt;Avro&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-parquet&quot;&gt;Parquet&lt;/a&gt;, both of which are key data formats used within the Hadoop ecosystem, but with different and contrasting focuses.&lt;/p&gt;
@@ -25,14 +215,166 @@
 
 &lt;p&gt;That’s it for this week, and for the core Hadoop technologies - it’s been fun.  We’ll be back on Monday to start looking at Apache Bigtop, along with a change of pace…&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/20/core-hadoop-technologies-pt3/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/20/core-hadoop-technologies-pt3/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>Core Hadoop Technologies (pt2)</title>
-				<link>http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</link>
-				<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;And onwards with our look at the core Hadoop technologies.
+			
+			
+				
+		<item>
+			<title>Apache Sqoop</title>
+			<link>http://ondataengineering.net/technologies/apache-sqoop/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org&quot;&gt;http://sqoop.apache.org&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org/docs/&quot;&gt;http://sqoop.apache.org/docs/&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/entry/apache_sqoop_highlights_of_sqoop&quot;&gt;https://blogs.apache.org/sqoop/entry/apache_sqoop_highlights_of_sqoop&lt;/a&gt; - introduction to Sqoop 2&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/entry/apache_sqoop_graduates_from_incubator&quot;&gt;https://blogs.apache.org/sqoop/entry/apache_sqoop_graduates_from_incubator&lt;/a&gt; - early history of Sqoop&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org/&quot;&gt;http://sqoop.apache.org/&lt;/a&gt; - details latest release, and hosts release notes for v1.4.0 onwards&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/sqoop/&quot;&gt;https://blogs.apache.org/sqoop/&lt;/a&gt; - project blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-sqoop/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Spark Streaming</title>
+			<link>http://ondataengineering.net/technologies/apache-spark/spark-streaming/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/sql/&quot;&gt;http://spark.apache.org/sql/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/sql-programming-guide.html&quot;&gt;http://spark.apache.org/docs/latest/sql-programming-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-spark/spark-streaming/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Spark SQL</title>
+			<link>http://ondataengineering.net/technologies/apache-spark/spark-sql/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/sql/&quot;&gt;http://spark.apache.org/sql/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/sql-programming-guide.html&quot;&gt;http://spark.apache.org/docs/latest/sql-programming-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-spark/spark-sql/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>MLlib</title>
+			<link>http://ondataengineering.net/technologies/apache-spark/mllib/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/mllib//&quot;&gt;http://spark.apache.org/mllib//&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/ml-guide.html&quot;&gt;http://spark.apache.org/docs/latest/ml-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mlbase.org/&quot;&gt;http://www.mlbase.org/&lt;/a&gt; - the UC Berkeley MLbase project&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-spark/mllib/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>GraphX</title>
+			<link>http://ondataengineering.net/technologies/apache-spark/graphx/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/graphx/&quot;&gt;http://spark.apache.org/graphx/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/graphx-programming-guide.html&quot;&gt;http://spark.apache.org/docs/latest/graphx-programming-guide.html&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-spark/graphx/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Spark</title>
+			<link>http://ondataengineering.net/technologies/apache-spark/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/&quot;&gt;http://spark.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/docs/latest/&quot;&gt;http://spark.apache.org/docs/latest/&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/news/index.html&quot;&gt;http://spark.apache.org/news/index.html&lt;/a&gt; - project news&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://databricks.com/blog/category/engineering&quot;&gt;https://databricks.com/blog/category/engineering&lt;/a&gt; - Databricks engineering blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-spark/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Solr</title>
+			<link>http://ondataengineering.net/technologies/apache-solr/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr&quot;&gt;http://lucene.apache.org/solr&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/features.html&quot;&gt;http://lucene.apache.org/solr/features.html&lt;/a&gt; - good summary of Solr features&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apache.org/dyn/closer.lua/lucene/solr/ref-guide/&quot;&gt;https://www.apache.org/dyn/closer.lua/lucene/solr/ref-guide/&lt;/a&gt; - PDF download of documentation for latest release&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/solr/&quot;&gt;https://cwiki.apache.org/confluence/display/solr/&lt;/a&gt; - online working version of documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Apache_Solr&quot;&gt;https://en.wikipedia.org/wiki/Apache_Solr&lt;/a&gt; - history of Solr&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/news.html&quot;&gt;http://lucene.apache.org/solr/news.html&lt;/a&gt; - project news&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yonik.com/&quot;&gt;http://yonik.com/&lt;/a&gt; - details of new features from the creator of Solr&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-solr/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Core Hadoop Technologies (pt2)</title>
+			<link>http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</link>
+			<pubDate>Fri, 13 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;And onwards with our look at the core Hadoop technologies.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;Today, I’ve added &lt;a href=&quot;/technologies/apache-solr/&quot;&gt;Solr&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-sqoop/&quot;&gt;Sqoop&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-spark/&quot;&gt;Spark&lt;/a&gt;, along with the Spark sub-projects &lt;a href=&quot;/technologies/apache-spark/spark-sql/&quot;&gt;Spark SQL&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-spark/spark-streaming/&quot;&gt;Spark Streaming&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-spark/mllib/&quot;&gt;MLlib&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-spark/graphx/&quot;&gt;GraphX&lt;/a&gt;.&lt;/p&gt;
@@ -43,14 +385,143 @@
 
 &lt;p&gt;And so to Spark - which claims to be the most active Open Source project in Big Data (as well as many other things).  What is clear however is it’s the one next gen data processing and transformation language that managed to catch significant momentum and adoption.  We can argue the toss on whether it’s the best technology, but it’s now bundled with all the Hadoop distributions, has a rapidly growing base of trained and experienced developers, and a rich ecosystem, which means it’s becoming the default answer to a whole bunch of use cases.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>Core Hadoop Technologies (pt1)</title>
-				<link>http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</link>
-				<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;And we’re back - Happy New Year!&lt;/p&gt;
+			
+			
+				
+		<item>
+			<title>Hive Server</title>
+			<link>http://ondataengineering.net/technologies/apache-hive/hive-server/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&quot;&gt;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&lt;/a&gt; - introduction to Hive Server 2&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hive/hive-server/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Hive Metastore</title>
+			<link>http://ondataengineering.net/technologies/apache-hive/hive-metastore/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin&lt;/a&gt; - documentation home&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hive/hive-metastore/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>HCatalog</title>
+			<link>http://ondataengineering.net/technologies/apache-hive/hcatalog/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/HCatalog&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/HCatalog&lt;/a&gt; - HCatalog documentation home&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/WebHCat&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/WebHCat&lt;/a&gt; - WebHCat documentation home&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hive/hcatalog/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Hive</title>
+			<link>http://ondataengineering.net/technologies/apache-hive/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hive.apache.org/&quot;&gt;http://hive.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/Home&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/Home&lt;/a&gt; - documentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hive.apache.org/downloads.html&quot;&gt;http://hive.apache.org/downloads.html&lt;/a&gt; - details of new releases&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/category/hive/&quot;&gt;http://blog.cloudera.com/blog/category/hive/&lt;/a&gt; - Cloudera Hive News&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hortonworks.com/blog/category/hive/&quot;&gt;http://hortonworks.com/blog/category/hive/&lt;/a&gt; - Hortonworks Hive News&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hive/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache HBase</title>
+			<link>http://ondataengineering.net/technologies/apache-hbase/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hbase.apache.org/&quot;&gt;http://hbase.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hbase.apache.org/book.html&quot;&gt;http://hbase.apache.org/book.html&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jimbojw.com/wiki/index.php?title=Understanding_Hbase_and_BigTable&quot;&gt;http://jimbojw.com/wiki/index.php?title=Understanding_Hbase_and_BigTable&lt;/a&gt; - HBase primer&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/hbase/entry/start_of_a_new_era&quot;&gt;https://blogs.apache.org/hbase/entry/start_of_a_new_era&lt;/a&gt; - introduction to HBase versioning scheme&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/hbase/&quot;&gt;https://blogs.apache.org/hbase/&lt;/a&gt; - Apache HBase Blog&lt;/li&gt;
+  &lt;li&gt;HBase release announcements only appear to be available via the Apache announcements mailing list&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hbase/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Flume</title>
+			<link>http://ondataengineering.net/technologies/apache-flume/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/&quot;&gt;http://flume.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/FlumeUserGuide.html&quot;&gt;http://flume.apache.org/FlumeUserGuide.html&lt;/a&gt; - user guide&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/&quot;&gt;http://flume.apache.org/&lt;/a&gt; - project updates and releases&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-flume/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Core Hadoop Technologies (pt1)</title>
+			<link>http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</link>
+			<pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;And we’re back - Happy New Year!&lt;/p&gt;
 
 &lt;p&gt;Having started with the core Apache Hadoop project, we’re now going to look at the “core” technologies within the Hadoop space, based on those included in multiple distributions (many thanks to Merv Adrian from Gartner for his useful &lt;a href=&quot;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&quot;&gt;tracker&lt;/a&gt;)
 &lt;!--more--&gt;&lt;/p&gt;
@@ -67,14 +538,118 @@
 
 &lt;p&gt;That’s it for this week - next up is Solr, Sqoop and Spark.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>Apache Hadoop</title>
-				<link>http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</link>
-				<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;And so we begin our journey through the jungle of Data Engineering technologies by looking at the technology du jour - Apache Hadoop.
+			
+			
+				
+		<item>
+			<title>YARN</title>
+			<link>http://ondataengineering.net/technologies/apache-hadoop/yarn/</link>
+			<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&lt;/a&gt; - YARN architecture overview and documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hadoop/yarn/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>MapReduce</title>
+			<link>http://ondataengineering.net/technologies/apache-hadoop/map-reduce/</link>
+			<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html&lt;/a&gt; - MapReduce tutorial and documentation&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hadoop/map-reduce/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>HDFS</title>
+			<link>http://ondataengineering.net/technologies/apache-hadoop/hdfs/</link>
+			<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html&lt;/a&gt; - HDFS documentation home&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/&quot;&gt;http://bradhedlund.com/2011/09/10/understanding-hadoop-clusters-and-the-network/&lt;/a&gt; - good intro the the architecture of HDFS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hadoop/hdfs/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Hadoop</title>
+			<link>http://ondataengineering.net/technologies/apache-hadoop/</link>
+			<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/&quot;&gt;http://hadoop.apache.org/&lt;/a&gt; - Project Homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/releases.html&quot;&gt;http://hadoop.apache.org/releases.html&lt;/a&gt; - full release history&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704&quot;&gt;https://medium.com/@markobonaci/the-history-of-hadoop-68984a11704&lt;/a&gt; - history of Hadoop&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&quot;&gt;http://blogs.gartner.com/merv-adrian/2016/07/30/hadoop-project-commercial-support-tracker-july-2016/&lt;/a&gt; - summary of the technologies in the common Hadoop distributions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/&quot;&gt;http://hadoop.apache.org/&lt;/a&gt; - project updates and releases&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/technologies/apache-hadoop/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>The Apache Software Foundation</title>
+			<link>http://ondataengineering.net/tech-vendors/apache/</link>
+			<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apache.org/&quot;&gt;https://www.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apache.org/foundation/how-it-works.html&quot;&gt;https://www.apache.org/foundation/how-it-works.html&lt;/a&gt; - information on the foundation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://apache.org/foundation/mailinglists.html#foundation-announce&quot;&gt;http://apache.org/foundation/mailinglists.html#foundation-announce&lt;/a&gt; - the Apache Foundation announcements mailing list&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/&quot;&gt;https://blogs.apache.org/&lt;/a&gt;; &lt;a href=&quot;https://blogs.apache.org/planet/feed/entries/rss&quot;&gt;https://blogs.apache.org/planet/feed/entries/rss&lt;/a&gt; - The set of Apache Foundation blogs&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+			<guid isPermaLink="true">http://ondataengineering.net/tech-vendors/apache/</guid>
+		</item>
+					
+				
+			
+				
+		<item>
+			<title>Apache Hadoop</title>
+			<link>http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</link>
+			<pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;And so we begin our journey through the jungle of Data Engineering technologies by looking at the technology du jour - Apache Hadoop.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;There’s an entire ecosystem here that we’ll start to explore by looking at the major Hadoop vendors, but the first entries in our technology catalogue are the &lt;a href=&quot;/technologies/apache-hadoop/&quot;&gt;Apache Hadoop&lt;/a&gt; project itself, along with its sub-projects: &lt;a href=&quot;/technologies/apache-hadoop/yarn/&quot;&gt;YARN&lt;/a&gt;, &lt;a href=&quot;/technologies/apache-hadoop/hdfs/&quot;&gt;HDFS&lt;/a&gt; and &lt;a href=&quot;/technologies/apache-hadoop/map-reduce/&quot;&gt;MapReduce&lt;/a&gt;. Click on the links to view the technology information I’ve added to the site.&lt;/p&gt;
@@ -83,14 +658,20 @@
 
 &lt;p&gt;And with that it’s time for Christmas!  We’ll be back in three weeks with the first of the core technologies within the Hadoop space.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/16/apache-hadoop/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>The Technology Catalogue</title>
-				<link>http://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</link>
-				<pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;The first step in this journey is going to be creation of a catalogue of the technologies that are going to be of interest to us as we explore the world of data engineering.
+			
+			
+				
+		<item>
+			<title>The Technology Catalogue</title>
+			<link>http://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</link>
+			<pubDate>Wed, 14 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;The first step in this journey is going to be creation of a catalogue of the technologies that are going to be of interest to us as we explore the world of data engineering.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;The aim is to provide a valuable reference for anyone starting a technology evaluation to understand what technology options they might have for a given situation, or to understand if and how a technology might fit into an existing ecosystem.&lt;/p&gt;
@@ -121,14 +702,20 @@
 
 &lt;p&gt;This is obviously going to take some time given the vast range of technologies, so if you’re interested in contributing in whatever form, if you spot any issues or omissions, or if you have any comments you’d like to add, then please do share your thoughts.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>The Plan</title>
-				<link>http://ondataengineering.net/blog/2016/12/12/the-plan/</link>
-				<pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;One more post before we get started.&lt;/p&gt;
+			
+			
+				
+		<item>
+			<title>The Plan</title>
+			<link>http://ondataengineering.net/blog/2016/12/12/the-plan/</link>
+			<pubDate>Mon, 12 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;One more post before we get started.&lt;/p&gt;
 
 &lt;p&gt;The following are my current thoughts for some of the topics I’d like to cover on this site, both as a reference for my future self to look back at my naive optimism, but also if anyone wants to start contributing to any of these now, or to start a discussion on any the later topics to start framing and exploring them.
 &lt;!--more--&gt;&lt;/p&gt;
@@ -161,14 +748,20 @@
 
 &lt;p&gt;I think that will more than do us.  Getting through that lot will take some time, but with help and contributions I think this site could be hugely valuable.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/12/the-plan/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/12/the-plan/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>Big Data</title>
-				<link>http://ondataengineering.net/blog/2016/12/09/big-data/</link>
-				<pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;Before we get stuck in, a short digression to talk about Big Data.
+			
+			
+				
+		<item>
+			<title>Big Data</title>
+			<link>http://ondataengineering.net/blog/2016/12/09/big-data/</link>
+			<pubDate>Fri, 09 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;Before we get stuck in, a short digression to talk about Big Data.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;There are many different definitions of Big Data, but for arguments sake let’s say this refers to the exploitation of data that would have previously been uneconomical due to the volume of data, the structure or format of the data (e.g. unstructured, semi-structured, or complex file formats such as video and audio) and the types of analytics required (e.g. path, graph or time series analysis)&lt;/p&gt;
@@ -181,14 +774,20 @@
 
 &lt;p&gt;In terms of this site the plan is to look at the wider picture and take an holistic view of data transformation and exploitation.  I’ve therefore no plans to talk explicitly about Big Data, but in looking at the wider picture we will absolutely cover everything relating to it (the technologies and the new use cases these enable) alongside coverage of other new technologies, more established technologies and capabilities, and the interesting intersection between them all.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/09/big-data/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/09/big-data/</guid>
+		</item>
+					
+				
+			
 		
-			<item>
-				<title>Welcome</title>
-				<link>http://ondataengineering.net/blog/2016/12/07/welcome/</link>
-				<pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;For me, one of the biggest challenges in exploiting data (be that through reporting, big data analytics, machine learning or any one of a dozen similar capabilities) is making sure you have the right data in the right place at the right time to allow you to do this efficiently.
+			
+			
+				
+		<item>
+			<title>Welcome</title>
+			<link>http://ondataengineering.net/blog/2016/12/07/welcome/</link>
+			<pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
+			<description>&lt;p&gt;For me, one of the biggest challenges in exploiting data (be that through reporting, big data analytics, machine learning or any one of a dozen similar capabilities) is making sure you have the right data in the right place at the right time to allow you to do this efficiently.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;p&gt;For example, &lt;a href=&quot;http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html&quot;&gt;this&lt;/a&gt; article from the New York Times and &lt;a href=&quot;http://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/&quot;&gt;this&lt;/a&gt; more recent one from Forbes talks about how the analysis of big data promises unique business insights, but for big-data scientists there is significant manual ‘janitor work’ (up to 80% of their time) required to prepare data, and although the research is sponsored by Data Wrangling tool vendors, the conclusions will resonate with many data scientists.  Combine this with the historical cost, delivery speed and agility issues typically associated with delivery data warehouse or reporting solutions, and for me it’s never been clearer that we need to get smarter at how we prepare and manage data.&lt;/p&gt;
@@ -197,8 +796,11 @@
 
 &lt;p&gt;My hope is that this becomes a community owned and authored site of trusted reference material on these topics.  To that end, all the content on this site is licensed under the Creative Commons Attribution 4.0 International License and hosted in a public GitHub repository, and there are a set of Discourse forums for discussions. Details of how to contribute and get involved can be found on every page.&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/07/welcome/</guid>
-			</item>
+			<guid isPermaLink="true">http://ondataengineering.net/blog/2016/12/07/welcome/</guid>
+		</item>
+					
+				
+			
 		
 	</channel>
 </rss>
