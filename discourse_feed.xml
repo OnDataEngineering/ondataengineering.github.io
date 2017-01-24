@@ -822,5 +822,28 @@
 				<discourse_author>Peter</discourse_author>
 			</item>
 			
+			<item>
+				<title>Apache Ignite</title>
+				<link>http://ondataengineering.net/technologies/apache-ignite/</link>
+				<description>&lt;p&gt;A distributed in-memory data fabric/grid, supporting a number of use cases including a key value store (with SQL support), real time stream/event processing engine, arbitrary compute, long running service management, an in-memory HDFS compatible file system for acceleration of Hadoop jobs, and in-memory shared Spark RDDs.  An Apache project, graduating in September 2015, having been originally donated by GridGain from their In-Memory Data Fabric product launched in 2007. Java based, with development lead by GridGain who also supply commercial support (as GridGain Professional with ongoing Q&amp;A and bug fixes before they're included in Ignite) along with GridGain Enterprise (which includes extra features such as a management GUI, enterprise security and rolling upgrades).&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ignite.apache.org/&quot;&gt;https://ignite.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gridgain.com/&quot;&gt;http://www.gridgain.com/&lt;/a&gt; - Grid Gain home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gridgain.com/products/pricing/&quot;&gt;http://www.gridgain.com/products/pricing/&lt;/a&gt; - details of GridGain editions&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apacheignite.readme.io/docs&quot;&gt;https://apacheignite.readme.io/docs&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/apache-ignite&quot;&gt;https://www.infoq.com/presentations/apache-ignite&lt;/a&gt; - intro presentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ignite.apache.org/blogs.html&quot;&gt;https://ignite.apache.org/blogs.html&lt;/a&gt; - Ingite blog&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gridgain.com/resources/blog&quot;&gt;https://www.gridgain.com/resources/blog&lt;/a&gt; - GridGain blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
 	</channel>
 </rss>

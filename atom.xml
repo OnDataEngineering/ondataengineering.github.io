@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://ondataengineering.net/</id>
 	<title>OnDataEngineering</title>
-	<updated>2017-01-23T18:37:26+00:00</updated>
+	<updated>2017-01-24T17:47:08+00:00</updated>
 
 	<subtitle>A collaborative site for independent, critical and technical thinking on the use cases, architectural patterns and technologies relating to the transformation and preparation of data for exploitation.</subtitle>
 
@@ -27,19 +27,34 @@
 		
 					
 	<entry>
-		<id>http://ondataengineering.net/tech-categories/hadoop_distributions/</id>
-		<title>Hadoop Distributions</title>
-		<link href="http://ondataengineering.net/tech-categories/hadoop_distributions/" rel="alternate" type="text/html" title="Hadoop Distributions" />
-		<updated>2017-01-23T18:37:26+00:00</updated>
+		<id>http://ondataengineering.net/technologies/apache-ignite/</id>
+		<title>Apache Ignite</title>
+		<link href="http://ondataengineering.net/technologies/apache-ignite/" rel="alternate" type="text/html" title="Apache Ignite" />
+		<updated>2017-01-24T00:00:00+00:00</updated>
 		<author>
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/tech-categories/hadoop_distributions/">
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-ignite/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ignite.apache.org/&quot;&gt;https://ignite.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gridgain.com/&quot;&gt;http://www.gridgain.com/&lt;/a&gt; - Grid Gain home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gridgain.com/products/pricing/&quot;&gt;http://www.gridgain.com/products/pricing/&lt;/a&gt; - details of GridGain editions&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apacheignite.readme.io/docs&quot;&gt;https://apacheignite.readme.io/docs&lt;/a&gt; - documentation&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/apache-ignite&quot;&gt;https://www.infoq.com/presentations/apache-ignite&lt;/a&gt; - intro presentation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ignite.apache.org/blogs.html&quot;&gt;https://ignite.apache.org/blogs.html&lt;/a&gt; - Ingite blog&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gridgain.com/resources/blog&quot;&gt;https://www.gridgain.com/resources/blog&lt;/a&gt; - GridGain blog&lt;/li&gt;
+&lt;/ul&gt;
 </content>
 		
 		
-		<published>2017-01-23T18:37:26+00:00</published>
+		<published>2017-01-24T00:00:00+00:00</published>
 	</entry>
 	
 			
@@ -153,6 +168,25 @@
 &lt;/ul&gt;
 </content>
 		<category term="Hadoop Distributions" />
+		
+		<published>2017-01-23T00:00:00+00:00</published>
+	</entry>
+	
+			
+		
+					
+	<entry>
+		<id>http://ondataengineering.net/tech-categories/hadoop_distributions/</id>
+		<title>Hadoop Distributions</title>
+		<link href="http://ondataengineering.net/tech-categories/hadoop_distributions/" rel="alternate" type="text/html" title="Hadoop Distributions" />
+		<updated>2017-01-23T00:00:00+00:00</updated>
+		<author>
+			<name>Peter</name>
+			<uri>http://ondataengineering.net/</uri>
+		</author>
+		<content type="html" xml:base="http://ondataengineering.net/tech-categories/hadoop_distributions/">
+</content>
+		
 		
 		<published>2017-01-23T00:00:00+00:00</published>
 	</entry>
