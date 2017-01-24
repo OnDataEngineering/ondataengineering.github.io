@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://ondataengineering.net/</id>
 	<title>OnDataEngineering</title>
-	<updated>2017-01-24T17:47:08+00:00</updated>
+	<updated>2017-01-24T18:57:03+00:00</updated>
 
 	<subtitle>A collaborative site for independent, critical and technical thinking on the use cases, architectural patterns and technologies relating to the transformation and preparation of data for exploitation.</subtitle>
 
@@ -35,7 +35,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-ignite/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-ignite/">&lt;p&gt;A distributed in-memory data fabric/grid, supporting a number of use cases including a key value store (with SQL support), real time stream/event processing engine, arbitrary compute, long running service management, an in-memory HDFS compatible file system for acceleration of Hadoop jobs, and in-memory shared Spark RDDs.  An Apache project, graduating in September 2015, having been originally donated by GridGain from their In-Memory Data Fabric product launched in 2007. Java based, with development lead by GridGain who also supply commercial support (as GridGain Professional with ongoing Q&amp;A and bug fixes before they're included in Ignite) along with GridGain Enterprise (which includes extra features such as a management GUI, enterprise security and rolling upgrades).&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://ignite.apache.org/&quot;&gt;https://ignite.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -105,7 +105,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-bigtop/">&lt;h2 id=&quot;release-history&quot;&gt;Release History&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-bigtop/">&lt;p&gt;An Apache open source distribution of Hadoop.  Packages up a number of Apache Hadoop components, certifies their interoperability using an automated integration test suite, and packages them up as RPMs/DEBs packages for most flavours of Linux. Also includes virtual machine images and vagrant, docker and puppet recipes for deploying and working with Hadoop.  Does not patch projects for distribution, but requires any fixes to be made upstream. An Apache Open Source project, started by Cloudera, donated to the Apache foundation in June 2011, graduating in September 2012, with a 1.0 release in August 2015 based on Hadoop 2.6.  Since donating the project, Cloudera have backed away from it, with the project lead moving to Pivotal in December 2013.  Now has a broad range of contributors, however usage by the major distributors is not clear.&lt;/p&gt;&lt;h2 id=&quot;release-history&quot;&gt;Release History&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -184,7 +184,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/tech-categories/hadoop_distributions/">
+		<content type="html" xml:base="http://ondataengineering.net/tech-categories/hadoop_distributions/">&lt;p&gt;Projects that bundle together specific versions of multiple components around the Hadoop ecosystem, certify that these work together, and deliver packages and other installation mechanisms for installing and managing these.&lt;/p&gt;
 </content>
 		
 		
@@ -230,7 +230,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-pig/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-pig/">&lt;p&gt;Technology for running analytical and data processing jobs against data in Hadoop.  Jobs are written in Pig Latin (a custom procedural language that can be extended using user defined functions in a range of languages), which is then translated into Map Reduce or Tez (with Spark in development) for execution.  Supports both a batch mode for running pre-defined scripts and an interactive mode, and connectors for reading and writing to HBase and Accumulo as well as HDFS.  Originally developed at Yahoo in 2006 before being donated to the Apache Foundation in October 2007.  Graduated as an Hadoop sub-project in October 2008, before becoming a top level project in September 2010.  Although has not had a v1.0 release, has been production quality for many years.  Commercial support available as part of most Hadoop distributions&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://pig.apache.org/&quot;&gt;https://pig.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
@@ -262,7 +262,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-parquet/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-parquet/">&lt;p&gt;Data serialisation framework that supports a columnar storage format to enable efficient querying of data.  Built using Apache Thrift, and supports complex nested data structures, using techniques from the Google Dremel paper.  Consists of three sub-projects, the specification and Thrift definitions (Parquet Format), the Java and Hadoop libraries (Parquet MR) and the C++ implementation (Parquet CPP).  Created as a joint effort between Twitter and Cloudera based on work started as part of Avro Trevni, with an initial v1.0 release in July 2013.  Donated to the Apache Foundation in May 2014, graduating in April 2015.  Has seen significant adoption in the Hadoop ecosystem.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://parquet.apache.org/&quot;&gt;http://parquet.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -296,7 +296,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-oozie/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-oozie/">&lt;p&gt;Technology for managing workflows of jobs on Hadoop clusters. Primary concepts include workflows (a sequence of jobs modelled as a directed acyclic graph), coordinators (schedule the execution of workflows based on the time or the presence of data) and bundles (collections of coordinators), with all configuration specified in XML.  Supports a range of technologies, including MapReduce, Pig, Hive, Sqoop, Spark, Java executables and shell scripts.  Includes a server component, a metadata database for holding definitions and state (with support for a range of database technologies), a command line interface and a read only web interface for viewing the status of jobs.  Also supports the parameterisation of workflows, the modelling of datasets (and the use of these to manage dependencies between workflows within coordinators), automatic retry and failure handling, and the ability to send job status notifications via HTTP or JMS.  Open sourced by Yahoo in June 2010.  Donated to the Apache Foundation in July 2011, graduating in August 2012.  Commercial support available as part of most Hadoop distributions&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://oozie.apache.org/&quot;&gt;http://oozie.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
@@ -327,7 +327,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-kafka/kafka-streams/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-kafka/kafka-streams/">&lt;p&gt;Technology that allows stream processing to be added to a Kafka cluster, consuming and publishing events from and to Kafka topics (and potentially writing output to external systems). Based on an event-at-a-time model (i.e. not micro batch), with support for stateful processing, windowing, joining and re-processing data.  Supports a low level DSL API, as well as a high level API that provides both stream and table abstractions (where tables present the latest record for each key). Introduced in Kafka 0.10.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/documentation/streams&quot;&gt;http://kafka.apache.org/documentation/streams&lt;/a&gt; - documentation&lt;/li&gt;
@@ -352,7 +352,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-kafka/kafka-connect/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-kafka/kafka-connect/">&lt;p&gt;Framework for building scalable and reliable integrations between Kafka and other technologies, either for importing or exporting data.  Part of the core Apache Kafka open source technology, connectors are available for a wide range of systems, including Hadoop, relational, NoSQL and analytical databases, search technologies and message queues amongst others. Runs separately to Kafka, in either a stand-alone or distributed cluster mode, with a REST API for managing connectors.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org/documentation/#connect&quot;&gt;http://kafka.apache.org/documentation/#connect&lt;/a&gt; - documentation&lt;/li&gt;
@@ -377,7 +377,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-kafka/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-kafka/">&lt;p&gt;Technology for buffering and storing real-time streams of data between publishers to subscribers, with a focus on high throughput at low latency.  Based on a distributed, horizontally scalable architecture, with messages organised into topics which are partitioned and replicated across nodes to provide resilience and written to disk to provide persistence.  Topics may have multiple publishers and subscribers, with ability to do fault tolerant reads and to load balance across subscribers.  Records consist of a key, value and timestamp, with the ability to compact topics to remove updates and deletes by key.  Supports a full security model, and the ability to set quotas.  Comes with a Java client, but clients for a wide range of languages are also available. Has two sub-projects (Kafka Connect and Kafka Streams) that are bundled with the main product.  Originally developed at LinkedIn, being open sourced in January 2011, before being donated to the Apache Foundation in July 2011.  Graduated in October 2012, and although it has not had a v1.0 release is considered production quality and stable. Development is primarily led by Confluent (which was founded by the team that built Kafka at LinkedIn), who distribute a Confluent Open Source product (which includes further clients and connectors) and a subscription based Confluent Enterprise product (which includes management, replication and data balancing features and commercial support under a subscription licence).  Commercial support is also available from most Hadoop vendors.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://kafka.apache.org&quot;&gt;http://kafka.apache.org&lt;/a&gt; - project home page&lt;/li&gt;
@@ -412,7 +412,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-avro/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-avro/">&lt;p&gt;Data serialisation framework that supports both messaging and data storage.  Primarily uses a compact binary format but also supports a JSON format.  Supports a range of data structures (including records, enumerations, arrays and maps) with APIs for a wide range of both static and dynamically typed languages.  Schema based, with schemas primarily specified in JSON, and support for both code generation from schema definitions as well as dynamic runtime usage.  Schemas are serialised alongside data, with support for automatic schema resolution if the schema used to read the data differs from that used to write it.  Started as an Hadoop sub-project by Cloudera in April 2009, with an initial v1.0 release in July 2009, before becoming a top level Apache project in May 2010.  Has seen significant adoption in the Hadoop ecosystem.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://avro.apache.org/&quot;&gt;http://avro.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -479,7 +479,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-sqoop/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-sqoop/">&lt;p&gt;Specialist technology for moving bulk data between Hadoop and structured (relational) databases.  Command line based, with the ability to import and export data between a range of databases (including mainframe partitioned datasets) and HDFS, Hive, HBase and Accumulo.  Supports parallel partitioned unloads, writing to Avro, Sequence File, Parquet and text files, incremental imports and saved jobs that can be shared via a simple metadata store.  An Apache project, started in May 2009 as an Hadoop contrib module, migrating to a Cloudera GitHub project in April 2010 (with a v1.0 release shortly after), before being donated to the Apache foundation in June 2011, graduating in March 2012.  The last major release (v1.4) was in November 2011, with only minor releases since then.  However in January 2012 a significant re-write was announced as part of a proposed v2.0 release to address a number of usability, security and architectural issues.  This will introduce a new Sqoop Server and Metadata Repository, supporting both a CLI and web UI, centralising job definitions, database connections and credentials, as well as enabling support for a wider range of connectors including NoSQL databases, Kafka and (S)FTP folders.  Java based, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://sqoop.apache.org&quot;&gt;http://sqoop.apache.org&lt;/a&gt; - home page&lt;/li&gt;
@@ -512,7 +512,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/spark-streaming/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/spark-streaming/">&lt;p&gt;Spark library for continuous stream processing, that allows stream and batch processing (including Spark SQL and MLlib operations) to be combined. Uses a micro-batch execution model, leveraging core Spark to process each micro-batch, and provides fault tolerance through exactly-once processing semantics.  Supports a number of data sources (including HDFS, sockets, Flume, Kafka, Kinesis and messaging buses), as well as functions to maintain state and to execute windowed operations. First introduced in Spark 0.7, with a production release as part of Spark 0.9.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/sql/&quot;&gt;http://spark.apache.org/sql/&lt;/a&gt; - home page&lt;/li&gt;
@@ -536,7 +536,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/spark-sql/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/spark-sql/">&lt;p&gt;Spark library for processing structured data, using either SQL statements or a DataFrame API.  Supports querying and writing to local datasets (including JSON, Parquet, Avro, Orc and CSV) as well as external data sources (including Hive and JDBC), including the ability to query across data sources.  Includes Catalyst, a cost based optimiser that turns high level operations into low level Spark DAGs for execution.  Also includes a Hive compatible Thrift JDBC/ODBC server that's compatible with Beeline and the Hive JDBC and ODBC drivers, and a REPL CLI for interactive queries.  First introduced in Spark 1.0, with a production release as part of Spark 1.3.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/sql/&quot;&gt;http://spark.apache.org/sql/&lt;/a&gt; - home page&lt;/li&gt;
@@ -560,7 +560,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/mllib/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/mllib/">&lt;p&gt;Spark library for running Machine Learning algorithms.  Supports a range of algorithms (including classifications, regressions, decision trees, recommendations, clustering and topic modelling), including iterative algorithms.  First introduced in Spark 0.8 after being collaboratively developed with the UC Berkeley MLbase project.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/mllib//&quot;&gt;http://spark.apache.org/mllib//&lt;/a&gt; - home page&lt;/li&gt;
@@ -585,7 +585,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/graphx/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/graphx/">&lt;p&gt;Spark library for processing graphs and running graph algorithms, based on graph model that supports directional edges with properties on both vertices and edges.  Graphs are constructed from a pair of collections representing the edges and vertex, either directly from data on disk using builders, or prepared using other Spark functionality, with the ability to also view the graph as a set of triples.  Supports a range of graph operations, as well as an optimised variant of the Pregel API, and a set of out of the box algorithms (including PageRank, connected components and triangle count).  First introduced in Spark 0.9, with a production release as part of Spark 1.2, however has seen almost no new functionality since then.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/graphx/&quot;&gt;http://spark.apache.org/graphx/&lt;/a&gt; - home page&lt;/li&gt;
@@ -609,7 +609,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-spark/">&lt;p&gt;A high performance general purpose distributed data processing engine based on directed acyclic graphs that primarily runs in memory, but can spill to disk if required, and which supports processing applications written in Java, Scala, Python and R.  Includes a number of sub-projects that support more specialised analytics including Spark SQL, Spark Streaming, MLlib (machine learning) and GraphX (graph analytics).  Requires a cluster manager (YARN, EC2 and Mesos are supported as well as standalone clusters) and can access data in a wide range of technologies (including HDFS, other Hadoop data sources, relational databases and NoSQL databases).  An Apache project, originally started at UC Berkley in 2009, open sourced in 2010, and donated to the Apache foundation in June 2013, graduating in February 2014.  v1.0 was released in May 2014, with a v2.0 release in July 2016.  Java based, with development led by Databricks (who sell a Spark hosted service), and with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://spark.apache.org/&quot;&gt;http://spark.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -640,7 +640,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-solr/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-solr/">&lt;p&gt;A search server built on Apache Lucene with a REST-like API for loading and searching data.  Supports a distributed deployment (SolrCloud) that can run over HDFS on an Hadoop cluster.  Includes an administration web interface, an extensible plugin architecture, support for schemaless indexing, faceted, grouped and clustered results, hit highlighting, geo-spacial and graph searches, near real time indexing and searching, (experimental) streaming expressions for parallel compute (including support for MapReduce and SQL) and broad authentication and security capabilities.  A sub-project of the Apache Lucene project, originally donated to the Apache foundation by CNET Networks in January 2006, graduating as a top level project in January 2007, before merging with the Lucene project in March 2010. Java based, with commercial support available as part of most Hadoop distributions (although this is bundled as Cloudera Search with CDH and HDP Search with HDP), as well as from Lucidworks.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr&quot;&gt;http://lucene.apache.org/solr&lt;/a&gt; - home page&lt;/li&gt;
@@ -705,7 +705,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/hive-server/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/hive-server/">&lt;p&gt;Supports the execution of SQL queries over data in HDFS based on tables defined in the Hive Metastore, as well as DDL to query and update the Hive Metastore.  Focus is on analytical (OLAP) use cases, with some support for batch updates to data.  Originally executed queries as MapReduce jobs, but significant investment from has seen support for executing queries as Spark and as Tez jobs, with work underway to support sub second query times using Tez.  Recent changes have also seen it achieve significant SQL compliance, with support for SQL:2011 analytical functions on-going.  Accepts queries over an API with JDBC and ODBC drivers available, and includes Beeline, a command line JDBC client.  Technically referred to as Hive Server 2, and was introduced in Hive 0.11 as a replacement for the original Hive Server to address a number of concurrency and security issues.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&quot;&gt;http://blog.cloudera.com/blog/2013/07/how-hiveserver2-brings-security-and-concurrency-to-apache-hive/&lt;/a&gt; - introduction to Hive Server 2&lt;/li&gt;
@@ -728,7 +728,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/hive-metastore/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/hive-metastore/">&lt;p&gt;A metadata service that allows structured tables to be defined over files in HDFS (and also HBase or Accumulo), providing an API that allows the metadata to be queried and updated by other tools including Impala, Spark SQL or RecordService.  Supports partitioned and clustered tables, as well as complex field types such as arrays, maps and structs.  Backed by a relational database (either MySQL, Postgres and Oracle).  Part of the original Hive code base.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/AdminManual+MetastoreAdmin&lt;/a&gt; - documentation home&lt;/li&gt;
@@ -751,7 +751,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/hcatalog/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/hcatalog/">&lt;p&gt;Libraries for MapReduce and Pig to read and write data to and from Hive tables, albeit with some limitations. Also supports a CLI for querying and updating the Hive Metastore, however this doesn't support the full range of Hive DDL commands.  Includes WebHCat, a REST API over the HCatalog CLI that also supports the execution of MapReduce, Pig, Hive and Sqoop jobs.  Donated to the Apache foundation by Yahoo in March 2011, had WebHCat folded in in July 2012, graduating as a top level project in February 2013, but then almost immediately was folded into Hive in March 2013 as part of the Hive 0.11 release.  Has seem limited development since this time.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://cwiki.apache.org/confluence/display/Hive/HCatalog&quot;&gt;https://cwiki.apache.org/confluence/display/Hive/HCatalog&lt;/a&gt; - HCatalog documentation home&lt;/li&gt;
@@ -775,7 +775,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hive/">&lt;p&gt;Technology that supports the exposure of data in Hadoop as structured tables and the execution of analytical SQL queries over these.  Consists of a number of distinct components (that we treat as sub-projects) including Hive Metastore (stores the definitions of the structured tables), Hive Server (supports the execution of analytical SQL queries as MapReduce, Spark or Tez jobs) and HCatalog (allows MapReduce and Pig jobs to read and write Hive tables).  First released by Facebook as an Hadoop contrib module in September 2008, becoming an Hadoop sub-project in November 2008, and a top level Apache project in September 2010, following a first official stable release (0.3) in April 2009.  Java based, under active development from a number of large commercial sponsors, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hive.apache.org/&quot;&gt;http://hive.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -807,7 +807,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hbase/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hbase/">&lt;p&gt;NoSQL wide-column datastore based on Google BigTable. Focuses on random real-time access to data, and supports horizontal scalability, consistent reads and writes, versioning and fine grained security controls.  Runs on Hadoop and HDFS, and is heavily integrated with the Hadoop ecosystem.  An Apache project, first released as part of Hadoop 0.15 in October 2007 before graduating as a top level project in May 2010.  Java based, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hbase.apache.org/&quot;&gt;http://hbase.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -840,7 +840,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-flume/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-flume/">&lt;p&gt;Specialist technology for the continuous movement of data using a set of independent agents connected together into pipelines.  Supports a wide range of sources, targets and buffers (channels), along with the ability to chain agents together and to modify and drop events in-flight.  Designed to be highly reliable, and to support reconfiguration without the need for a restart.  Heavily integrated with the Hadoop ecosystem.  An Apache project, donated by Cloudera in June 2011, graduating in June 2012, with a v1.2 release (the first considered ready for production use) in July 2012. Java based, with commercial support available as part of most Hadoop distributions.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://flume.apache.org/&quot;&gt;http://flume.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
@@ -907,7 +907,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/yarn/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/yarn/">&lt;p&gt;Resource management and job scheduling &amp; monitoring for the Hadoop ecosystem.  Includes support for capacity guarantees amongst other scheduling options. Added as an Apache Hadoop sub-project as part of Hadoop 2.x (with a GA release as part of 2.2 in October 2013) having been started in January 2008.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html&lt;/a&gt; - YARN architecture overview and documentation&lt;/li&gt;
@@ -930,7 +930,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/map-reduce/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/map-reduce/">&lt;p&gt;A data transformation and aggregation technology proven at extreme scale that works on key value pairs and consists of three transformation stages - map (a general transformation of the input key value pairs), shuffle (brings all pairs with the same key together) and reduce (an aggregation of all pairs with the same key). Part of the original Hadoop code base, becoming an Apache Hadoop sub-project in July 2009.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html&lt;/a&gt; - MapReduce tutorial and documentation&lt;/li&gt;
@@ -953,7 +953,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/hdfs/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/hdfs/">&lt;p&gt;A highly resilient distributed cluster file system proven at extreme scale that supports user authentication, extended ACLs, snapshots, quotas, central caching, a REST API, an NFS gateway, rolling upgrades, transparent encryption and heterogeneous storage. Part of the original Hadoop code base, becoming an Apache Hadoop sub-project in July 2009.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html&quot;&gt;http://hadoop.apache.org/docs/current/hadoop-project-dist/hadoop-hdfs/HdfsDesign.html&lt;/a&gt; - HDFS documentation home&lt;/li&gt;
@@ -977,7 +977,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/technologies/apache-hadoop/">&lt;p&gt;A distributed storage and compute platform consisting of a distributed filesystem (HDFS) and a cluster workload and resource management layer (YARN), along with MapReduce, a solution built on HDFS and YARN for massive scale parallel processing of data. Has an extensive ecosystem of compatible technologies. An Apache Open Source project, started in January 2006 as a Lucene sub-project, becoming a top level project in January 2008, with a 1.0 release in December 2011 (containing HDFS and MapReduce), and a 2.2 release (the first 2.x GA release) in October 2013 (adding YARN). Very active, with a deep and broad range of contributors, and backing from multiple commercial vendors.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://hadoop.apache.org/&quot;&gt;http://hadoop.apache.org/&lt;/a&gt; - Project Homepage&lt;/li&gt;
@@ -1009,7 +1009,7 @@
 			<name>Peter</name>
 			<uri>http://ondataengineering.net/</uri>
 		</author>
-		<content type="html" xml:base="http://ondataengineering.net/tech-vendors/apache/">&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+		<content type="html" xml:base="http://ondataengineering.net/tech-vendors/apache/">&lt;p&gt;The Apache Software Foundation is a non-profit organisation that supports a wide range of open source projects, including providing and mandating a standard governance model (including the use of the Apache license), holding all trademarks for project names and logos, and providing legal protection to developers.  It was founded in 1999 and now oversees nearly 200 projects.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.apache.org/&quot;&gt;https://www.apache.org/&lt;/a&gt; - homepage&lt;/li&gt;
