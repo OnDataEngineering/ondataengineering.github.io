@@ -845,5 +845,27 @@
 				<discourse_author>Peter</discourse_author>
 			</item>
 			
+			<item>
+				<title>Apache Giraph</title>
+				<link>http://ondataengineering.net/technologies/apache-giraph/</link>
+				<description>&lt;p&gt;An iterative, highly scalable graph processing system built on top of MapReduce and based on Pregel, with a number of features added including a framework for creating re-usable code (called blocks).  An Apache project, graduating in May 2012, having been originally donated by Yahoo in August 2011. Java based, no commercial support available, but is mature and has been adopted by a number of companies (including LinkedIn and most famously Facebook who scaled it to process a trillion edges), and has a number of active developers.&lt;/p&gt;&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://giraph.apache.org/&quot;&gt;http://giraph.apache.org/&lt;/a&gt; - home page&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://giraph.apache.org/intro.html&quot;&gt;http://giraph.apache.org/intro.html&lt;/a&gt; - introduction&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineering.linkedin.com/open-source/apache-giraph-framework-large-scale-graph-processing-hadoop-reaches-01-milestone&quot;&gt;https://engineering.linkedin.com/open-source/apache-giraph-framework-large-scale-graph-processing-hadoop-reaches-01-milestone&lt;/a&gt; - v0.1 release announcement from LinkedIn&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/notes/facebook-engineering/scaling-apache-giraph-to-a-trillion-edges/10151617006153920/&quot;&gt;https://www.facebook.com/notes/facebook-engineering/scaling-apache-giraph-to-a-trillion-edges/10151617006153920/&lt;/a&gt; - Facebook?s story on scaling Giraph to a trillion edges&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;news&quot;&gt;News&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://giraph.apache.org/&quot;&gt;http://giraph.apache.org/&lt;/a&gt; - news via homepage&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.apache.org/giraph&quot;&gt;https://blogs.apache.org/giraph&lt;/a&gt; - blog, with first entry being v1.2 announcement&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<discourse_author>Peter</discourse_author>
+			</item>
+			
 	</channel>
 </rss>
