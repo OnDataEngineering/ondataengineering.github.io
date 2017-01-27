@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 27 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -53,7 +53,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -87,7 +87,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -104,7 +104,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -119,7 +119,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-01-27T16:47:29+00:00</lastmod>
+		<lastmod>2017-01-27T17:10:05+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -172,9 +172,11 @@
 
 	
 
+	
 
 
-  <!-- posts: 10 links with priority=0.5, changefreq=daily -->
+
+  <!-- posts: 11 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -316,6 +318,21 @@
 	<loc>http://ondataengineering.net/blog/2017/01/23/hadoop-distros-apache-bigtop/</loc>
 	
 		<lastmod>2017-01-23T18:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/01/27/the-week-that-was/</loc>
+	
+		<lastmod>2017-01-27T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
