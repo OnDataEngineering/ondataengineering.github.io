@@ -3,6 +3,7 @@
 Name: Peter
 Role: editor, maintainer
 Site: http://ondataengineering.net/
+Twitter: OnDataEng
 
 
 /* THANKS */
