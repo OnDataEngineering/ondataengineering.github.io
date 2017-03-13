@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -53,7 +53,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -87,7 +87,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -104,7 +104,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -119,7 +119,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-03-10T08:03:39+00:00</lastmod>
+		<lastmod>2017-03-13T07:46:07+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -178,7 +178,7 @@
 
 
 
-  <!-- posts: 18 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 19 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -450,6 +450,21 @@
 	</url>
 	
 
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/03/13/hortonworks/</loc>
+	
+		<lastmod>2017-03-13T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
 
 
   <!-- tech-categories: 1 links with priority=0.5, changefreq=daily -->
@@ -471,13 +486,28 @@
 
 
 
-  <!-- tech-vendors: 1 links with priority=0.5, changefreq=daily -->
+  <!-- tech-vendors: 2 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/apache/</loc>
 	
 		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-vendors/hortonworks/</loc>
+	
+		<lastmod>2017-03-13T07:35:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
