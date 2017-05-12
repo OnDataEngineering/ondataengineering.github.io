@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 30 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 31 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -53,7 +53,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -87,7 +87,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -104,7 +104,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -119,7 +119,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
+		<lastmod>2017-05-12T08:03:48+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -180,9 +180,11 @@
 
 	
 
+	
 
 
-  <!-- posts: 30 links with priority=0.5, changefreq=daily -->
+
+  <!-- posts: 31 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -634,9 +636,24 @@
 	</url>
 	
 
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/05/12/why-choose-hadoop/</loc>
+	
+		<lastmod>2017-05-12T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
-  <!-- tech-categories: 4 links with priority=0.5, changefreq=daily -->
+
+  <!-- tech-categories: 3 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -673,21 +690,6 @@
 	<loc>http://ondataengineering.net/tech-categories/hadoop-distributions/ecosystem/</loc>
 	
 		<lastmod>2017-05-11T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
-	
-		<lastmod>2017-05-11T08:07:57+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
