@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,7 +49,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -102,7 +102,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -119,7 +119,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-05-16T08:04:05+01:00</lastmod>
+		<lastmod>2017-05-17T07:46:40+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -199,7 +199,7 @@
 
 
 
-  <!-- posts: 32 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 33 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -671,6 +671,21 @@
 	<loc>http://ondataengineering.net/blog/2017/05/16/hadoop-technology-options/</loc>
 	
 		<lastmod>2017-05-16T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/05/17/the-mid-week-news/</loc>
+	
+		<lastmod>2017-05-17T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
