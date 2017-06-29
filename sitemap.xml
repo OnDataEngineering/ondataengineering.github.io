@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,7 +49,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/livy/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-06-29T07:58:56+01:00</lastmod>
+		<lastmod>2017-06-29T08:29:28+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1147,7 +1147,7 @@
 
 
 
-  <!-- technologies: 107 links with priority=0.5, changefreq=daily -->
+  <!-- technologies: 108 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -2744,6 +2744,21 @@
 	<loc>http://ondataengineering.net/technologies/confluent-open-source/</loc>
 	
 		<lastmod>2017-06-29T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/confluent-enterprise/</loc>
+	
+		<lastmod>2017-06-29T08:15:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
