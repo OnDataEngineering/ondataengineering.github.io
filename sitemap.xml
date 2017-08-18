@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 38 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 39 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,7 +49,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/livy/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-08-16T07:54:33+01:00</lastmod>
+		<lastmod>2017-08-18T07:50:11+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -222,9 +222,11 @@
 
 	
 
+	
 
 
-  <!-- posts: 60 links with priority=0.5, changefreq=daily -->
+
+  <!-- posts: 61 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -1126,6 +1128,21 @@
 	</url>
 	
 
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/08/18/the-apache-big-data-project-list/</loc>
+	
+		<lastmod>2017-08-18T07:45:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
 
 
   <!-- tech-categories: 9 links with priority=0.5, changefreq=daily -->
@@ -1271,21 +1288,6 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/tech-vendors/apache/</loc>
-	
-		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
 	<loc>http://ondataengineering.net/tech-vendors/hortonworks/</loc>
 	
 		<lastmod>2017-03-20T07:30:00+00:00</lastmod>
@@ -1394,6 +1396,21 @@
 	<loc>http://ondataengineering.net/tech-vendors/mesosphere/</loc>
 	
 		<lastmod>2017-07-20T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-vendors/apache/</loc>
+	
+		<lastmod>2017-08-18T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
