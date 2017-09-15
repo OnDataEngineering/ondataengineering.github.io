@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -49,7 +49,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -68,7 +68,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/livy/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/scality-s3-server/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -132,7 +132,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -194,7 +194,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-09-14T08:30:56+01:00</lastmod>
+		<lastmod>2017-09-15T08:39:13+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -245,7 +245,7 @@
 
 
 
-  <!-- posts: 72 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 73 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -1327,9 +1327,24 @@
 	</url>
 	
 
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/09/15/thoughts-on-data-virtualization/</loc>
+	
+		<lastmod>2017-09-15T07:45:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 
-  <!-- tech-categories: 11 links with priority=0.5, changefreq=daily -->
+
+  <!-- tech-categories: 12 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -1486,6 +1501,21 @@
 	<loc>http://ondataengineering.net/tech-categories/in-memory-databases/</loc>
 	
 		<lastmod>2017-09-08T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-categories/data-virtualization/</loc>
+	
+		<lastmod>2017-09-15T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
