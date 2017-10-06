@@ -5,6 +5,9 @@ Role: editor, maintainer
 Site: http://ondataengineering.net/
 Twitter: OnDataEng
 
+Name: Jeff Moszuti
+Role: maintainer
+
 
 /* THANKS */
 
@@ -26,5 +29,5 @@ URL: http://jch.penibelst.de/
 
 /* SITE */
 
-Last Updated: 2017/10/05
+Last Updated: 2017/10/06
 Standards: HTML5, CSS3
