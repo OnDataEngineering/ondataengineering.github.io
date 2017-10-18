@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -47,7 +47,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/data-stoage-formats/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -64,7 +64,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -113,7 +113,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/livy/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -130,7 +130,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/opdi/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -147,7 +147,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/scality-s3-server/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -162,7 +162,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -194,7 +194,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -209,7 +209,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -224,7 +224,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-10-13T08:17:31+01:00</lastmod>
+		<lastmod>2017-10-18T08:21:34+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -279,7 +279,7 @@
 
 
 
-  <!-- posts: 84 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 85 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -1531,6 +1531,21 @@
 	<loc>http://ondataengineering.net/blog/2017/10/13/the-week-that-was/</loc>
 	
 		<lastmod>2017-10-13T07:45:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2017/10/18/the-mid-week-news/</loc>
+	
+		<lastmod>2017-10-18T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
