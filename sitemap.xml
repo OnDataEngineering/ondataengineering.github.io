@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -47,7 +47,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/data-stoage-formats/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -64,7 +64,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -113,7 +113,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/livy/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -130,7 +130,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/opdi/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -147,7 +147,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/scality-s3-server/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -162,7 +162,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -194,7 +194,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -209,7 +209,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -224,7 +224,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-11-02T07:54:32+00:00</lastmod>
+		<lastmod>2017-11-02T08:56:30+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -2048,7 +2048,7 @@
 
 
 
-  <!-- technologies: 129 links with priority=0.5, changefreq=daily -->
+  <!-- technologies: 130 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -3975,6 +3975,21 @@
 	<loc>http://ondataengineering.net/technologies/apache-orc/</loc>
 	
 		<lastmod>2017-10-04T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/hortonworks-dataplane-service/</loc>
+	
+		<lastmod>2017-11-02T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
