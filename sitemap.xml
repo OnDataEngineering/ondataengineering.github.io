@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 49 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 51 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -47,7 +47,37 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/data-stoage-formats/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-categories/hadoop-distributions/distribution-comparison/</loc>
+	
+		<lastmod>2017-05-10T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/tech-categories/hadoop-distributions/ecosystem/</loc>
+	
+		<lastmod>2017-05-11T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -64,7 +94,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/hadoop_distributions/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +113,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +128,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -113,7 +143,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/livy/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -130,7 +160,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/opdi/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -147,7 +177,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/scality-s3-server/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -162,7 +192,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +209,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -194,7 +224,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -209,7 +239,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -224,7 +254,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2017-11-22T08:32:15+00:00</lastmod>
+		<lastmod>2017-11-23T08:08:14+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -1729,37 +1759,7 @@
 
 
 
-  <!-- tech-categories: 18 links with priority=0.5, changefreq=daily -->
-
-	
-	<url>
-	<loc>http://ondataengineering.net/tech-categories/hadoop-distributions/distribution-comparison/</loc>
-	
-		<lastmod>2017-05-10T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/tech-categories/hadoop-distributions/ecosystem/</loc>
-	
-		<lastmod>2017-05-11T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
+  <!-- tech-categories: 16 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
