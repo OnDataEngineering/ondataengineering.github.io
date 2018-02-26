@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 54 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 59 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2018-02-21T08:21:47+00:00</lastmod>
+		<lastmod>2018-02-26T08:01:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -188,6 +188,16 @@
 		<priority>0.3</priority>
 	
 	</url>
+	
+
+	
+
+	
+
+	
+
+	
+
 	
 
 	
@@ -2353,7 +2363,7 @@
 
 
 
-  <!-- technologies: 132 links with priority=0.5, changefreq=daily -->
+  <!-- technologies: 131 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -3602,7 +3612,7 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/technologies/mapr-ecosystem-pack/</loc>
+	<loc>http://ondataengineering.net/technologies/mapr-expansion-pack/</loc>
 	
 		<lastmod>2017-04-20T07:30:00+01:00</lastmod>
 	
@@ -3662,22 +3672,7 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/technologies/mapr-streams-clients-and-tools/</loc>
-	
-		<lastmod>2017-04-26T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/mapr-file-system/</loc>
+	<loc>http://ondataengineering.net/technologies/mapr-fs/</loc>
 	
 		<lastmod>2017-04-27T07:30:00+01:00</lastmod>
 	
@@ -3692,7 +3687,7 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/technologies/mapr-file-system/mapr-db/</loc>
+	<loc>http://ondataengineering.net/technologies/mapr-db/</loc>
 	
 		<lastmod>2017-04-28T07:30:00+01:00</lastmod>
 	
@@ -3707,7 +3702,7 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/technologies/mapr-file-system/mapr-streams/</loc>
+	<loc>http://ondataengineering.net/technologies/mapr-es/</loc>
 	
 		<lastmod>2017-05-02T07:30:00+01:00</lastmod>
 	
