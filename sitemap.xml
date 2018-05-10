@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2018-05-02T08:21:12+01:00</lastmod>
+		<lastmod>2018-05-10T08:04:46+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -270,7 +270,7 @@
 
 
 
-  <!-- posts: 124 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 125 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -2122,6 +2122,21 @@
 	<loc>http://ondataengineering.net/blog/2018/05/02/the-mid-week-news/</loc>
 	
 		<lastmod>2018-05-02T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2018/05/09/the-mid-week-news/</loc>
+	
+		<lastmod>2018-05-09T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
