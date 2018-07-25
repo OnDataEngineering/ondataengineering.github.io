@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
+		<lastmod>2018-07-25T08:12:55+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -278,7 +278,7 @@
 
 
 
-  <!-- posts: 136 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 137 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -2320,6 +2320,21 @@
 	</url>
 	
 
+	
+	<url>
+	<loc>http://ondataengineering.net/blog/2018/07/25/the-mid-week-news/</loc>
+	
+		<lastmod>2018-07-25T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
 
 
   <!-- tech-categories: 17 links with priority=0.5, changefreq=daily -->
@@ -3159,6 +3174,21 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/kite/</loc>
+	
+		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/kite/kite-data/</loc>
 	
 		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
@@ -3429,6 +3459,21 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/hortonworks-data-platform/</loc>
+	
+		<lastmod>2017-02-17T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/apache-atlas/</loc>
 	
 		<lastmod>2017-02-20T00:00:00+00:00</lastmod>
@@ -3564,6 +3609,36 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/hortonworks-data-platform-search/</loc>
+	
+		<lastmod>2017-03-03T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-hawq/</loc>
+	
+		<lastmod>2017-03-06T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/apache-ambari/</loc>
 	
 		<lastmod>2017-03-07T07:30:00+00:00</lastmod>
@@ -3597,6 +3672,21 @@
 	<loc>http://ondataengineering.net/technologies/cloudbreak/</loc>
 	
 		<lastmod>2017-03-09T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/hortonworks-smartsense/</loc>
+	
+		<lastmod>2017-03-10T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3774,9 +3864,54 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/apache-kudu/</loc>
+	
+		<lastmod>2017-03-29T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/recordservice/</loc>
+	
+		<lastmod>2017-03-30T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/cloudera-manager/</loc>
 	
 		<lastmod>2017-04-10T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/cloudera-navigator/</loc>
+	
+		<lastmod>2017-04-11T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3837,126 +3972,6 @@
 	<loc>http://ondataengineering.net/technologies/cloudera-director/</loc>
 	
 		<lastmod>2017-04-13T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/hortonworks-data-platform-search/</loc>
-	
-		<lastmod>2018-07-18T08:33:36+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/kite/</loc>
-	
-		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/hortonworks-data-platform/</loc>
-	
-		<lastmod>2017-02-17T07:30:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/apache-hawq/</loc>
-	
-		<lastmod>2017-03-06T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/hortonworks-smartsense/</loc>
-	
-		<lastmod>2017-03-10T07:30:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/apache-kudu/</loc>
-	
-		<lastmod>2017-03-29T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/recordservice/</loc>
-	
-		<lastmod>2017-03-30T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/cloudera-navigator/</loc>
-	
-		<lastmod>2017-04-11T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
