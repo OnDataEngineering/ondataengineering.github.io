@@ -17,7 +17,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>http://ondataengineering.net/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>http://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>http://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>http://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3000,7 +3000,37 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/apache-nifi/</loc>
+	
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/apache-solr/</loc>
+	
+		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-spark/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3075,6 +3105,21 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/apache-sqoop/</loc>
+	
+		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/apache-avro/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
@@ -3121,6 +3166,21 @@
 	
 	<url>
 	<loc>http://ondataengineering.net/technologies/apache-kafka/kafka-streams/</loc>
+	
+		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/apache-oozie/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3228,66 +3288,6 @@
 	<loc>http://ondataengineering.net/technologies/alluxio/</loc>
 	
 		<lastmod>2017-01-27T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/apache-nifi/</loc>
-	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/apache-spark/</loc>
-	
-		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/apache-sqoop/</loc>
-	
-		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/apache-oozie/</loc>
-	
-		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3555,21 +3555,6 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/technologies/quantcast-file-system/</loc>
-	
-		<lastmod>2017-02-15T00:00:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
 	<loc>http://ondataengineering.net/technologies/greenplum/</loc>
 	
 		<lastmod>2017-02-16T00:00:00+00:00</lastmod>
@@ -3825,21 +3810,6 @@
 
 	
 	<url>
-	<loc>http://ondataengineering.net/technologies/hortonworks-data-flow/</loc>
-	
-		<lastmod>2017-03-14T07:30:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
 	<loc>http://ondataengineering.net/technologies/apache-nifi/minifi/</loc>
 	
 		<lastmod>2017-03-16T07:00:00+00:00</lastmod>
@@ -3858,21 +3828,6 @@
 	<loc>http://ondataengineering.net/technologies/hortonworks-data-cloud-for-aws/</loc>
 	
 		<lastmod>2017-03-17T07:30:00+00:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/hortonworks-data-platform-for-windows/</loc>
-	
-		<lastmod>2017-03-20T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3945,6 +3900,66 @@
 
 	
 	<url>
+	<loc>http://ondataengineering.net/technologies/cloudera-cdh/</loc>
+	
+		<lastmod>2018-09-24T07:47:32+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/quantcast-file-system/</loc>
+	
+		<lastmod>2017-02-15T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/hortonworks-data-flow/</loc>
+	
+		<lastmod>2017-03-14T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://ondataengineering.net/technologies/hortonworks-data-platform-for-windows/</loc>
+	
+		<lastmod>2017-03-20T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
 	<loc>http://ondataengineering.net/technologies/cloudera-search/</loc>
 	
 		<lastmod>2017-03-28T07:30:00+01:00</lastmod>
@@ -3963,21 +3978,6 @@
 	<loc>http://ondataengineering.net/technologies/apache-kudu/</loc>
 	
 		<lastmod>2017-03-29T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://ondataengineering.net/technologies/cloudera-cdh/</loc>
-	
-		<lastmod>2018-09-21T08:32:43+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
