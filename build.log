@@ -1,0 +1,5 @@
+Configuration file: /home/circleci/project/_config.yml
+            Source: /home/circleci/project
+       Destination: /home/circleci/project/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
