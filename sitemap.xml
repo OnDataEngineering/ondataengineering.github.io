@@ -17,7 +17,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>https://ondataengineering.net/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>https://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2018-10-17T08:26:51+01:00</lastmod>
+		<lastmod>2018-10-19T08:37:52+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -290,7 +290,7 @@
 
 
 
-  <!-- posts: 151 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 152 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -2547,6 +2547,21 @@
 	<loc>https://ondataengineering.net/blog/2018/10/17/thoughts-on-hadoop-service-providers/</loc>
 	
 		<lastmod>2018-10-17T07:45:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.net/blog/2018/10/19/the-future-of-hadoop/</loc>
+	
+		<lastmod>2018-10-19T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
