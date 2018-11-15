@@ -17,7 +17,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>https://ondataengineering.net/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>https://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2018-11-14T08:16:38+00:00</lastmod>
+		<lastmod>2018-11-15T08:35:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3070,7 +3070,7 @@
 
 
 
-  <!-- technologies: 147 links with priority=0.5, changefreq=daily -->
+  <!-- technologies: 148 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -5267,6 +5267,21 @@
 	<loc>https://ondataengineering.net/technologies/databricks-delta/</loc>
 	
 		<lastmod>2018-11-08T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.net/technologies/hudi/</loc>
+	
+		<lastmod>2018-11-15T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
