@@ -17,7 +17,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>https://ondataengineering.net/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -117,7 +117,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +134,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>https://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2019-01-16T08:58:50+00:00</lastmod>
+		<lastmod>2019-01-23T07:46:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,7 +300,7 @@
 
 
 
-  <!-- posts: 161 links with priority=0.5, changefreq=daily -->
+  <!-- posts: 162 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -2707,6 +2707,21 @@
 	<loc>https://ondataengineering.net/blog/2019/01/16/the-mid-week-news/</loc>
 	
 		<lastmod>2019-01-16T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.net/blog/2019/01/23/the-mid-week-news/</loc>
+	
+		<lastmod>2019-01-23T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
