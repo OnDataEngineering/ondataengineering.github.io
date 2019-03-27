@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 77 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 78 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>https://ondataengineering.net/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -112,12 +112,27 @@
 	
 
 	
+	<url>
+	<loc>https://ondataengineering.net/site/privacy-and-cookie-policy/</loc>
+	
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
 
 	
 	<url>
 	<loc>https://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -134,7 +149,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +164,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +179,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +194,7 @@
 	<url>
 	<loc>https://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2019-03-27T07:50:00+00:00</lastmod>
+		<lastmod>2019-03-27T18:28:06+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
