@@ -29,5 +29,5 @@ URL: http://jch.penibelst.de/
 
 /* SITE */
 
-Last Updated: 2019/04/17
+Last Updated: 2019/04/24
 Standards: HTML5, CSS3
