@@ -17,7 +17,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>https://ondataengineering.net/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -115,7 +115,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/privacy-and-cookie-policy/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -132,7 +132,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -194,7 +194,7 @@
 	<url>
 	<loc>https://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2019-06-19T08:06:15+01:00</lastmod>
+		<lastmod>2019-06-25T07:33:23+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -3470,7 +3470,7 @@
 
 
 
-  <!-- technologies: 150 links with priority=0.5, changefreq=daily -->
+  <!-- technologies: 151 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -5712,6 +5712,21 @@
 	<loc>https://ondataengineering.net/technologies/google-cloud-composer/</loc>
 	
 		<lastmod>2019-05-14T00:00:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.net/technologies/datakitchen-devops-platform/</loc>
+	
+		<lastmod>2019-06-25T08:00:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
