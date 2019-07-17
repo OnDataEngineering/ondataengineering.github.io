@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 81 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 82 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -17,7 +17,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/content-license/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -32,7 +32,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/contributing/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -83,7 +83,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -98,7 +98,7 @@
 	<url>
 	<loc>https://ondataengineering.net/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -115,7 +115,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/privacy-and-cookie-policy/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -132,7 +132,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/search/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -149,7 +149,7 @@
 	<url>
 	<loc>https://ondataengineering.net/site/subscribe/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -164,7 +164,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-categories/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -179,7 +179,7 @@
 	<url>
 	<loc>https://ondataengineering.net/tech-vendors/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -194,7 +194,7 @@
 	<url>
 	<loc>https://ondataengineering.net/technologies/</loc>
 	
-		<lastmod>2019-07-10T07:58:47+01:00</lastmod>
+		<lastmod>2019-07-17T08:55:31+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -321,9 +321,11 @@
 
 	
 
+	
 
 
-  <!-- posts: 185 links with priority=0.5, changefreq=daily -->
+
+  <!-- posts: 186 links with priority=0.5, changefreq=daily -->
 
 	
 	<url>
@@ -3090,6 +3092,21 @@
 	<loc>https://ondataengineering.net/blog/2019/07/10/the-mid-week-news/</loc>
 	
 		<lastmod>2019-07-10T07:30:00+01:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.net/blog/2019/07/17/the-mid-week-news/</loc>
+	
+		<lastmod>2019-07-17T07:30:00+01:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
