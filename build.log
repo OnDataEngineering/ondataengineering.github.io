@@ -1,5 +1,5 @@
-Configuration file: /home/circleci/project/_config.yml
-            Source: /home/circleci/project
-       Destination: /home/circleci/project/_site
+Configuration file: /workspace/OnDataEngineeringSite/_config.yml
+            Source: /workspace/OnDataEngineeringSite
+       Destination: /workspace/OnDataEngineeringSite/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 

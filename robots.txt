@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://ondataengineering.net/sitemap.xml
+Sitemap: https://ondataengineering.github.io/sitemap.xml

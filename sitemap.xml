@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 83 links with priority=0.3, changefreq=monthly -->
-
-	
+<!-- Pages: 82 links with priority=0.3, changefreq=monthly -->
 
 	
 
@@ -15,9 +13,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/site/content-license/</loc>
+	<loc>https://ondataengineering.github.io/site/content-license/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -30,39 +28,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/site/contributing/</loc>
+	<loc>https://ondataengineering.github.io/site/contributing/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/hadoop-distributions/distribution-comparison/</loc>
-	
-		<lastmod>2017-05-10T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/hadoop-distributions/ecosystem/</loc>
-	
-		<lastmod>2017-05-11T07:30:00+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -81,9 +49,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/site/</loc>
+	<loc>https://ondataengineering.github.io/site/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -96,26 +64,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/</loc>
+	<loc>https://ondataengineering.github.io/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/site/privacy-and-cookie-policy/</loc>
-	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -130,9 +81,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/site/search/</loc>
+	<loc>https://ondataengineering.github.io/site/privacy-and-cookie-policy/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -147,9 +98,26 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/site/subscribe/</loc>
+	<loc>https://ondataengineering.github.io/site/search/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/site/subscribe/</loc>
+	
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -162,24 +130,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-vendors/</loc>
-	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -192,9 +145,24 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/</loc>
 	
-		<lastmod>2020-06-24T17:24:05+01:00</lastmod>
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/</loc>
+	
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -245,6 +213,23 @@
 
 	
 
+	
+
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/redirects.json</loc>
+	
+		<lastmod>2022-08-09T16:39:58+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
 	
 
 	
@@ -331,7 +316,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2016/12/07/welcome/</loc>
+	<loc>https://ondataengineering.github.io/blog/2016/12/07/welcome/</loc>
 	
 		<lastmod>2016-12-07T00:00:00+00:00</lastmod>
 	
@@ -346,7 +331,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2016/12/09/big-data/</loc>
+	<loc>https://ondataengineering.github.io/blog/2016/12/09/big-data/</loc>
 	
 		<lastmod>2016-12-09T00:00:00+00:00</lastmod>
 	
@@ -361,7 +346,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2016/12/12/the-plan/</loc>
+	<loc>https://ondataengineering.github.io/blog/2016/12/12/the-plan/</loc>
 	
 		<lastmod>2016-12-12T00:00:00+00:00</lastmod>
 	
@@ -376,7 +361,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2016/12/14/the-technology-catalogue/</loc>
+	<loc>https://ondataengineering.github.io/blog/2016/12/14/the-technology-catalogue/</loc>
 	
 		<lastmod>2016-12-14T00:00:00+00:00</lastmod>
 	
@@ -391,7 +376,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2016/12/16/apache-hadoop/</loc>
+	<loc>https://ondataengineering.github.io/blog/2016/12/16/apache-hadoop/</loc>
 	
 		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
 	
@@ -406,7 +391,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/01/06/core-hadoop-technologies/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/01/06/core-hadoop-technologies/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -421,7 +406,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/01/13/core-hadoop-technologies-pt2/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/01/13/core-hadoop-technologies-pt2/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -436,7 +421,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/01/20/core-hadoop-technologies-pt3/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/01/20/core-hadoop-technologies-pt3/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -451,7 +436,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/01/23/the-daily-technology-summary/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/01/23/the-daily-technology-summary/</loc>
 	
 		<lastmod>2017-01-23T00:00:00+00:00</lastmod>
 	
@@ -466,7 +451,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/01/23/hadoop-distros-apache-bigtop/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/01/23/hadoop-distros-apache-bigtop/</loc>
 	
 		<lastmod>2017-01-23T18:00:00+00:00</lastmod>
 	
@@ -481,7 +466,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/01/27/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/01/27/the-week-that-was/</loc>
 	
 		<lastmod>2017-01-27T00:00:00+00:00</lastmod>
 	
@@ -496,7 +481,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/02/03/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/02/03/the-week-that-was/</loc>
 	
 		<lastmod>2017-02-03T16:50:00+00:00</lastmod>
 	
@@ -511,7 +496,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/02/10/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/02/10/the-week-that-was/</loc>
 	
 		<lastmod>2017-02-10T16:50:00+00:00</lastmod>
 	
@@ -526,7 +511,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/02/17/apache-bigtop-to-hdp/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/02/17/apache-bigtop-to-hdp/</loc>
 	
 		<lastmod>2017-02-17T07:00:00+00:00</lastmod>
 	
@@ -541,7 +526,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/02/17/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/02/17/the-week-that-was/</loc>
 	
 		<lastmod>2017-02-17T16:50:00+00:00</lastmod>
 	
@@ -556,7 +541,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/02/24/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/02/24/the-week-that-was/</loc>
 	
 		<lastmod>2017-02-24T08:20:00+00:00</lastmod>
 	
@@ -571,7 +556,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/03/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/03/the-week-that-was/</loc>
 	
 		<lastmod>2017-03-03T08:00:00+00:00</lastmod>
 	
@@ -586,7 +571,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/10/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/10/the-week-that-was/</loc>
 	
 		<lastmod>2017-03-10T08:00:00+00:00</lastmod>
 	
@@ -601,7 +586,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/13/hortonworks/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/13/hortonworks/</loc>
 	
 		<lastmod>2017-03-13T07:30:00+00:00</lastmod>
 	
@@ -616,7 +601,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/17/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/17/the-week-that-was/</loc>
 	
 		<lastmod>2017-03-17T08:00:00+00:00</lastmod>
 	
@@ -631,7 +616,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/20/hortonworks-to-cloudera/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/20/hortonworks-to-cloudera/</loc>
 	
 		<lastmod>2017-03-20T07:40:00+00:00</lastmod>
 	
@@ -646,7 +631,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/24/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/24/the-week-that-was/</loc>
 	
 		<lastmod>2017-03-24T08:00:00+00:00</lastmod>
 	
@@ -661,9 +646,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/03/31/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/03/31/the-week-that-was/</loc>
 	
-		<lastmod>2017-03-31T07:30:00+01:00</lastmod>
+		<lastmod>2017-03-31T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -676,9 +661,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/04/14/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/04/14/the-week-that-was/</loc>
 	
-		<lastmod>2017-04-14T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-14T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -691,9 +676,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/04/19/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/04/19/the-mid-week-news/</loc>
 	
-		<lastmod>2017-04-19T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-19T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -706,9 +691,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/04/21/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/04/21/the-week-that-was/</loc>
 	
-		<lastmod>2017-04-21T08:00:00+01:00</lastmod>
+		<lastmod>2017-04-21T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -721,9 +706,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/04/28/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/04/28/the-week-that-was/</loc>
 	
-		<lastmod>2017-04-28T08:15:00+01:00</lastmod>
+		<lastmod>2017-04-28T08:15:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -736,9 +721,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/03/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/03/the-mid-week-news/</loc>
 	
-		<lastmod>2017-05-03T07:45:00+01:00</lastmod>
+		<lastmod>2017-05-03T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -751,9 +736,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/05/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/05/the-week-that-was/</loc>
 	
-		<lastmod>2017-05-05T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-05T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -766,9 +751,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/08/hadoop-distros-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/08/hadoop-distros-week/</loc>
 	
-		<lastmod>2017-05-08T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-08T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -781,9 +766,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/12/why-choose-hadoop/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/12/why-choose-hadoop/</loc>
 	
-		<lastmod>2017-05-12T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-12T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -796,9 +781,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/16/hadoop-technology-options/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/16/hadoop-technology-options/</loc>
 	
-		<lastmod>2017-05-16T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-16T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -811,9 +796,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/17/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/17/the-mid-week-news/</loc>
 	
-		<lastmod>2017-05-17T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-17T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -826,9 +811,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/19/hadoop-wrap-up/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/19/hadoop-wrap-up/</loc>
 	
-		<lastmod>2017-05-19T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-19T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -841,9 +826,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/22/chapter-2/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/22/chapter-2/</loc>
 	
-		<lastmod>2017-05-22T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-22T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -856,9 +841,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/05/26/hadoop-compatible-filesystems/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/05/26/hadoop-compatible-filesystems/</loc>
 	
-		<lastmod>2017-05-26T07:45:00+01:00</lastmod>
+		<lastmod>2017-05-26T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -871,9 +856,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/02/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/02/the-week-that-was/</loc>
 	
-		<lastmod>2017-06-02T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-02T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -886,9 +871,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/07/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/07/the-mid-week-news/</loc>
 	
-		<lastmod>2017-06-07T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-07T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -901,9 +886,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/09/object-stores-wrapup/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/09/object-stores-wrapup/</loc>
 	
-		<lastmod>2017-06-09T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-09T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -916,9 +901,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/12/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/12/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-06-12T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-12T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -931,9 +916,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/14/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/14/the-mid-week-news/</loc>
 	
-		<lastmod>2017-06-14T20:00:00+01:00</lastmod>
+		<lastmod>2017-06-14T20:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -946,9 +931,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/16/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/16/the-week-that-was/</loc>
 	
-		<lastmod>2017-06-16T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-16T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -961,9 +946,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/19/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/19/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-06-19T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-19T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -976,9 +961,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/21/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/21/the-mid-week-news/</loc>
 	
-		<lastmod>2017-06-21T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-21T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -991,9 +976,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/23/hadoop-in-the-cloud/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/23/hadoop-in-the-cloud/</loc>
 	
-		<lastmod>2017-06-23T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-23T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1006,9 +991,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/26/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/26/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-06-26T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-26T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1021,9 +1006,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/28/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/28/the-mid-week-news/</loc>
 	
-		<lastmod>2017-06-28T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1036,9 +1021,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/06/30/streaming-data-stores/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/06/30/streaming-data-stores/</loc>
 	
-		<lastmod>2017-06-30T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-30T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1051,9 +1036,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/03/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/03/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-07-03T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-03T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1066,9 +1051,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/05/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/05/the-mid-week-news/</loc>
 	
-		<lastmod>2017-07-05T08:00:00+01:00</lastmod>
+		<lastmod>2017-07-05T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1081,9 +1066,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/07/thoughts-on-analytical-search/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/07/thoughts-on-analytical-search/</loc>
 	
-		<lastmod>2017-07-07T08:00:00+01:00</lastmod>
+		<lastmod>2017-07-07T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1096,9 +1081,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/10/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/10/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-07-10T08:10:00+01:00</lastmod>
+		<lastmod>2017-07-10T08:10:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1111,9 +1096,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/12/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/12/the-mid-week-news/</loc>
 	
-		<lastmod>2017-07-12T08:00:00+01:00</lastmod>
+		<lastmod>2017-07-12T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1126,9 +1111,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/14/thoughts-on-nosql-wide-column-stores/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/14/thoughts-on-nosql-wide-column-stores/</loc>
 	
-		<lastmod>2017-07-14T08:00:00+01:00</lastmod>
+		<lastmod>2017-07-14T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1141,9 +1126,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/17/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/17/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-07-17T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-17T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1156,9 +1141,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/19/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/19/the-mid-week-news/</loc>
 	
-		<lastmod>2017-07-19T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-19T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1171,9 +1156,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/21/thoughts-on-compute-cluster-management/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/21/thoughts-on-compute-cluster-management/</loc>
 	
-		<lastmod>2017-07-21T08:00:00+01:00</lastmod>
+		<lastmod>2017-07-21T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1186,9 +1171,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/07/24/the-plan-for-next-three-weeks/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/07/24/the-plan-for-next-three-weeks/</loc>
 	
-		<lastmod>2017-07-24T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-24T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1201,9 +1186,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/14/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/14/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-08-14T07:30:00+01:00</lastmod>
+		<lastmod>2017-08-14T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1216,9 +1201,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/16/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/16/the-mid-week-news/</loc>
 	
-		<lastmod>2017-08-16T07:30:00+01:00</lastmod>
+		<lastmod>2017-08-16T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1231,9 +1216,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/18/the-apache-big-data-project-list/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/18/the-apache-big-data-project-list/</loc>
 	
-		<lastmod>2017-08-18T07:45:00+01:00</lastmod>
+		<lastmod>2017-08-18T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1246,9 +1231,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/21/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/21/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-08-21T07:30:00+01:00</lastmod>
+		<lastmod>2017-08-21T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1261,9 +1246,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/23/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/23/the-mid-week-news/</loc>
 	
-		<lastmod>2017-08-23T07:30:00+01:00</lastmod>
+		<lastmod>2017-08-23T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1276,9 +1261,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/25/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/25/the-week-that-was/</loc>
 	
-		<lastmod>2017-08-25T07:45:00+01:00</lastmod>
+		<lastmod>2017-08-25T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1291,9 +1276,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/29/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/29/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-08-29T07:30:00+01:00</lastmod>
+		<lastmod>2017-08-29T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1306,9 +1291,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/08/30/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/08/30/the-mid-week-news/</loc>
 	
-		<lastmod>2017-08-30T07:45:00+01:00</lastmod>
+		<lastmod>2017-08-30T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1321,9 +1306,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/01/thoughts-on-time-series-databases/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/01/thoughts-on-time-series-databases/</loc>
 	
-		<lastmod>2017-09-01T08:00:00+01:00</lastmod>
+		<lastmod>2017-09-01T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1336,9 +1321,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/04/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/04/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-09-04T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-04T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1351,9 +1336,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/06/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/06/the-mid-week-news/</loc>
 	
-		<lastmod>2017-09-06T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-06T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1366,9 +1351,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/08/thoughts-on-in-memory-databases/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/08/thoughts-on-in-memory-databases/</loc>
 	
-		<lastmod>2017-09-08T07:45:00+01:00</lastmod>
+		<lastmod>2017-09-08T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1381,9 +1366,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/11/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/11/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-09-11T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-11T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1396,9 +1381,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/13/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/13/the-mid-week-news/</loc>
 	
-		<lastmod>2017-09-13T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-13T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1411,9 +1396,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/15/thoughts-on-data-virtualization/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/15/thoughts-on-data-virtualization/</loc>
 	
-		<lastmod>2017-09-15T07:45:00+01:00</lastmod>
+		<lastmod>2017-09-15T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1426,9 +1411,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/18/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/18/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-09-18T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1441,9 +1426,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/20/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/20/the-mid-week-news/</loc>
 	
-		<lastmod>2017-09-20T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-20T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1456,9 +1441,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/22/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/22/the-week-that-was/</loc>
 	
-		<lastmod>2017-09-22T07:45:00+01:00</lastmod>
+		<lastmod>2017-09-22T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1471,9 +1456,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/27/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/27/the-mid-week-news/</loc>
 	
-		<lastmod>2017-09-27T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-27T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1486,9 +1471,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/09/29/thoughts-on-graph-technologies/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/09/29/thoughts-on-graph-technologies/</loc>
 	
-		<lastmod>2017-09-29T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-29T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1501,9 +1486,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/02/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/02/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-10-02T07:30:00+01:00</lastmod>
+		<lastmod>2017-10-02T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1516,9 +1501,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/04/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/04/the-mid-week-news/</loc>
 	
-		<lastmod>2017-10-04T07:45:00+01:00</lastmod>
+		<lastmod>2017-10-04T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1531,9 +1516,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/06/thoughts-on-hadoop-data-formats/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/06/thoughts-on-hadoop-data-formats/</loc>
 	
-		<lastmod>2017-10-06T07:30:00+01:00</lastmod>
+		<lastmod>2017-10-06T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1546,9 +1531,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/10/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/10/the-plan-for-this-week/</loc>
 	
-		<lastmod>2017-10-10T07:30:00+01:00</lastmod>
+		<lastmod>2017-10-10T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1561,9 +1546,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/11/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/11/the-mid-week-news/</loc>
 	
-		<lastmod>2017-10-11T07:45:00+01:00</lastmod>
+		<lastmod>2017-10-11T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1576,9 +1561,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/13/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/13/the-week-that-was/</loc>
 	
-		<lastmod>2017-10-13T07:45:00+01:00</lastmod>
+		<lastmod>2017-10-13T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1591,9 +1576,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/18/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/18/the-mid-week-news/</loc>
 	
-		<lastmod>2017-10-18T07:30:00+01:00</lastmod>
+		<lastmod>2017-10-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1606,9 +1591,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/20/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/20/the-week-that-was/</loc>
 	
-		<lastmod>2017-10-20T07:45:00+01:00</lastmod>
+		<lastmod>2017-10-20T07:45:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1621,9 +1606,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/25/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/25/the-mid-week-news/</loc>
 	
-		<lastmod>2017-10-25T07:30:00+01:00</lastmod>
+		<lastmod>2017-10-25T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1636,9 +1621,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/27/thoughts-on-query-engines-and-analytical-databases/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/27/thoughts-on-query-engines-and-analytical-databases/</loc>
 	
-		<lastmod>2017-10-27T07:30:00+01:00</lastmod>
+		<lastmod>2017-10-27T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -1651,7 +1636,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/10/30/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/10/30/the-plan-for-this-week/</loc>
 	
 		<lastmod>2017-10-30T07:30:00+00:00</lastmod>
 	
@@ -1666,7 +1651,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/01/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/01/the-mid-week-news/</loc>
 	
 		<lastmod>2017-11-01T07:30:00+00:00</lastmod>
 	
@@ -1681,7 +1666,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/03/thoughts-on-hortonworks-dataplane-and-cloudera-sdx/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/03/thoughts-on-hortonworks-dataplane-and-cloudera-sdx/</loc>
 	
 		<lastmod>2017-11-03T07:30:00+00:00</lastmod>
 	
@@ -1696,7 +1681,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/08/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/08/the-mid-week-news/</loc>
 	
 		<lastmod>2017-11-08T07:30:00+00:00</lastmod>
 	
@@ -1711,7 +1696,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/10/thoughts-on-mapr/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/10/thoughts-on-mapr/</loc>
 	
 		<lastmod>2017-11-10T07:30:00+00:00</lastmod>
 	
@@ -1726,7 +1711,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/15/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/15/the-mid-week-news/</loc>
 	
 		<lastmod>2017-11-15T07:30:00+00:00</lastmod>
 	
@@ -1741,7 +1726,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/20/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/20/the-plan-for-this-week/</loc>
 	
 		<lastmod>2017-11-20T07:30:00+00:00</lastmod>
 	
@@ -1756,7 +1741,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/22/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/22/the-mid-week-news/</loc>
 	
 		<lastmod>2017-11-22T07:30:00+00:00</lastmod>
 	
@@ -1771,7 +1756,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/27/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/27/the-plan-for-this-week/</loc>
 	
 		<lastmod>2017-11-27T07:30:00+00:00</lastmod>
 	
@@ -1786,7 +1771,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/11/29/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/11/29/the-mid-week-news/</loc>
 	
 		<lastmod>2017-11-29T07:30:00+00:00</lastmod>
 	
@@ -1801,7 +1786,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/01/technology-categories/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/01/technology-categories/</loc>
 	
 		<lastmod>2017-12-01T07:30:00+00:00</lastmod>
 	
@@ -1816,7 +1801,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/04/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/04/the-plan-for-this-week/</loc>
 	
 		<lastmod>2017-12-04T07:30:00+00:00</lastmod>
 	
@@ -1831,7 +1816,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/06/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/06/the-mid-week-news/</loc>
 	
 		<lastmod>2017-12-06T07:30:00+00:00</lastmod>
 	
@@ -1846,7 +1831,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/08/thoughts-on-data-ingestion-technologies/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/08/thoughts-on-data-ingestion-technologies/</loc>
 	
 		<lastmod>2017-12-08T07:45:00+00:00</lastmod>
 	
@@ -1861,7 +1846,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/11/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/11/the-plan-for-this-week/</loc>
 	
 		<lastmod>2017-12-11T07:30:00+00:00</lastmod>
 	
@@ -1876,7 +1861,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/13/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/13/the-mid-week-news/</loc>
 	
 		<lastmod>2017-12-13T07:30:00+00:00</lastmod>
 	
@@ -1891,7 +1876,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2017/12/15/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2017/12/15/the-week-that-was/</loc>
 	
 		<lastmod>2017-12-15T07:30:00+00:00</lastmod>
 	
@@ -1906,7 +1891,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/01/08/the-plan-for-this-week/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/01/08/the-plan-for-this-week/</loc>
 	
 		<lastmod>2018-01-08T07:30:00+00:00</lastmod>
 	
@@ -1921,7 +1906,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/01/10/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/01/10/the-mid-week-news/</loc>
 	
 		<lastmod>2018-01-10T07:30:00+00:00</lastmod>
 	
@@ -1936,7 +1921,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/01/17/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/01/17/the-mid-week-news/</loc>
 	
 		<lastmod>2018-01-17T07:30:00+00:00</lastmod>
 	
@@ -1951,7 +1936,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/01/19/an-update/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/01/19/an-update/</loc>
 	
 		<lastmod>2018-01-19T07:30:00+00:00</lastmod>
 	
@@ -1966,7 +1951,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/01/24/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/01/24/the-mid-week-news/</loc>
 	
 		<lastmod>2018-01-24T07:30:00+00:00</lastmod>
 	
@@ -1981,7 +1966,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/01/31/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/01/31/the-mid-week-news/</loc>
 	
 		<lastmod>2018-01-31T07:30:00+00:00</lastmod>
 	
@@ -1996,7 +1981,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/02/07/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/02/07/the-mid-week-news/</loc>
 	
 		<lastmod>2018-02-07T07:30:00+00:00</lastmod>
 	
@@ -2011,7 +1996,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/02/21/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/02/21/the-mid-week-news/</loc>
 	
 		<lastmod>2018-02-21T07:30:00+00:00</lastmod>
 	
@@ -2026,7 +2011,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/02/28/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/02/28/the-mid-week-news/</loc>
 	
 		<lastmod>2018-02-28T07:30:00+00:00</lastmod>
 	
@@ -2041,7 +2026,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/03/02/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/03/02/the-week-that-was/</loc>
 	
 		<lastmod>2018-03-02T07:30:00+00:00</lastmod>
 	
@@ -2056,7 +2041,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/03/07/the-mid-weeks-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/03/07/the-mid-weeks-news/</loc>
 	
 		<lastmod>2018-03-07T07:30:00+00:00</lastmod>
 	
@@ -2071,7 +2056,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/03/14/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/03/14/the-mid-week-news/</loc>
 	
 		<lastmod>2018-03-14T07:30:00+00:00</lastmod>
 	
@@ -2086,7 +2071,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/03/21/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/03/21/the-mid-week-news/</loc>
 	
 		<lastmod>2018-03-21T07:30:00+00:00</lastmod>
 	
@@ -2101,7 +2086,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/03/23/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/03/23/the-week-that-was/</loc>
 	
 		<lastmod>2018-03-23T07:30:00+00:00</lastmod>
 	
@@ -2116,24 +2101,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/03/28/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/03/28/the-mid-week-news/</loc>
 	
-		<lastmod>2018-03-28T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/04/11/the-mid-week-news/</loc>
-	
-		<lastmod>2018-04-11T07:30:00+01:00</lastmod>
+		<lastmod>2018-03-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2146,24 +2116,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/04/18/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/04/11/the-mid-week-news/</loc>
 	
-		<lastmod>2018-04-18T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/04/25/the-mid-week-news/</loc>
-	
-		<lastmod>2018-04-25T07:30:00+01:00</lastmod>
+		<lastmod>2018-04-11T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2176,24 +2131,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/05/02/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/04/18/the-mid-week-news/</loc>
 	
-		<lastmod>2018-05-02T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/05/09/the-mid-week-news/</loc>
-	
-		<lastmod>2018-05-09T07:30:00+01:00</lastmod>
+		<lastmod>2018-04-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2206,24 +2146,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/05/16/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/04/25/the-mid-week-news/</loc>
 	
-		<lastmod>2018-05-16T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/05/23/the-mid-week-news/</loc>
-	
-		<lastmod>2018-05-23T07:30:00+01:00</lastmod>
+		<lastmod>2018-04-25T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2236,24 +2161,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/06/06/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/05/02/the-mid-week-news/</loc>
 	
-		<lastmod>2018-06-06T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/06/08/the-week-that-was/</loc>
-	
-		<lastmod>2018-06-08T07:30:00+01:00</lastmod>
+		<lastmod>2018-05-02T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2266,24 +2176,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/06/13/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/05/09/the-mid-week-news/</loc>
 	
-		<lastmod>2018-06-13T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/06/20/the-mid-week-news/</loc>
-	
-		<lastmod>2018-06-20T07:30:00+01:00</lastmod>
+		<lastmod>2018-05-09T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2296,24 +2191,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/06/22/the-week-that-was/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/05/16/the-mid-week-news/</loc>
 	
-		<lastmod>2018-06-22T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/06/27/the-mid-week-news/</loc>
-	
-		<lastmod>2018-06-27T07:30:00+01:00</lastmod>
+		<lastmod>2018-05-16T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2326,24 +2206,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/07/04/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/05/23/the-mid-week-news/</loc>
 	
-		<lastmod>2018-07-04T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/07/11/the-mid-week-news/</loc>
-	
-		<lastmod>2018-07-11T07:30:00+01:00</lastmod>
+		<lastmod>2018-05-23T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2356,24 +2221,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/07/18/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/06/06/the-mid-week-news/</loc>
 	
-		<lastmod>2018-07-18T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/07/25/the-mid-week-news/</loc>
-	
-		<lastmod>2018-07-25T07:30:00+01:00</lastmod>
+		<lastmod>2018-06-06T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2386,24 +2236,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/08/15/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/06/08/the-week-that-was/</loc>
 	
-		<lastmod>2018-08-15T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/08/22/the-mid-week-news/</loc>
-	
-		<lastmod>2018-08-22T07:30:00+01:00</lastmod>
+		<lastmod>2018-06-08T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2416,24 +2251,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/08/29/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/06/13/the-mid-week-news/</loc>
 	
-		<lastmod>2018-08-29T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/09/05/the-mid-week-news/</loc>
-	
-		<lastmod>2018-09-05T07:30:00+01:00</lastmod>
+		<lastmod>2018-06-13T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2446,24 +2266,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/09/12/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/06/20/the-mid-week-news/</loc>
 	
-		<lastmod>2018-09-12T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/09/19/the-mid-week-news/</loc>
-	
-		<lastmod>2018-09-19T07:30:00+01:00</lastmod>
+		<lastmod>2018-06-20T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2476,24 +2281,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/09/21/thoughts-on-hortonworks-open-hybrid-architecture-initiative/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/06/22/the-week-that-was/</loc>
 	
-		<lastmod>2018-09-21T07:45:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/09/26/the-mid-week-news/</loc>
-	
-		<lastmod>2018-09-26T07:30:00+01:00</lastmod>
+		<lastmod>2018-06-22T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2506,24 +2296,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/09/28/thoughts-on-hortonworks-dataplane/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/06/27/the-mid-week-news/</loc>
 	
-		<lastmod>2018-09-28T07:45:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/04/the-mid-week-news/</loc>
-	
-		<lastmod>2018-10-04T07:30:00+01:00</lastmod>
+		<lastmod>2018-06-27T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2536,24 +2311,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/05/thoughts-on-the-cloudera-hortonworks-merger/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/07/04/the-mid-week-news/</loc>
 	
-		<lastmod>2018-10-05T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/10/the-mid-week-news/</loc>
-	
-		<lastmod>2018-10-10T07:30:00+01:00</lastmod>
+		<lastmod>2018-07-04T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2566,24 +2326,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/17/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/07/11/the-mid-week-news/</loc>
 	
-		<lastmod>2018-10-17T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/17/thoughts-on-hadoop-service-providers/</loc>
-	
-		<lastmod>2018-10-17T07:45:00+01:00</lastmod>
+		<lastmod>2018-07-11T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2596,24 +2341,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/19/the-future-of-hadoop/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/07/18/the-mid-week-news/</loc>
 	
-		<lastmod>2018-10-19T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/24/the-mid-week-news/</loc>
-	
-		<lastmod>2018-10-24T07:30:00+01:00</lastmod>
+		<lastmod>2018-07-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2626,7 +2356,262 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/10/31/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/07/25/the-mid-week-news/</loc>
+	
+		<lastmod>2018-07-25T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/08/15/the-mid-week-news/</loc>
+	
+		<lastmod>2018-08-15T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/08/22/the-mid-week-news/</loc>
+	
+		<lastmod>2018-08-22T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/08/29/the-mid-week-news/</loc>
+	
+		<lastmod>2018-08-29T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/09/05/the-mid-week-news/</loc>
+	
+		<lastmod>2018-09-05T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/09/12/the-mid-week-news/</loc>
+	
+		<lastmod>2018-09-12T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/09/19/the-mid-week-news/</loc>
+	
+		<lastmod>2018-09-19T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/09/21/thoughts-on-hortonworks-open-hybrid-architecture-initiative/</loc>
+	
+		<lastmod>2018-09-21T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/09/26/the-mid-week-news/</loc>
+	
+		<lastmod>2018-09-26T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/09/28/thoughts-on-hortonworks-dataplane/</loc>
+	
+		<lastmod>2018-09-28T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/04/the-mid-week-news/</loc>
+	
+		<lastmod>2018-10-04T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/05/thoughts-on-the-cloudera-hortonworks-merger/</loc>
+	
+		<lastmod>2018-10-05T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/10/the-mid-week-news/</loc>
+	
+		<lastmod>2018-10-10T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/17/the-mid-week-news/</loc>
+	
+		<lastmod>2018-10-17T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/17/thoughts-on-hadoop-service-providers/</loc>
+	
+		<lastmod>2018-10-17T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/19/the-future-of-hadoop/</loc>
+	
+		<lastmod>2018-10-19T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/24/the-mid-week-news/</loc>
+	
+		<lastmod>2018-10-24T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2018/10/31/the-mid-week-news/</loc>
 	
 		<lastmod>2018-10-31T07:30:00+00:00</lastmod>
 	
@@ -2641,7 +2626,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/11/02/thoughts-on-schema-registries/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/11/02/thoughts-on-schema-registries/</loc>
 	
 		<lastmod>2018-11-02T07:45:00+00:00</lastmod>
 	
@@ -2656,7 +2641,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/11/07/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/11/07/the-mid-week-news/</loc>
 	
 		<lastmod>2018-11-07T07:30:00+00:00</lastmod>
 	
@@ -2671,7 +2656,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/11/14/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/11/14/the-mid-week-news/</loc>
 	
 		<lastmod>2018-11-14T07:30:00+00:00</lastmod>
 	
@@ -2686,7 +2671,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/12/12/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/12/12/the-mid-week-news/</loc>
 	
 		<lastmod>2018-12-12T07:30:00+00:00</lastmod>
 	
@@ -2701,7 +2686,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2018/12/19/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2018/12/19/the-mid-week-news/</loc>
 	
 		<lastmod>2018-12-19T07:30:00+00:00</lastmod>
 	
@@ -2716,7 +2701,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/01/09/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/01/09/the-mid-week-news/</loc>
 	
 		<lastmod>2019-01-09T07:30:00+00:00</lastmod>
 	
@@ -2731,7 +2716,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/01/16/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/01/16/the-mid-week-news/</loc>
 	
 		<lastmod>2019-01-16T07:30:00+00:00</lastmod>
 	
@@ -2746,7 +2731,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/01/23/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/01/23/the-mid-week-news/</loc>
 	
 		<lastmod>2019-01-23T07:30:00+00:00</lastmod>
 	
@@ -2761,7 +2746,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/01/30/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/01/30/the-mid-week-news/</loc>
 	
 		<lastmod>2019-01-30T07:30:00+00:00</lastmod>
 	
@@ -2776,7 +2761,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/02/06/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/02/06/the-mid-week-news/</loc>
 	
 		<lastmod>2019-02-06T07:30:00+00:00</lastmod>
 	
@@ -2791,7 +2776,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/02/13/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/02/13/the-mid-week-news/</loc>
 	
 		<lastmod>2019-02-13T07:30:00+00:00</lastmod>
 	
@@ -2806,7 +2791,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/02/27/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/02/27/the-mid-week-news/</loc>
 	
 		<lastmod>2019-02-27T07:30:00+00:00</lastmod>
 	
@@ -2821,7 +2806,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/03/06/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/03/06/the-mid-week-news/</loc>
 	
 		<lastmod>2019-03-06T07:30:00+00:00</lastmod>
 	
@@ -2836,7 +2821,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/03/13/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/03/13/the-mid-week-news/</loc>
 	
 		<lastmod>2019-03-13T07:30:00+00:00</lastmod>
 	
@@ -2851,7 +2836,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/03/20/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/03/20/the-mid-week-news/</loc>
 	
 		<lastmod>2019-03-20T07:30:00+00:00</lastmod>
 	
@@ -2866,7 +2851,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/03/27/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/03/27/the-mid-week-news/</loc>
 	
 		<lastmod>2019-03-27T07:30:00+00:00</lastmod>
 	
@@ -2881,24 +2866,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/04/03/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/04/03/the-mid-week-news/</loc>
 	
-		<lastmod>2019-04-03T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/04/10/the-mid-week-news/</loc>
-	
-		<lastmod>2019-04-10T07:30:00+01:00</lastmod>
+		<lastmod>2019-04-03T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2911,24 +2881,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/04/17/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/04/10/the-mid-week-news/</loc>
 	
-		<lastmod>2019-04-17T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/04/24/the-mid-week-news/</loc>
-	
-		<lastmod>2019-04-24T07:30:00+01:00</lastmod>
+		<lastmod>2019-04-10T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2941,24 +2896,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/05/01/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/04/17/the-mid-week-news/</loc>
 	
-		<lastmod>2019-05-01T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/05/08/the-mid-week-news/</loc>
-	
-		<lastmod>2019-05-08T07:30:00+01:00</lastmod>
+		<lastmod>2019-04-17T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -2971,24 +2911,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/05/15/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/04/24/the-mid-week-news/</loc>
 	
-		<lastmod>2019-05-15T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/05/22/the-mid-week-news/</loc>
-	
-		<lastmod>2019-05-22T07:30:00+01:00</lastmod>
+		<lastmod>2019-04-24T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3001,24 +2926,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/05/29/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/05/01/the-mid-week-news/</loc>
 	
-		<lastmod>2019-05-29T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/06/05/the-mid-week-news/</loc>
-	
-		<lastmod>2019-06-05T07:30:00+01:00</lastmod>
+		<lastmod>2019-05-01T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3031,24 +2941,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/06/12/the-mid-weeks-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/05/08/the-mid-week-news/</loc>
 	
-		<lastmod>2019-06-12T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/06/19/the-mid-week-news/</loc>
-	
-		<lastmod>2019-06-19T07:30:00+01:00</lastmod>
+		<lastmod>2019-05-08T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3061,24 +2956,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/06/26/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/05/15/the-mid-week-news/</loc>
 	
-		<lastmod>2019-06-26T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/07/03/the-mid-week-news/</loc>
-	
-		<lastmod>2019-07-03T07:30:00+01:00</lastmod>
+		<lastmod>2019-05-15T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3091,24 +2971,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/07/10/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/05/22/the-mid-week-news/</loc>
 	
-		<lastmod>2019-07-10T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/07/17/the-mid-week-news/</loc>
-	
-		<lastmod>2019-07-17T07:30:00+01:00</lastmod>
+		<lastmod>2019-05-22T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3121,24 +2986,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/07/31/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/05/29/the-mid-week-news/</loc>
 	
-		<lastmod>2019-07-31T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/08/07/the-midweek-news/</loc>
-	
-		<lastmod>2019-08-07T07:30:00+01:00</lastmod>
+		<lastmod>2019-05-29T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3151,24 +3001,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/08/14/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/06/05/the-mid-week-news/</loc>
 	
-		<lastmod>2019-08-14T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/blog/2019/09/11/the-mid-week-news/</loc>
-	
-		<lastmod>2019-09-11T07:30:00+01:00</lastmod>
+		<lastmod>2019-06-05T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3181,9 +3016,159 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/blog/2019/09/18/the-mid-week-news/</loc>
+	<loc>https://ondataengineering.github.io/blog/2019/06/12/the-mid-weeks-news/</loc>
 	
-		<lastmod>2019-09-18T07:30:00+01:00</lastmod>
+		<lastmod>2019-06-12T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/06/19/the-mid-week-news/</loc>
+	
+		<lastmod>2019-06-19T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/06/26/the-mid-week-news/</loc>
+	
+		<lastmod>2019-06-26T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/07/03/the-mid-week-news/</loc>
+	
+		<lastmod>2019-07-03T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/07/10/the-mid-week-news/</loc>
+	
+		<lastmod>2019-07-10T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/07/17/the-mid-week-news/</loc>
+	
+		<lastmod>2019-07-17T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/07/31/the-mid-week-news/</loc>
+	
+		<lastmod>2019-07-31T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/08/07/the-midweek-news/</loc>
+	
+		<lastmod>2019-08-07T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/08/14/the-mid-week-news/</loc>
+	
+		<lastmod>2019-08-14T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/09/11/the-mid-week-news/</loc>
+	
+		<lastmod>2019-09-11T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/blog/2019/09/18/the-mid-week-news/</loc>
+	
+		<lastmod>2019-09-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3200,24 +3185,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/hadoop-compatible-filesystems/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/hadoop-compatible-filesystems/</loc>
 	
-		<lastmod>2017-05-26T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/object-stores/</loc>
-	
-		<lastmod>2017-06-09T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-26T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3230,24 +3200,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/hadoop-distributions/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/object-stores/</loc>
 	
-		<lastmod>2017-06-23T17:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/streaming-data-stores/</loc>
-	
-		<lastmod>2017-06-26T08:00:00+01:00</lastmod>
+		<lastmod>2017-06-09T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3260,24 +3215,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/analytical-search/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/hadoop-distributions/</loc>
 	
-		<lastmod>2017-07-07T08:00:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/nosql-wide-column-stores/</loc>
-	
-		<lastmod>2017-07-14T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-23T17:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3290,24 +3230,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/compute-cluster-managers/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/streaming-data-stores/</loc>
 	
-		<lastmod>2017-07-21T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/time-series-databases/</loc>
-	
-		<lastmod>2017-09-01T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-26T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3320,24 +3245,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/in-memory-databases/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/analytical-search/</loc>
 	
-		<lastmod>2017-09-08T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/data-virtualization/</loc>
-	
-		<lastmod>2017-09-15T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-07T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3350,24 +3260,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/rdf-databases/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/nosql-wide-column-stores/</loc>
 	
-		<lastmod>2017-09-25T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/graph-databases/</loc>
-	
-		<lastmod>2017-09-26T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-14T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3380,24 +3275,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/graph-analytics/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/compute-cluster-managers/</loc>
 	
-		<lastmod>2017-09-28T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/data-storage-formats/</loc>
-	
-		<lastmod>2017-10-05T07:30:00+01:00</lastmod>
+		<lastmod>2017-07-21T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3410,24 +3290,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/query-engines/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/time-series-databases/</loc>
 	
-		<lastmod>2017-10-24T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-categories/analytical-databases/</loc>
-	
-		<lastmod>2017-10-26T07:30:00+01:00</lastmod>
+		<lastmod>2017-09-01T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3440,7 +3305,127 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/data-ingestion/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/in-memory-databases/</loc>
+	
+		<lastmod>2017-09-08T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/data-virtualization/</loc>
+	
+		<lastmod>2017-09-15T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/rdf-databases/</loc>
+	
+		<lastmod>2017-09-25T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/graph-databases/</loc>
+	
+		<lastmod>2017-09-26T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/graph-analytics/</loc>
+	
+		<lastmod>2017-09-28T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/data-storage-formats/</loc>
+	
+		<lastmod>2017-10-05T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/query-engines/</loc>
+	
+		<lastmod>2017-10-24T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/analytical-databases/</loc>
+	
+		<lastmod>2017-10-26T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-categories/data-ingestion/</loc>
 	
 		<lastmod>2017-12-08T07:30:00+00:00</lastmod>
 	
@@ -3455,7 +3440,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-categories/schema-registries/</loc>
+	<loc>https://ondataengineering.github.io/tech-categories/schema-registries/</loc>
 	
 		<lastmod>2018-11-02T07:30:00+00:00</lastmod>
 	
@@ -3474,7 +3459,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-vendors/hortonworks/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/hortonworks/</loc>
 	
 		<lastmod>2017-03-20T07:30:00+00:00</lastmod>
 	
@@ -3489,24 +3474,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-vendors/cloudera/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/cloudera/</loc>
 	
-		<lastmod>2017-04-18T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-vendors/mapr/</loc>
-	
-		<lastmod>2017-05-03T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3519,24 +3489,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-vendors/odpi/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/mapr/</loc>
 	
-		<lastmod>2017-05-18T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-vendors/amazon-web-services/</loc>
-	
-		<lastmod>2017-06-20T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-03T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3549,24 +3504,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-vendors/microsoft-azure/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/odpi/</loc>
 	
-		<lastmod>2017-06-21T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/tech-vendors/google-cloud-platform/</loc>
-	
-		<lastmod>2017-06-22T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3579,9 +3519,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-vendors/mesosphere/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/amazon-web-services/</loc>
 	
-		<lastmod>2017-07-20T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-20T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3594,9 +3534,54 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/tech-vendors/apache/</loc>
+	<loc>https://ondataengineering.github.io/tech-vendors/microsoft-azure/</loc>
 	
-		<lastmod>2017-08-18T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-21T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-vendors/google-cloud-platform/</loc>
+	
+		<lastmod>2017-06-22T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-vendors/mesosphere/</loc>
+	
+		<lastmod>2017-07-20T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/tech-vendors/apache/</loc>
+	
+		<lastmod>2017-08-18T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -3613,7 +3598,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hadoop/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hadoop/</loc>
 	
 		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
 	
@@ -3628,7 +3613,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hadoop/hdfs/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hadoop/hdfs/</loc>
 	
 		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
 	
@@ -3643,7 +3628,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hadoop/map-reduce/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hadoop/map-reduce/</loc>
 	
 		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
 	
@@ -3658,7 +3643,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hadoop/yarn/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hadoop/yarn/</loc>
 	
 		<lastmod>2016-12-16T00:00:00+00:00</lastmod>
 	
@@ -3673,7 +3658,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-flume/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-flume/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -3688,7 +3673,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hbase/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hbase/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -3703,7 +3688,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hive/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hive/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -3718,7 +3703,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hive/hcatalog/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hive/hcatalog/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -3733,7 +3718,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hive/hive-metastore/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hive/hive-metastore/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -3748,7 +3733,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hive/hive-server/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hive/hive-server/</loc>
 	
 		<lastmod>2017-01-06T00:00:00+00:00</lastmod>
 	
@@ -3763,7 +3748,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-solr/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-solr/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3778,7 +3763,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-spark/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-spark/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3793,7 +3778,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-spark/graphx/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-spark/graphx/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3808,7 +3793,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-spark/mllib/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-spark/mllib/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3823,7 +3808,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-spark/spark-sql/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-spark/spark-sql/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3838,7 +3823,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-spark/spark-streaming/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-spark/spark-streaming/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3853,7 +3838,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-sqoop/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-sqoop/</loc>
 	
 		<lastmod>2017-01-13T00:00:00+00:00</lastmod>
 	
@@ -3868,7 +3853,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-avro/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-avro/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3883,7 +3868,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-kafka/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-kafka/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3898,7 +3883,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-kafka/kafka-connect/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-kafka/kafka-connect/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3913,7 +3898,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-kafka/kafka-streams/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-kafka/kafka-streams/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3928,7 +3913,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-oozie/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-oozie/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3943,7 +3928,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-parquet/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-parquet/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3958,7 +3943,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-pig/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-pig/</loc>
 	
 		<lastmod>2017-01-20T00:00:00+00:00</lastmod>
 	
@@ -3973,7 +3958,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-bigtop/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-bigtop/</loc>
 	
 		<lastmod>2017-01-23T00:00:00+00:00</lastmod>
 	
@@ -3988,7 +3973,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-ignite/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-ignite/</loc>
 	
 		<lastmod>2017-01-24T00:00:00+00:00</lastmod>
 	
@@ -4003,7 +3988,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-giraph/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-giraph/</loc>
 	
 		<lastmod>2017-01-25T00:00:00+00:00</lastmod>
 	
@@ -4018,7 +4003,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hama/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hama/</loc>
 	
 		<lastmod>2017-01-26T00:00:00+00:00</lastmod>
 	
@@ -4033,7 +4018,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/alluxio/</loc>
+	<loc>https://ondataengineering.github.io/technologies/alluxio/</loc>
 	
 		<lastmod>2017-01-27T00:00:00+00:00</lastmod>
 	
@@ -4048,7 +4033,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/kite/</loc>
+	<loc>https://ondataengineering.github.io/technologies/kite/</loc>
 	
 		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
 	
@@ -4063,7 +4048,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/kite/kite-data/</loc>
+	<loc>https://ondataengineering.github.io/technologies/kite/kite-data/</loc>
 	
 		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
 	
@@ -4078,7 +4063,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/kite/kite-maven-plugin/</loc>
+	<loc>https://ondataengineering.github.io/technologies/kite/kite-maven-plugin/</loc>
 	
 		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
 	
@@ -4093,7 +4078,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/kite/morphlines/</loc>
+	<loc>https://ondataengineering.github.io/technologies/kite/morphlines/</loc>
 	
 		<lastmod>2017-01-30T00:00:00+00:00</lastmod>
 	
@@ -4108,7 +4093,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-datafu/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-datafu/</loc>
 	
 		<lastmod>2017-01-31T00:00:00+00:00</lastmod>
 	
@@ -4123,7 +4108,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-datafu/datafu-hourglass/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-datafu/datafu-hourglass/</loc>
 	
 		<lastmod>2017-01-31T00:00:00+00:00</lastmod>
 	
@@ -4138,7 +4123,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-datafu/datafu-pig/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-datafu/datafu-pig/</loc>
 	
 		<lastmod>2017-01-31T00:00:00+00:00</lastmod>
 	
@@ -4153,7 +4138,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-phoenix/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-phoenix/</loc>
 	
 		<lastmod>2017-02-01T00:00:00+00:00</lastmod>
 	
@@ -4168,7 +4153,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-tajo/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-tajo/</loc>
 	
 		<lastmod>2017-02-02T00:00:00+00:00</lastmod>
 	
@@ -4183,7 +4168,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-mahout/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-mahout/</loc>
 	
 		<lastmod>2017-02-03T00:00:00+00:00</lastmod>
 	
@@ -4198,7 +4183,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-apex/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-apex/</loc>
 	
 		<lastmod>2017-02-06T00:00:00+00:00</lastmod>
 	
@@ -4213,7 +4198,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-crunch/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-crunch/</loc>
 	
 		<lastmod>2017-02-07T00:00:00+00:00</lastmod>
 	
@@ -4228,7 +4213,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-flink/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-flink/</loc>
 	
 		<lastmod>2017-02-08T00:00:00+00:00</lastmod>
 	
@@ -4243,7 +4228,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-tez/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-tez/</loc>
 	
 		<lastmod>2017-02-09T00:00:00+00:00</lastmod>
 	
@@ -4258,7 +4243,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-zookeeper/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-zookeeper/</loc>
 	
 		<lastmod>2017-02-10T00:00:00+00:00</lastmod>
 	
@@ -4273,7 +4258,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hue/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hue/</loc>
 	
 		<lastmod>2017-02-13T00:00:00+00:00</lastmod>
 	
@@ -4288,7 +4273,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-zeppelin/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-zeppelin/</loc>
 	
 		<lastmod>2017-02-14T00:00:00+00:00</lastmod>
 	
@@ -4303,7 +4288,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/quantcast-file-system/</loc>
+	<loc>https://ondataengineering.github.io/technologies/quantcast-file-system/</loc>
 	
 		<lastmod>2017-02-15T00:00:00+00:00</lastmod>
 	
@@ -4318,7 +4303,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/greenplum/</loc>
+	<loc>https://ondataengineering.github.io/technologies/greenplum/</loc>
 	
 		<lastmod>2017-02-16T00:00:00+00:00</lastmod>
 	
@@ -4333,7 +4318,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-data-platform/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-data-platform/</loc>
 	
 		<lastmod>2017-02-17T07:30:00+00:00</lastmod>
 	
@@ -4348,7 +4333,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-atlas/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-atlas/</loc>
 	
 		<lastmod>2017-02-20T00:00:00+00:00</lastmod>
 	
@@ -4363,7 +4348,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-ranger/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-ranger/</loc>
 	
 		<lastmod>2017-02-21T00:00:00+00:00</lastmod>
 	
@@ -4378,7 +4363,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-knox/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-knox/</loc>
 	
 		<lastmod>2017-02-22T00:00:00+00:00</lastmod>
 	
@@ -4393,7 +4378,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-falcon/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-falcon/</loc>
 	
 		<lastmod>2017-02-23T00:00:00+00:00</lastmod>
 	
@@ -4408,7 +4393,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-calcite/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-calcite/</loc>
 	
 		<lastmod>2017-02-24T00:00:00+00:00</lastmod>
 	
@@ -4423,7 +4408,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-slider/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-slider/</loc>
 	
 		<lastmod>2017-02-27T00:00:00+00:00</lastmod>
 	
@@ -4438,7 +4423,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-storm/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-storm/</loc>
 	
 		<lastmod>2017-02-28T07:30:00+00:00</lastmod>
 	
@@ -4453,7 +4438,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-accumulo/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-accumulo/</loc>
 	
 		<lastmod>2017-03-01T07:30:00+00:00</lastmod>
 	
@@ -4468,7 +4453,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-livy/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-livy/</loc>
 	
 		<lastmod>2017-03-02T07:30:00+00:00</lastmod>
 	
@@ -4483,7 +4468,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-data-platform-search/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-data-platform-search/</loc>
 	
 		<lastmod>2017-03-03T07:30:00+00:00</lastmod>
 	
@@ -4498,7 +4483,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hawq/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hawq/</loc>
 	
 		<lastmod>2017-03-06T00:00:00+00:00</lastmod>
 	
@@ -4513,7 +4498,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-ambari/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-ambari/</loc>
 	
 		<lastmod>2017-03-07T07:30:00+00:00</lastmod>
 	
@@ -4528,7 +4513,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-ambari/ambari-views/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-ambari/ambari-views/</loc>
 	
 		<lastmod>2017-03-08T07:30:00+00:00</lastmod>
 	
@@ -4543,7 +4528,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudbreak/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudbreak/</loc>
 	
 		<lastmod>2017-03-09T07:30:00+00:00</lastmod>
 	
@@ -4558,7 +4543,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-smartsense/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-smartsense/</loc>
 	
 		<lastmod>2017-03-10T07:30:00+00:00</lastmod>
 	
@@ -4573,7 +4558,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-data-flow/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-data-flow/</loc>
 	
 		<lastmod>2017-03-14T07:30:00+00:00</lastmod>
 	
@@ -4588,7 +4573,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-nifi/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-nifi/</loc>
 	
 		<lastmod>2017-03-15T07:30:00+00:00</lastmod>
 	
@@ -4603,7 +4588,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-nifi/minifi/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-nifi/minifi/</loc>
 	
 		<lastmod>2017-03-16T07:00:00+00:00</lastmod>
 	
@@ -4618,7 +4603,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-data-cloud-for-aws/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-data-cloud-for-aws/</loc>
 	
 		<lastmod>2017-03-17T07:30:00+00:00</lastmod>
 	
@@ -4633,7 +4618,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-data-platform-for-windows/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-data-platform-for-windows/</loc>
 	
 		<lastmod>2017-03-20T07:30:00+00:00</lastmod>
 	
@@ -4648,7 +4633,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-cdh/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-cdh/</loc>
 	
 		<lastmod>2017-03-21T07:00:00+00:00</lastmod>
 	
@@ -4663,7 +4648,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/llama/</loc>
+	<loc>https://ondataengineering.github.io/technologies/llama/</loc>
 	
 		<lastmod>2017-03-22T07:00:00+00:00</lastmod>
 	
@@ -4678,7 +4663,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-whirr/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-whirr/</loc>
 	
 		<lastmod>2017-03-23T07:30:00+00:00</lastmod>
 	
@@ -4693,7 +4678,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-impala/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-impala/</loc>
 	
 		<lastmod>2017-03-24T07:30:00+00:00</lastmod>
 	
@@ -4708,24 +4693,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-sentry/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-sentry/</loc>
 	
-		<lastmod>2017-03-27T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-search/</loc>
-	
-		<lastmod>2017-03-28T07:30:00+01:00</lastmod>
+		<lastmod>2017-03-27T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4738,24 +4708,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-kudu/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-search/</loc>
 	
-		<lastmod>2017-03-29T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/recordservice/</loc>
-	
-		<lastmod>2017-03-30T07:30:00+01:00</lastmod>
+		<lastmod>2017-03-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4768,24 +4723,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-manager/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-kudu/</loc>
 	
-		<lastmod>2017-04-10T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-navigator/</loc>
-	
-		<lastmod>2017-04-11T07:30:00+01:00</lastmod>
+		<lastmod>2017-03-29T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4798,24 +4738,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-navigator/data-management/</loc>
+	<loc>https://ondataengineering.github.io/technologies/recordservice/</loc>
 	
-		<lastmod>2017-04-11T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-navigator/data-encryption/</loc>
-	
-		<lastmod>2017-04-12T07:30:00+01:00</lastmod>
+		<lastmod>2017-03-30T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4828,24 +4753,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-navigator/optimizer/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-manager/</loc>
 	
-		<lastmod>2017-04-12T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-altus/director/</loc>
-	
-		<lastmod>2017-04-13T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-10T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4858,24 +4768,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/mapr-expansion-pack/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-navigator/</loc>
 	
-		<lastmod>2017-04-20T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-drill/</loc>
-	
-		<lastmod>2017-04-21T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-11T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4888,24 +4783,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-myriad/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-navigator/data-management/</loc>
 	
-		<lastmod>2017-04-24T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/mapr-monitoring/</loc>
-	
-		<lastmod>2017-04-25T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-11T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4918,24 +4798,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/mapr-fs/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-navigator/data-encryption/</loc>
 	
-		<lastmod>2017-04-27T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/mapr-db/</loc>
-	
-		<lastmod>2017-04-28T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-12T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4948,24 +4813,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/mapr-es/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-navigator/optimizer/</loc>
 	
-		<lastmod>2017-05-02T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/mapr-converged-data-platform/</loc>
-	
-		<lastmod>2017-05-03T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-12T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -4978,24 +4828,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-data-science-workbench/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-altus/director/</loc>
 	
-		<lastmod>2017-05-04T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/amazon-s3/</loc>
-	
-		<lastmod>2017-06-01T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-13T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5008,24 +4843,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/microsoft-azure-blob-storage/</loc>
+	<loc>https://ondataengineering.github.io/technologies/mapr-expansion-pack/</loc>
 	
-		<lastmod>2017-06-02T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/google-cloud-storage/</loc>
-	
-		<lastmod>2017-06-05T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-20T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5038,24 +4858,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/openstack-swift/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-drill/</loc>
 	
-		<lastmod>2017-06-06T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/scality-ring/</loc>
-	
-		<lastmod>2017-06-08T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-21T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5068,24 +4873,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/microsoft-azure-data-lake-store/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-myriad/</loc>
 	
-		<lastmod>2017-06-12T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-druid/</loc>
-	
-		<lastmod>2017-06-13T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-24T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5098,24 +4888,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-superset/</loc>
+	<loc>https://ondataengineering.github.io/technologies/mapr-monitoring/</loc>
 	
-		<lastmod>2017-06-14T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/schema-registry/</loc>
-	
-		<lastmod>2017-06-15T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-25T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5128,24 +4903,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/streaming-analytics-manager/</loc>
+	<loc>https://ondataengineering.github.io/technologies/mapr-fs/</loc>
 	
-		<lastmod>2017-06-16T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-altus/</loc>
-	
-		<lastmod>2017-06-19T08:00:00+01:00</lastmod>
+		<lastmod>2017-04-27T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5158,24 +4918,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/pravega/</loc>
+	<loc>https://ondataengineering.github.io/technologies/mapr-db/</loc>
 	
-		<lastmod>2017-06-27T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/confluent-open-source/</loc>
-	
-		<lastmod>2017-06-29T07:30:00+01:00</lastmod>
+		<lastmod>2017-04-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5188,24 +4933,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/confluent-enterprise/</loc>
+	<loc>https://ondataengineering.github.io/technologies/mapr-es/</loc>
 	
-		<lastmod>2017-06-29T08:15:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/elasticsearch/</loc>
-	
-		<lastmod>2017-07-04T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-02T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5218,24 +4948,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/elastic-x-pack/</loc>
+	<loc>https://ondataengineering.github.io/technologies/mapr-converged-data-platform/</loc>
 	
-		<lastmod>2017-07-05T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/elastic-cloud/</loc>
-	
-		<lastmod>2017-07-06T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-03T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5248,24 +4963,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/elasticsearch-hadoop/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-data-science-workbench/</loc>
 	
-		<lastmod>2017-07-06T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-cassandra/</loc>
-	
-		<lastmod>2017-07-11T07:30:00+01:00</lastmod>
+		<lastmod>2017-05-04T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5278,24 +4978,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-mesos/</loc>
+	<loc>https://ondataengineering.github.io/technologies/amazon-s3/</loc>
 	
-		<lastmod>2017-07-17T07:45:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-aurora/</loc>
-	
-		<lastmod>2017-07-18T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-01T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5308,24 +4993,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/chronos/</loc>
+	<loc>https://ondataengineering.github.io/technologies/microsoft-azure-blob-storage/</loc>
 	
-		<lastmod>2017-07-18T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/mesosphere-marathon/</loc>
-	
-		<lastmod>2017-07-19T07:45:00+01:00</lastmod>
+		<lastmod>2017-06-02T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5338,24 +5008,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/mesosphere-dcos/</loc>
+	<loc>https://ondataengineering.github.io/technologies/google-cloud-storage/</loc>
 	
-		<lastmod>2017-07-20T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-kylin/</loc>
-	
-		<lastmod>2017-08-21T07:45:00+01:00</lastmod>
+		<lastmod>2017-06-05T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5368,24 +5023,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-beam/</loc>
+	<loc>https://ondataengineering.github.io/technologies/openstack-swift/</loc>
 	
-		<lastmod>2017-08-22T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/rex-ray/</loc>
-	
-		<lastmod>2017-08-23T07:45:00+01:00</lastmod>
+		<lastmod>2017-06-06T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5398,24 +5038,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/zenko/</loc>
+	<loc>https://ondataengineering.github.io/technologies/scality-ring/</loc>
 	
-		<lastmod>2017-08-24T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/zenko/cloudserver/</loc>
-	
-		<lastmod>2017-08-24T07:45:00+01:00</lastmod>
+		<lastmod>2017-06-08T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5428,24 +5053,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-spark/structured-streaming/</loc>
+	<loc>https://ondataengineering.github.io/technologies/microsoft-azure-data-lake-store/</loc>
 	
-		<lastmod>2017-08-25T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/opentsdb/</loc>
-	
-		<lastmod>2017-08-30T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-12T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5458,24 +5068,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/influxdb/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-druid/</loc>
 	
-		<lastmod>2017-08-31T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/denodo-platform/</loc>
-	
-		<lastmod>2017-09-14T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-13T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5488,24 +5083,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-arrow/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-superset/</loc>
 	
-		<lastmod>2017-10-02T07:45:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-carbondata/</loc>
-	
-		<lastmod>2017-10-03T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-14T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5518,9 +5098,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-orc/</loc>
+	<loc>https://ondataengineering.github.io/technologies/schema-registry/</loc>
 	
-		<lastmod>2017-10-04T07:30:00+01:00</lastmod>
+		<lastmod>2017-06-15T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5533,7 +5113,412 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-dataplane/</loc>
+	<loc>https://ondataengineering.github.io/technologies/streaming-analytics-manager/</loc>
+	
+		<lastmod>2017-06-16T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-altus/</loc>
+	
+		<lastmod>2017-06-19T08:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/pravega/</loc>
+	
+		<lastmod>2017-06-27T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/confluent-open-source/</loc>
+	
+		<lastmod>2017-06-29T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/confluent-enterprise/</loc>
+	
+		<lastmod>2017-06-29T08:15:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/elasticsearch/</loc>
+	
+		<lastmod>2017-07-04T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/elastic-x-pack/</loc>
+	
+		<lastmod>2017-07-05T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/elastic-cloud/</loc>
+	
+		<lastmod>2017-07-06T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/elasticsearch-hadoop/</loc>
+	
+		<lastmod>2017-07-06T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-cassandra/</loc>
+	
+		<lastmod>2017-07-11T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-mesos/</loc>
+	
+		<lastmod>2017-07-17T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-aurora/</loc>
+	
+		<lastmod>2017-07-18T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/chronos/</loc>
+	
+		<lastmod>2017-07-18T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/mesosphere-marathon/</loc>
+	
+		<lastmod>2017-07-19T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/mesosphere-dcos/</loc>
+	
+		<lastmod>2017-07-20T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-kylin/</loc>
+	
+		<lastmod>2017-08-21T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-beam/</loc>
+	
+		<lastmod>2017-08-22T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/rex-ray/</loc>
+	
+		<lastmod>2017-08-23T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/zenko/</loc>
+	
+		<lastmod>2017-08-24T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/zenko/cloudserver/</loc>
+	
+		<lastmod>2017-08-24T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-spark/structured-streaming/</loc>
+	
+		<lastmod>2017-08-25T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/opentsdb/</loc>
+	
+		<lastmod>2017-08-30T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/influxdb/</loc>
+	
+		<lastmod>2017-08-31T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/denodo-platform/</loc>
+	
+		<lastmod>2017-09-14T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-arrow/</loc>
+	
+		<lastmod>2017-10-02T07:45:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-carbondata/</loc>
+	
+		<lastmod>2017-10-03T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/apache-orc/</loc>
+	
+		<lastmod>2017-10-04T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-dataplane/</loc>
 	
 		<lastmod>2017-11-02T07:30:00+00:00</lastmod>
 	
@@ -5548,7 +5533,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/streamsets-data-collector/</loc>
+	<loc>https://ondataengineering.github.io/technologies/streamsets-data-collector/</loc>
 	
 		<lastmod>2017-12-05T00:00:00+00:00</lastmod>
 	
@@ -5563,7 +5548,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-gobblin/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-gobblin/</loc>
 	
 		<lastmod>2017-12-06T07:30:00+00:00</lastmod>
 	
@@ -5578,7 +5563,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-altus/data-engineering/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-altus/data-engineering/</loc>
 	
 		<lastmod>2018-03-09T07:30:00+00:00</lastmod>
 	
@@ -5593,7 +5578,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/cloudera-altus/data-warehouse/</loc>
+	<loc>https://ondataengineering.github.io/technologies/cloudera-altus/data-warehouse/</loc>
 	
 		<lastmod>2018-03-09T07:30:00+00:00</lastmod>
 	
@@ -5608,7 +5593,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-nifi/registry/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-nifi/registry/</loc>
 	
 		<lastmod>2018-03-09T08:30:00+00:00</lastmod>
 	
@@ -5623,7 +5608,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/openlink-virtuoso-universal-server/</loc>
+	<loc>https://ondataengineering.github.io/technologies/openlink-virtuoso-universal-server/</loc>
 	
 		<lastmod>2018-03-22T00:00:00+00:00</lastmod>
 	
@@ -5638,24 +5623,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hadoop/hdds/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hadoop/hdds/</loc>
 	
-		<lastmod>2018-09-21T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/apache-hadoop/ozone/</loc>
-	
-		<lastmod>2018-09-21T00:00:00+01:00</lastmod>
+		<lastmod>2018-09-21T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5668,24 +5638,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-dataplane/data-analytics-studio/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-hadoop/ozone/</loc>
 	
-		<lastmod>2018-09-28T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-dataplane/data-lifecycle-manager/</loc>
-	
-		<lastmod>2018-09-28T07:30:00+01:00</lastmod>
+		<lastmod>2018-09-21T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5698,24 +5653,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-dataplane/data-steward-studio/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-dataplane/data-analytics-studio/</loc>
 	
-		<lastmod>2018-09-28T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/hortonworks-dataplane/streams-messaging-manager/</loc>
-	
-		<lastmod>2018-09-28T07:30:00+01:00</lastmod>
+		<lastmod>2018-09-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5728,24 +5668,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/presto/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-dataplane/data-lifecycle-manager/</loc>
 	
-		<lastmod>2018-10-02T07:30:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/amazon-emr/</loc>
-	
-		<lastmod>2018-10-09T00:00:00+01:00</lastmod>
+		<lastmod>2018-09-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5758,24 +5683,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/azure-hdinsight/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-dataplane/data-steward-studio/</loc>
 	
-		<lastmod>2018-10-09T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/google-cloud-dataproc/</loc>
-	
-		<lastmod>2018-10-11T00:00:00+01:00</lastmod>
+		<lastmod>2018-09-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5788,9 +5698,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/qubole-data-service/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hortonworks-dataplane/streams-messaging-manager/</loc>
 	
-		<lastmod>2018-10-12T00:00:00+01:00</lastmod>
+		<lastmod>2018-09-28T07:30:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5803,7 +5713,82 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/databricks-delta/</loc>
+	<loc>https://ondataengineering.github.io/technologies/presto/</loc>
+	
+		<lastmod>2018-10-02T07:30:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/amazon-emr/</loc>
+	
+		<lastmod>2018-10-09T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/azure-hdinsight/</loc>
+	
+		<lastmod>2018-10-09T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/google-cloud-dataproc/</loc>
+	
+		<lastmod>2018-10-11T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/qubole-data-service/</loc>
+	
+		<lastmod>2018-10-12T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/databricks-delta/</loc>
 	
 		<lastmod>2018-11-08T00:00:00+00:00</lastmod>
 	
@@ -5818,7 +5803,7 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/hudi/</loc>
+	<loc>https://ondataengineering.github.io/technologies/hudi/</loc>
 	
 		<lastmod>2018-11-15T00:00:00+00:00</lastmod>
 	
@@ -5833,24 +5818,9 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/apache-airflow/</loc>
+	<loc>https://ondataengineering.github.io/technologies/apache-airflow/</loc>
 	
-		<lastmod>2019-05-14T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>daily</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>https://ondataengineering.net/technologies/google-cloud-composer/</loc>
-	
-		<lastmod>2019-05-14T00:00:00+01:00</lastmod>
+		<lastmod>2019-05-14T00:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
@@ -5863,9 +5833,24 @@
 
 	
 	<url>
-	<loc>https://ondataengineering.net/technologies/datakitchen-devops-platform/</loc>
+	<loc>https://ondataengineering.github.io/technologies/google-cloud-composer/</loc>
 	
-		<lastmod>2019-06-25T08:00:00+01:00</lastmod>
+		<lastmod>2019-05-14T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>daily</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://ondataengineering.github.io/technologies/datakitchen-devops-platform/</loc>
+	
+		<lastmod>2019-06-25T08:00:00+00:00</lastmod>
 	
 	
 		<changefreq>daily</changefreq>
